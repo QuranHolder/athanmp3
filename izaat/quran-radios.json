@@ -5,8 +5,8 @@
     "category": "official",
     "badge": "البث الرسمي المباشر",
     "country": "مصر",
-    "streamUrl": "https://stream.radiojar.com/8s5u5tpdtwzuv",
-    "backupUrl": "https://radio.xecod.com/station/quran-cairo",
+    "streamUrl": "https://stream.zeno.fm/4x4f43v52hhvv",
+    "backupUrl": "https://stream.zeno.fm/tv0x28xvyc9uv",
     "description": "البث الحي المباشر لإذاعة القرآن الكريم من القاهرة - تلاوات وبرامج دينية على مدار الساعة",
     "isVerified": true,
     "order": 1
@@ -17,7 +17,8 @@
     "category": "official",
     "badge": "البث الرسمي المباشر",
     "country": "السعودية",
-    "streamUrl": "https://stream.radiojar.com/0tpy1h0kxtzuv",
+    "streamUrl": "https://edge.mixlr.com/channel/rwumx",
+    "backupUrl": "https://stream.radiojar.com/4wqre23fytzuv",
     "description": "البث المباشر لإذاعة القرآن الكريم من الرياض ومكة المكرمة - هيئة الإذاعة والتلفزيون",
     "isVerified": true,
     "order": 2
