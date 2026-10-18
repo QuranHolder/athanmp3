@@ -281,6 +281,102 @@
     "order": 24
   },
   {
+    "id": "shaarawi_tafsir_radio",
+    "name": "إذاعة الشيخ محمد متولي الشعراوي - خواطر التفسير",
+    "category": "official",
+    "badge": "تفسير وخواطر",
+    "country": "مصر",
+    "streamUrl": "https://stream.zeno.fm/guuggdfrvssuv",
+    "backupUrl": "https://archive.org/metadata/Khwater.El-Sharawy.Fi.Tafsir.EL-Quran-Karim-Up-By-mUSLEm",
+    "description": "بث مباشر ومتواصل لخواطر فضيلة الشيخ محمد متولي الشعراوي حول آيات القرآن الكريم وتفسيره",
+    "isVerified": true,
+    "order": 25
+  },
+  {
+    "id": "shaarawi_qasas_radio",
+    "name": "الشيخ محمد متولي الشعراوي - قصص الأنبياء والسيرة",
+    "category": "official",
+    "badge": "قصص وسيرة",
+    "country": "مصر",
+    "streamUrl": "https://archive.org/metadata/Islamic_Tape-250_uP_bY_mUSLEm",
+    "backupUrl": "https://stream.zeno.fm/guuggdfrvssuv",
+    "description": "حلقات متواصلة لقصص الأنبياء ودروس السيرة النبوية بصوت إمام الدعاة الشيخ محمد متولي الشعراوي رحمه الله",
+    "isVerified": true,
+    "order": 26
+  },
+  {
+    "id": "kamali_muwatta_radio",
+    "name": "الشيخ سعيد الكملي - شرح موطأ الإمام مالك",
+    "category": "official",
+    "badge": "شرح الموطأ",
+    "country": "المغرب",
+    "streamUrl": "https://archive.org/metadata/al-mowataa_Mp3",
+    "backupUrl": "https://archive.org/metadata/al-mowataa_Hadith",
+    "description": "بث متواصل لدروس ومجالس شرح موطأ الإمام مالك بن أنس لفضيلة الشيخ الدكتور سعيد الكملي",
+    "isVerified": true,
+    "order": 27
+  },
+  {
+    "id": "kamali_muwatta_men_radio",
+    "name": "الشيخ سعيد الكملي - تراجم رجال الموطأ ومصطلح الحديث",
+    "category": "official",
+    "badge": "تراجم ومصطلح",
+    "country": "المغرب",
+    "streamUrl": "https://archive.org/metadata/al-mowataa_Men",
+    "backupUrl": "https://archive.org/metadata/al-mowataa_HadithTerms",
+    "description": "مجالس علمية في تراجم رجال موطأ الإمام مالك وأصول رواية الحديث للشيخ الدكتور سعيد الكملي",
+    "isVerified": true,
+    "order": 28
+  },
+  {
+    "id": "kamali_muwatta_lataif_radio",
+    "name": "الشيخ سعيد الكملي - فوائد ولطائف من مجالس الموطأ",
+    "category": "official",
+    "badge": "درر ولطائف",
+    "country": "المغرب",
+    "streamUrl": "https://archive.org/metadata/al-mowataa_Mix",
+    "backupUrl": "https://archive.org/metadata/al-mowataa_Mp3",
+    "description": "مختارات ورقائق وفوائد علمية وأدبية منتقاة من مجالس شرح الموطأ للشيخ سعيد الكملي",
+    "isVerified": true,
+    "order": 29
+  },
+  {
+    "id": "kamali_sirah_radio",
+    "name": "الشيخ سعيد الكملي - برنامج سيرة الحبيب ﷺ",
+    "category": "official",
+    "badge": "السيرة النبوية",
+    "country": "المغرب",
+    "streamUrl": "https://archive.org/metadata/SiratAlhabib",
+    "backupUrl": "https://archive.org/metadata/sera-saeed-kumaly",
+    "description": "حلقات برنامج سيرة الحبيب المصطفى صلى الله عليه وسلم وشمائله للشيخ الدكتور سعيد الكملي",
+    "isVerified": true,
+    "order": 30
+  },
+  {
+    "id": "kamali_fiqh_radio",
+    "name": "الشيخ سعيد الكملي - الفقه المالكي وشرح متن ابن عاشر",
+    "category": "official",
+    "badge": "فقه ومتون",
+    "country": "المغرب",
+    "streamUrl": "https://archive.org/metadata/Matne-alBachar_up-by_ayoub-islam",
+    "backupUrl": "https://archive.org/metadata/ksuhiyp_gmail_147",
+    "description": "دروس الفقه المالكي وشرح متن المرشد المعين على الضروري من علوم الدين للشيخ سعيد الكملي",
+    "isVerified": true,
+    "order": 31
+  },
+  {
+    "id": "kamali_lectures_radio",
+    "name": "الشيخ سعيد الكملي - محاضرات وخطب ودروس علمية",
+    "category": "official",
+    "badge": "محاضرات وخطب",
+    "country": "المغرب",
+    "streamUrl": "https://archive.org/metadata/said-alkamaly",
+    "backupUrl": "https://archive.org/metadata/MohadarateSaidAlKamali",
+    "description": "موسوعة المحاضرات والخطب المنبرية والكراسي العلمية المتنوعة للشيخ الدكتور سعيد الكملي",
+    "isVerified": true,
+    "order": 32
+  },
+  {
     "id": "mukhtasar_tafsir",
     "name": "إذاعة المختصر في تفسير القرآن الكريم",
     "category": "official",
@@ -290,7 +386,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mukhtasartafsir",
     "description": "تلاوة آيات القرآن الكريم مع قراءة بيان معانيها من كتاب المختصر في التفسير",
     "isVerified": true,
-    "order": 25
+    "order": 33
   },
   {
     "id": "tafseer_general",
@@ -302,7 +398,7 @@
     "backupUrl": "https://backup.qurango.net/radio/tafseer",
     "description": "بث مستمر لتفسير سور وآيات القرآن الكريم بأسلوب ميسر",
     "isVerified": true,
-    "order": 26
+    "order": 34
   },
   {
     "id": "tabari_tafsir",
@@ -314,7 +410,18 @@
     "backupUrl": "https://backup.qurango.net/radio/tabri",
     "description": "بث إذاعي متواصل للخلاصة المعتمدة من جامع البيان في تأويل القرآن للإمام الطبري",
     "isVerified": true,
-    "order": 27
+    "order": 35
+  },
+  {
+    "id": "sirajuddin_tafsir_radio",
+    "name": "إذاعة الشيخ عبد الله سراج الدين - تفسير ودروس علمية",
+    "category": "official",
+    "badge": "تفسير وحديث",
+    "country": "سوريا",
+    "streamUrl": "https://stream.zeno.fm/mu9cc7cgof2uv",
+    "description": "بث مباشر لدروس التفسير والحديث الشريف والشمائل المحمدية للعلامة المفسر الشيخ عبد الله سراج الدين رحمه الله",
+    "isVerified": true,
+    "order": 36
   },
   {
     "id": "gareeb_quran",
@@ -326,7 +433,7 @@
     "backupUrl": "https://backup.qurango.net/radio/gareeb-quran",
     "description": "إيضاح معاني المفردات وغريب الألفاظ في سور القرآن الكريم",
     "isVerified": true,
-    "order": 28
+    "order": 37
   },
   {
     "id": "sahih_bukhari_radio",
@@ -338,7 +445,7 @@
     "backupUrl": "https://backup.qurango.net/radio/saheh-bokharee",
     "description": "قراءة متواصلة لأحاديث الجامع المسند الصحيح للإمام محمد بن إسماعيل البخاري",
     "isVerified": true,
-    "order": 29
+    "order": 38
   },
   {
     "id": "sahih_muslim_radio",
@@ -350,7 +457,7 @@
     "backupUrl": "https://backup.qurango.net/radio/saheh-muslim",
     "description": "قراءة متواصلة لأحاديث المسند الصحيح للإمام مسلم بن الحجاج النيسابوري",
     "isVerified": true,
-    "order": 30
+    "order": 39
   },
   {
     "id": "riyad_assaliheen_radio",
@@ -362,7 +469,19 @@
     "backupUrl": "https://backup.qurango.net/radio/riyad",
     "description": "قراءة وشرح أحاديث كتاب رياض الصالحين من كلام سيد المرسلين",
     "isVerified": true,
-    "order": 31
+    "order": 40
+  },
+  {
+    "id": "uthaymeen_riyad_radio",
+    "name": "الشيخ محمد بن صالح العثيمين - شرح رياض الصالحين",
+    "category": "official",
+    "badge": "شرح الحديث",
+    "country": "السعودية",
+    "streamUrl": "https://archive.org/metadata/06Shar7KetabReyadhAlSal7een",
+    "backupUrl": "https://qurango.net/radio/riyad",
+    "description": "المجالس الكاملة لشرح كتاب رياض الصالحين للإمام النووي بصوت الشيخ محمد بن صالح العثيمين رحمه الله",
+    "isVerified": true,
+    "order": 41
   },
   {
     "id": "fi_zilal_alsiyra_radio",
@@ -374,7 +493,7 @@
     "backupUrl": "https://backup.qurango.net/radio/fi_zilal_alsiyra",
     "description": "حلقات متكاملة ومشوقة في سيرة النبي محمد صلى الله عليه وسلم ومغازيه وشمائله",
     "isVerified": true,
-    "order": 32
+    "order": 42
   },
   {
     "id": "mukhtasar_alsiyra_radio",
@@ -386,7 +505,7 @@
     "backupUrl": "https://backup.qurango.net/radio/almukhtasar_fi_alsiyra",
     "description": "عرض ميسر وموثق لأحداث السيرة النبوية العطرة من المولد إلى الوفاة",
     "isVerified": true,
-    "order": 33
+    "order": 43
   },
   {
     "id": "shamael_radio",
@@ -398,7 +517,7 @@
     "backupUrl": "https://backup.qurango.net/radio/shmaeel",
     "description": "التعريف بأخلاق النبي صلى الله عليه وسلم وصفاته وهديه في عبادته ومعاملته",
     "isVerified": true,
-    "order": 34
+    "order": 44
   },
   {
     "id": "sahabah_stories_radio",
@@ -410,7 +529,7 @@
     "backupUrl": "https://backup.qurango.net/radio/sahabah",
     "description": "مواقف خالدة وسير عطرة من حياة صحابة رسول الله صلى الله عليه وسلم والتابعين",
     "isVerified": true,
-    "order": 35
+    "order": 45
   },
   {
     "id": "qasas_alanbiya_radio",
@@ -422,7 +541,7 @@
     "backupUrl": "https://backup.qurango.net/radio/alanbiya",
     "description": "عرض قصص الأنبياء والمرسلين عليهم السلام كما وردت في القرآن الكريم والسنة الصحيحة",
     "isVerified": true,
-    "order": 36
+    "order": 46
   },
   {
     "id": "fatwa_radio",
@@ -434,7 +553,7 @@
     "backupUrl": "https://backup.qurango.net/radio/fatwa",
     "description": "بث مستمر للفتاوى الشرعية والإجابات الفقهية لكبار العلماء",
     "isVerified": true,
-    "order": 37
+    "order": 47
   },
   {
     "id": "ikhtiarat_bin_baz_radio",
@@ -446,7 +565,29 @@
     "backupUrl": "https://backup.qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
     "description": "قراءة في مسائل العبادات والمعاملات والاختيارات الفقهية للشيخ عبد العزيز بن باز رحمه الله",
     "isVerified": true,
-    "order": 38
+    "order": 48
+  },
+  {
+    "id": "naqshbandi_ibtihalat_radio",
+    "name": "إذاعة الشيخ سيد النقشبندي - الابتهالات والتواشيح",
+    "category": "official",
+    "badge": "ابتهالات خالدة",
+    "country": "مصر",
+    "streamUrl": "https://stream.zeno.fm/s0vc98c0pnhvv",
+    "description": "بث مباشر لروائع الابتهالات الدينية والأدعية الخاشعة بصوت كروان الإذاعة الشيخ سيد النقشبندي رحمه الله",
+    "isVerified": true,
+    "order": 49
+  },
+  {
+    "id": "mohammed_refaat",
+    "name": "الشيخ محمد رفعت (تلاوات نادرة وخالدة)",
+    "category": "reciters",
+    "badge": "تلاوات تاريخية نادرة",
+    "country": "مصر",
+    "streamUrl": "https://radio.mp3islam.com/listen/refaat/radio.mp3",
+    "description": "التلاوات الإذاعية التاريخية الخالدة لقيثارة السماء فضيلة الشيخ محمد رفعت رحمه الله",
+    "isVerified": true,
+    "order": 100
   },
   {
     "id": "hussary_murattal",
