@@ -568,17 +568,6 @@
     "order": 48
   },
   {
-    "id": "naqshbandi_ibtihalat_radio",
-    "name": "إذاعة الشيخ سيد النقشبندي - الابتهالات والتواشيح",
-    "category": "official",
-    "badge": "ابتهالات خالدة",
-    "country": "مصر",
-    "streamUrl": "https://stream.zeno.fm/s0vc98c0pnhvv",
-    "description": "بث مباشر لروائع الابتهالات الدينية والأدعية الخاشعة بصوت كروان الإذاعة الشيخ سيد النقشبندي رحمه الله",
-    "isVerified": true,
-    "order": 49
-  },
-  {
     "id": "mohammed_refaat",
     "name": "الشيخ محمد رفعت (تلاوات نادرة وخالدة)",
     "category": "reciters",

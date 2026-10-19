@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "20261019170818",
-  "generatedAt": "2026-10-19T17:08:18+00:00",
+  "catalogVersion": "20261019200924",
+  "generatedAt": "2026-10-19T20:09:24+00:00",
   "language": "ar",
   "primarySource": "mp3quran",
   "sources": [
@@ -31,6 +31,15 @@
       "catalogEndpoint": "https://everyayah.com/data/recitations.js",
       "enabled": true,
       "notes": "Verse-by-verse audio and educational recitations from EveryAyah."
+    },
+    {
+      "id": "midad",
+      "name": "Midad",
+      "website": "https://midad.com",
+      "apiBase": "https://midad.com",
+      "catalogEndpoint": "https://midad.com/collection/465379",
+      "enabled": true,
+      "notes": "Recitations curated from Midad collections."
     }
   ],
   "riwayat": [
@@ -136,6 +145,15 @@
     }
   ],
   "reciters": [
+    {
+      "id": "quranicaudio_reciter_165",
+      "name": "إبراهيم واك",
+      "letter": "أ",
+      "recitations": [
+        "quranicaudio_165",
+        "everyayah_ibrahim_walk"
+      ]
+    },
     {
       "id": "mp3quran_reciter_205",
       "name": "أحمد الحذيفي",
@@ -312,15 +330,6 @@
       ]
     },
     {
-      "id": "quranicaudio_reciter_165",
-      "name": "إبراهيم واك",
-      "letter": "أ",
-      "recitations": [
-        "quranicaudio_165",
-        "everyayah_ibrahim_walk"
-      ]
-    },
-    {
       "id": "mp3quran_reciter_1",
       "name": "إبراهيم الأخضر",
       "letter": "إ",
@@ -464,6 +473,14 @@
       "letter": "ا",
       "recitations": [
         "mp3quran_21188_10910"
+      ]
+    },
+    {
+      "id": "midad_reciter_53345",
+      "name": "باسل مؤنس",
+      "letter": "ب",
+      "recitations": [
+        "midad_53345_465379"
       ]
     },
     {
@@ -1815,17 +1832,6 @@
       ]
     },
     {
-      "id": "mp3quran_reciter_109",
-      "name": "محمد أيوب",
-      "letter": "م",
-      "recitations": [
-        "mp3quran_109_320",
-        "mp3quran_109_109",
-        "quranicaudio_39",
-        "quranicaudio_107"
-      ]
-    },
-    {
       "id": "quranicaudio_reciter_92",
       "name": "محمد إسماعيل المقدم",
       "letter": "م",
@@ -1921,6 +1927,17 @@
       "letter": "م",
       "recitations": [
         "mp3quran_150_150"
+      ]
+    },
+    {
+      "id": "mp3quran_reciter_109",
+      "name": "محمد أيوب",
+      "letter": "م",
+      "recitations": [
+        "mp3quran_109_320",
+        "mp3quran_109_109",
+        "quranicaudio_39",
+        "quranicaudio_107"
       ]
     },
     {
@@ -2131,22 +2148,6 @@
       ]
     },
     {
-      "id": "quranicaudio_reciter_58",
-      "name": "مشارى راشد مع إبراهيم واق",
-      "letter": "م",
-      "recitations": [
-        "quranicaudio_58"
-      ]
-    },
-    {
-      "id": "quranicaudio_reciter_49",
-      "name": "مشارى راشد مع صابر",
-      "letter": "م",
-      "recitations": [
-        "quranicaudio_49"
-      ]
-    },
-    {
       "id": "mp3quran_reciter_123",
       "name": "مشاري العفاسي",
       "letter": "م",
@@ -2161,6 +2162,22 @@
       "letter": "م",
       "recitations": [
         "quranicaudio_95"
+      ]
+    },
+    {
+      "id": "quranicaudio_reciter_58",
+      "name": "مشارى راشد مع إبراهيم واق",
+      "letter": "م",
+      "recitations": [
+        "quranicaudio_58"
+      ]
+    },
+    {
+      "id": "quranicaudio_reciter_49",
+      "name": "مشارى راشد مع صابر",
+      "letter": "م",
+      "recitations": [
+        "quranicaudio_49"
       ]
     },
     {
@@ -2647,6 +2664,45 @@
       "enabled": true
     },
     {
+      "id": "midad_53345_465379",
+      "reciterId": "midad_reciter_53345",
+      "sourceId": "midad",
+      "reciterName": "باسل مؤنس",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwaya": "حفص عن عاصم",
+      "server": "https://archive.org/download/basil-mounes/",
+      "filePattern": "{surah3}.mp3",
+      "urlTemplate": "https://archive.org/download/basil-mounes/{surah3}.mp3",
+      "surahCount": 68,
+      "enabled": true
+    },
+    {
+      "id": "mp3quran_1_1",
+      "reciterId": "mp3quran_reciter_1",
+      "sourceId": "mp3quran",
+      "reciterName": "إبراهيم الأخضر",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwaya": "حفص عن عاصم",
+      "server": "https://cdn.mp3quran.net/audio/ibrahim-akhdar/r1/",
+      "filePattern": "{surah3}.mp3",
+      "urlTemplate": "https://cdn.mp3quran.net/audio/ibrahim-akhdar/r1/{surah3}.mp3",
+      "surahCount": 114,
+      "enabled": true
+    },
+    {
+      "id": "mp3quran_10_10",
+      "reciterId": "mp3quran_reciter_10",
+      "sourceId": "mp3quran",
+      "reciterName": "أكرم العلاقمي",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwaya": "حفص عن عاصم",
+      "server": "https://cdn.mp3quran.net/audio/akram-alaqmi/r1/",
+      "filePattern": "{surah3}.mp3",
+      "urlTemplate": "https://cdn.mp3quran.net/audio/akram-alaqmi/r1/{surah3}.mp3",
+      "surahCount": 114,
+      "enabled": true
+    },
+    {
       "id": "mp3quran_100_100",
       "reciterId": "mp3quran_reciter_100",
       "sourceId": "mp3quran",
@@ -2803,16 +2859,16 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_10_10",
-      "reciterId": "mp3quran_reciter_10",
+      "id": "mp3quran_11_11",
+      "reciterId": "mp3quran_reciter_11",
       "sourceId": "mp3quran",
-      "reciterName": "أكرم العلاقمي",
-      "moshafName": "حفص عن عاصم - مرتل",
-      "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/akram-alaqmi/r1/",
+      "reciterName": "الحسيني العزازي",
+      "moshafName": "المصحف المعلم - المصحف المعلم",
+      "riwaya": "المصحف المعلم",
+      "server": "https://cdn.mp3quran.net/audio/husayni-azazi/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/akram-alaqmi/r1/{surah3}.mp3",
-      "surahCount": 114,
+      "urlTemplate": "https://cdn.mp3quran.net/audio/husayni-azazi/r1/{surah3}.mp3",
+      "surahCount": 57,
       "enabled": true
     },
     {
@@ -3011,16 +3067,16 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_11_11",
-      "reciterId": "mp3quran_reciter_11",
+      "id": "mp3quran_12_12",
+      "reciterId": "mp3quran_reciter_12",
       "sourceId": "mp3quran",
-      "reciterName": "الحسيني العزازي",
-      "moshafName": "المصحف المعلم - المصحف المعلم",
-      "riwaya": "المصحف المعلم",
-      "server": "https://cdn.mp3quran.net/audio/husayni-azazi/r1/",
+      "reciterName": "إدريس أبكر",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwaya": "حفص عن عاصم",
+      "server": "https://cdn.mp3quran.net/audio/idrees-abkar/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/husayni-azazi/r1/{surah3}.mp3",
-      "surahCount": 57,
+      "urlTemplate": "https://cdn.mp3quran.net/audio/idrees-abkar/r1/{surah3}.mp3",
+      "surahCount": 114,
       "enabled": true
     },
     {
@@ -3206,15 +3262,15 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_12_12",
-      "reciterId": "mp3quran_reciter_12",
+      "id": "mp3quran_13_13",
+      "reciterId": "mp3quran_reciter_13",
       "sourceId": "mp3quran",
-      "reciterName": "إدريس أبكر",
+      "reciterName": "الزين محمد أحمد",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/idrees-abkar/r1/",
+      "server": "https://cdn.mp3quran.net/audio/zain-ahmad/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/idrees-abkar/r1/{surah3}.mp3",
+      "urlTemplate": "https://cdn.mp3quran.net/audio/zain-ahmad/r1/{surah3}.mp3",
       "surahCount": 114,
       "enabled": true
     },
@@ -3297,15 +3353,15 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_13_13",
-      "reciterId": "mp3quran_reciter_13",
+      "id": "mp3quran_14_14",
+      "reciterId": "mp3quran_reciter_14",
       "sourceId": "mp3quran",
-      "reciterName": "الزين محمد أحمد",
-      "moshafName": "حفص عن عاصم - مرتل",
-      "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/zain-ahmad/r1/",
+      "reciterName": "القارئ ياسين",
+      "moshafName": "ورش عن نافع - مرتل",
+      "riwaya": "ورش عن نافع",
+      "server": "https://cdn.mp3quran.net/audio/yassen-jazairi/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/zain-ahmad/r1/{surah3}.mp3",
+      "urlTemplate": "https://cdn.mp3quran.net/audio/yassen-jazairi/r1/{surah3}.mp3",
       "surahCount": 114,
       "enabled": true
     },
@@ -3323,16 +3379,16 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_14_14",
-      "reciterId": "mp3quran_reciter_14",
+      "id": "mp3quran_15_15",
+      "reciterId": "mp3quran_reciter_15",
       "sourceId": "mp3quran",
-      "reciterName": "القارئ ياسين",
-      "moshafName": "ورش عن نافع - مرتل",
-      "riwaya": "ورش عن نافع",
-      "server": "https://cdn.mp3quran.net/audio/yassen-jazairi/r1/",
+      "reciterName": "العشري عمران",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwaya": "حفص عن عاصم",
+      "server": "https://cdn.mp3quran.net/audio/ashri-omran/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/yassen-jazairi/r1/{surah3}.mp3",
-      "surahCount": 114,
+      "urlTemplate": "https://cdn.mp3quran.net/audio/ashri-omran/r1/{surah3}.mp3",
+      "surahCount": 113,
       "enabled": true
     },
     {
@@ -3414,16 +3470,16 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_15_15",
-      "reciterId": "mp3quran_reciter_15",
+      "id": "mp3quran_16_16",
+      "reciterId": "mp3quran_reciter_16",
       "sourceId": "mp3quran",
-      "reciterName": "العشري عمران",
-      "moshafName": "حفص عن عاصم - مرتل",
-      "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/ashri-omran/r1/",
+      "reciterName": "العيون الكوشي",
+      "moshafName": "ورش عن نافع - مرتل",
+      "riwaya": "ورش عن نافع",
+      "server": "https://cdn.mp3quran.net/audio/laayoun-kouchi/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/ashri-omran/r1/{surah3}.mp3",
-      "surahCount": 113,
+      "urlTemplate": "https://cdn.mp3quran.net/audio/laayoun-kouchi/r1/{surah3}.mp3",
+      "surahCount": 114,
       "enabled": true
     },
     {
@@ -3531,15 +3587,15 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_16_16",
-      "reciterId": "mp3quran_reciter_16",
+      "id": "mp3quran_17_17",
+      "reciterId": "mp3quran_reciter_17",
       "sourceId": "mp3quran",
-      "reciterName": "العيون الكوشي",
-      "moshafName": "ورش عن نافع - مرتل",
-      "riwaya": "ورش عن نافع",
-      "server": "https://cdn.mp3quran.net/audio/laayoun-kouchi/r1/",
+      "reciterName": "توفيق الصايغ",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwaya": "حفص عن عاصم",
+      "server": "https://cdn.mp3quran.net/audio/tawfeeq-sayegh/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/laayoun-kouchi/r1/{surah3}.mp3",
+      "urlTemplate": "https://cdn.mp3quran.net/audio/tawfeeq-sayegh/r1/{surah3}.mp3",
       "surahCount": 114,
       "enabled": true
     },
@@ -3570,15 +3626,15 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_17_17",
-      "reciterId": "mp3quran_reciter_17",
+      "id": "mp3quran_18_18",
+      "reciterId": "mp3quran_reciter_18",
       "sourceId": "mp3quran",
-      "reciterName": "توفيق الصايغ",
+      "reciterName": "جمال شاكر عبدالله",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/tawfeeq-sayegh/r1/",
+      "server": "https://cdn.mp3quran.net/audio/jamal-abdullah/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/tawfeeq-sayegh/r1/{surah3}.mp3",
+      "urlTemplate": "https://cdn.mp3quran.net/audio/jamal-abdullah/r1/{surah3}.mp3",
       "surahCount": 114,
       "enabled": true
     },
@@ -3674,16 +3730,16 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_18_18",
-      "reciterId": "mp3quran_reciter_18",
+      "id": "mp3quran_19_19",
+      "reciterId": "mp3quran_reciter_19",
       "sourceId": "mp3quran",
-      "reciterName": "جمال شاكر عبدالله",
+      "reciterName": "حمد الدغريري",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/jamal-abdullah/r1/",
+      "server": "https://cdn.mp3quran.net/audio/hamad-daghriri/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/jamal-abdullah/r1/{surah3}.mp3",
-      "surahCount": 114,
+      "urlTemplate": "https://cdn.mp3quran.net/audio/hamad-daghriri/r1/{surah3}.mp3",
+      "surahCount": 88,
       "enabled": true
     },
     {
@@ -3778,28 +3834,28 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_19_19",
-      "reciterId": "mp3quran_reciter_19",
+      "id": "mp3quran_2_2",
+      "reciterId": "mp3quran_reciter_2",
       "sourceId": "mp3quran",
-      "reciterName": "حمد الدغريري",
+      "reciterName": "إبراهيم الجبرين",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/hamad-daghriri/r1/",
+      "server": "https://cdn.mp3quran.net/audio/ibrahim-jibreen/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/hamad-daghriri/r1/{surah3}.mp3",
-      "surahCount": 88,
+      "urlTemplate": "https://cdn.mp3quran.net/audio/ibrahim-jibreen/r1/{surah3}.mp3",
+      "surahCount": 107,
       "enabled": true
     },
     {
-      "id": "mp3quran_1_1",
-      "reciterId": "mp3quran_reciter_1",
+      "id": "mp3quran_20_20",
+      "reciterId": "mp3quran_reciter_20",
       "sourceId": "mp3quran",
-      "reciterName": "إبراهيم الأخضر",
+      "reciterName": "خالد الجليل",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/ibrahim-akhdar/r1/",
+      "server": "https://cdn.mp3quran.net/audio/khalid-jalil/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/ibrahim-akhdar/r1/{surah3}.mp3",
+      "urlTemplate": "https://cdn.mp3quran.net/audio/khalid-jalil/r1/{surah3}.mp3",
       "surahCount": 114,
       "enabled": true
     },
@@ -3934,15 +3990,28 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_20_20",
-      "reciterId": "mp3quran_reciter_20",
+      "id": "mp3quran_21_21",
+      "reciterId": "mp3quran_reciter_21",
       "sourceId": "mp3quran",
-      "reciterName": "خالد الجليل",
+      "reciterName": "خالد القحطاني",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/khalid-jalil/r1/",
+      "server": "https://cdn.mp3quran.net/audio/khalid-qahtani/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/khalid-jalil/r1/{surah3}.mp3",
+      "urlTemplate": "https://cdn.mp3quran.net/audio/khalid-qahtani/r1/{surah3}.mp3",
+      "surahCount": 114,
+      "enabled": true
+    },
+    {
+      "id": "mp3quran_211_211",
+      "reciterId": "mp3quran_reciter_211",
+      "sourceId": "mp3quran",
+      "reciterName": "الفاتح محمد الزبير",
+      "moshafName": "الدوري عن أبي عمرو - مرتل",
+      "riwaya": "الدوري عن أبي عمرو",
+      "server": "https://cdn.mp3quran.net/audio/fateh-zubair/r1/",
+      "filePattern": "{surah3}.mp3",
+      "urlTemplate": "https://cdn.mp3quran.net/audio/fateh-zubair/r1/{surah3}.mp3",
       "surahCount": 114,
       "enabled": true
     },
@@ -4129,15 +4198,15 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_211_211",
-      "reciterId": "mp3quran_reciter_211",
+      "id": "mp3quran_212_212",
+      "reciterId": "mp3quran_reciter_212",
       "sourceId": "mp3quran",
-      "reciterName": "الفاتح محمد الزبير",
-      "moshafName": "الدوري عن أبي عمرو - مرتل",
-      "riwaya": "الدوري عن أبي عمرو",
-      "server": "https://cdn.mp3quran.net/audio/fateh-zubair/r1/",
+      "reciterName": "طارق عبدالغني دعوب",
+      "moshafName": "قالون عن نافع - مرتل",
+      "riwaya": "قالون عن نافع",
+      "server": "https://cdn.mp3quran.net/audio/tareq-daawob/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/fateh-zubair/r1/{surah3}.mp3",
+      "urlTemplate": "https://cdn.mp3quran.net/audio/tareq-daawob/r1/{surah3}.mp3",
       "surahCount": 114,
       "enabled": true
     },
@@ -4194,19 +4263,6 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_212_212",
-      "reciterId": "mp3quran_reciter_212",
-      "sourceId": "mp3quran",
-      "reciterName": "طارق عبدالغني دعوب",
-      "moshafName": "قالون عن نافع - مرتل",
-      "riwaya": "قالون عن نافع",
-      "server": "https://cdn.mp3quran.net/audio/tareq-daawob/r1/",
-      "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/tareq-daawob/r1/{surah3}.mp3",
-      "surahCount": 114,
-      "enabled": true
-    },
-    {
       "id": "mp3quran_216_216",
       "reciterId": "mp3quran_reciter_216",
       "sourceId": "mp3quran",
@@ -4259,15 +4315,15 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_21_21",
-      "reciterId": "mp3quran_reciter_21",
+      "id": "mp3quran_22_22",
+      "reciterId": "mp3quran_reciter_22",
       "sourceId": "mp3quran",
-      "reciterName": "خالد القحطاني",
+      "reciterName": "خالد عبدالكافي",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/khalid-qahtani/r1/",
+      "server": "https://cdn.mp3quran.net/audio/khalid-abdulkafi/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/khalid-qahtani/r1/{surah3}.mp3",
+      "urlTemplate": "https://cdn.mp3quran.net/audio/khalid-abdulkafi/r1/{surah3}.mp3",
       "surahCount": 114,
       "enabled": true
     },
@@ -4350,16 +4406,16 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_22_22",
-      "reciterId": "mp3quran_reciter_22",
+      "id": "mp3quran_23_23",
+      "reciterId": "mp3quran_reciter_23",
       "sourceId": "mp3quran",
-      "reciterName": "خالد عبدالكافي",
+      "reciterName": "خالد الوهيبي",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/khalid-abdulkafi/r1/",
+      "server": "https://cdn.mp3quran.net/audio/khalid-wahaibi/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/khalid-abdulkafi/r1/{surah3}.mp3",
-      "surahCount": 114,
+      "urlTemplate": "https://cdn.mp3quran.net/audio/khalid-wahaibi/r1/{surah3}.mp3",
+      "surahCount": 25,
       "enabled": true
     },
     {
@@ -4415,16 +4471,16 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_23_23",
-      "reciterId": "mp3quran_reciter_23",
+      "id": "mp3quran_24_24",
+      "reciterId": "mp3quran_reciter_24",
       "sourceId": "mp3quran",
-      "reciterName": "خالد الوهيبي",
+      "reciterName": "خليفة الطنيجي",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/khalid-wahaibi/r1/",
+      "server": "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/khalid-wahaibi/r1/{surah3}.mp3",
-      "surahCount": 25,
+      "urlTemplate": "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/{surah3}.mp3",
+      "surahCount": 114,
       "enabled": true
     },
     {
@@ -4545,15 +4601,15 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_24_24",
-      "reciterId": "mp3quran_reciter_24",
+      "id": "mp3quran_25_25",
+      "reciterId": "mp3quran_reciter_25",
       "sourceId": "mp3quran",
-      "reciterName": "خليفة الطنيجي",
+      "reciterName": "داود حمزة",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/",
+      "server": "https://cdn.mp3quran.net/audio/dawood-hamza/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/khalifa-tunaiji/r1/{surah3}.mp3",
+      "urlTemplate": "https://cdn.mp3quran.net/audio/dawood-hamza/r1/{surah3}.mp3",
       "surahCount": 114,
       "enabled": true
     },
@@ -4675,16 +4731,16 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_25_25",
-      "reciterId": "mp3quran_reciter_25",
+      "id": "mp3quran_26_26",
+      "reciterId": "mp3quran_reciter_26",
       "sourceId": "mp3quran",
-      "reciterName": "داود حمزة",
-      "moshafName": "حفص عن عاصم - مرتل",
-      "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/dawood-hamza/r1/",
+      "reciterName": "رشيد إفراد",
+      "moshafName": "ورش عن نافع - مرتل",
+      "riwaya": "ورش عن نافع",
+      "server": "https://cdn.mp3quran.net/audio/rachid-ifrad/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/dawood-hamza/r1/{surah3}.mp3",
-      "surahCount": 114,
+      "urlTemplate": "https://cdn.mp3quran.net/audio/rachid-ifrad/r1/{surah3}.mp3",
+      "surahCount": 50,
       "enabled": true
     },
     {
@@ -4922,16 +4978,29 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_26_26",
-      "reciterId": "mp3quran_reciter_26",
+      "id": "mp3quran_27_261",
+      "reciterId": "mp3quran_reciter_27",
       "sourceId": "mp3quran",
-      "reciterName": "رشيد إفراد",
+      "reciterName": "رشيد بلعالية",
+      "moshafName": "حفص عن عاصم - مرتل",
+      "riwaya": "حفص عن عاصم",
+      "server": "https://cdn.mp3quran.net/audio/rachid-belalia/r2/",
+      "filePattern": "{surah3}.mp3",
+      "urlTemplate": "https://cdn.mp3quran.net/audio/rachid-belalia/r2/{surah3}.mp3",
+      "surahCount": 5,
+      "enabled": true
+    },
+    {
+      "id": "mp3quran_27_27",
+      "reciterId": "mp3quran_reciter_27",
+      "sourceId": "mp3quran",
+      "reciterName": "رشيد بلعالية",
       "moshafName": "ورش عن نافع - مرتل",
       "riwaya": "ورش عن نافع",
-      "server": "https://cdn.mp3quran.net/audio/rachid-ifrad/r1/",
+      "server": "https://cdn.mp3quran.net/audio/rachid-belalia/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/rachid-ifrad/r1/{surah3}.mp3",
-      "surahCount": 50,
+      "urlTemplate": "https://cdn.mp3quran.net/audio/rachid-belalia/r1/{surah3}.mp3",
+      "surahCount": 114,
       "enabled": true
     },
     {
@@ -5065,29 +5134,16 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_27_261",
-      "reciterId": "mp3quran_reciter_27",
+      "id": "mp3quran_28_28",
+      "reciterId": "mp3quran_reciter_28",
       "sourceId": "mp3quran",
-      "reciterName": "رشيد بلعالية",
+      "reciterName": "زكريا حمامة",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/rachid-belalia/r2/",
+      "server": "https://cdn.mp3quran.net/audio/zakaria-hamama/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/rachid-belalia/r2/{surah3}.mp3",
-      "surahCount": 5,
-      "enabled": true
-    },
-    {
-      "id": "mp3quran_27_27",
-      "reciterId": "mp3quran_reciter_27",
-      "sourceId": "mp3quran",
-      "reciterName": "رشيد بلعالية",
-      "moshafName": "ورش عن نافع - مرتل",
-      "riwaya": "ورش عن نافع",
-      "server": "https://cdn.mp3quran.net/audio/rachid-belalia/r1/",
-      "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/rachid-belalia/r1/{surah3}.mp3",
-      "surahCount": 114,
+      "urlTemplate": "https://cdn.mp3quran.net/audio/zakaria-hamama/r1/{surah3}.mp3",
+      "surahCount": 7,
       "enabled": true
     },
     {
@@ -5221,16 +5277,16 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_28_28",
-      "reciterId": "mp3quran_reciter_28",
+      "id": "mp3quran_29_281",
+      "reciterId": "mp3quran_reciter_29",
       "sourceId": "mp3quran",
-      "reciterName": "زكريا حمامة",
+      "reciterName": "عبدالله بخاري",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/zakaria-hamama/r1/",
+      "server": "https://cdn.mp3quran.net/audio/abdullah-bukhari/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/zakaria-hamama/r1/{surah3}.mp3",
-      "surahCount": 7,
+      "urlTemplate": "https://cdn.mp3quran.net/audio/abdullah-bukhari/r1/{surah3}.mp3",
+      "surahCount": 79,
       "enabled": true
     },
     {
@@ -5247,29 +5303,29 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_29_281",
-      "reciterId": "mp3quran_reciter_29",
+      "id": "mp3quran_3_3",
+      "reciterId": "mp3quran_reciter_3",
       "sourceId": "mp3quran",
-      "reciterName": "عبدالله بخاري",
+      "reciterName": "إبراهيم العسيري",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/abdullah-bukhari/r1/",
+      "server": "https://cdn.mp3quran.net/audio/ibrahim-asiri/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/abdullah-bukhari/r1/{surah3}.mp3",
-      "surahCount": 79,
+      "urlTemplate": "https://cdn.mp3quran.net/audio/ibrahim-asiri/r1/{surah3}.mp3",
+      "surahCount": 114,
       "enabled": true
     },
     {
-      "id": "mp3quran_2_2",
-      "reciterId": "mp3quran_reciter_2",
+      "id": "mp3quran_30_30",
+      "reciterId": "mp3quran_reciter_30",
       "sourceId": "mp3quran",
-      "reciterName": "إبراهيم الجبرين",
+      "reciterName": "سعد الغامدي",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/ibrahim-jibreen/r1/",
+      "server": "https://cdn.mp3quran.net/audio/saad-ghamdi/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/ibrahim-jibreen/r1/{surah3}.mp3",
-      "surahCount": 107,
+      "urlTemplate": "https://cdn.mp3quran.net/audio/saad-ghamdi/r1/{surah3}.mp3",
+      "surahCount": 114,
       "enabled": true
     },
     {
@@ -5374,19 +5430,6 @@
       "filePattern": "{surah3}.mp3",
       "urlTemplate": "https://cdn.mp3quran.net/audio/abdelaziz-sheim/r1/{surah3}.mp3",
       "surahCount": 16,
-      "enabled": true
-    },
-    {
-      "id": "mp3quran_30_30",
-      "reciterId": "mp3quran_reciter_30",
-      "sourceId": "mp3quran",
-      "reciterName": "سعد الغامدي",
-      "moshafName": "حفص عن عاصم - مرتل",
-      "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/saad-ghamdi/r1/",
-      "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/saad-ghamdi/r1/{surah3}.mp3",
-      "surahCount": 114,
       "enabled": true
     },
     {
@@ -5507,15 +5550,15 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_3_3",
-      "reciterId": "mp3quran_reciter_3",
+      "id": "mp3quran_4_4",
+      "reciterId": "mp3quran_reciter_4",
       "sourceId": "mp3quran",
-      "reciterName": "إبراهيم العسيري",
+      "reciterName": "شيخ أبو بكر الشاطري",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/ibrahim-asiri/r1/",
+      "server": "https://cdn.mp3quran.net/audio/abubakr-shatri/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/ibrahim-asiri/r1/{surah3}.mp3",
+      "urlTemplate": "https://cdn.mp3quran.net/audio/abubakr-shatri/r1/{surah3}.mp3",
       "surahCount": 114,
       "enabled": true
     },
@@ -5650,15 +5693,15 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_4_4",
-      "reciterId": "mp3quran_reciter_4",
+      "id": "mp3quran_5_5",
+      "reciterId": "mp3quran_reciter_5",
       "sourceId": "mp3quran",
-      "reciterName": "شيخ أبو بكر الشاطري",
+      "reciterName": "أحمد بن علي العجمي",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/abubakr-shatri/r1/",
+      "server": "https://cdn.mp3quran.net/audio/ahmad-ajmi/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/abubakr-shatri/r1/{surah3}.mp3",
+      "urlTemplate": "https://cdn.mp3quran.net/audio/ahmad-ajmi/r1/{surah3}.mp3",
       "surahCount": 114,
       "enabled": true
     },
@@ -5806,15 +5849,15 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_5_5",
-      "reciterId": "mp3quran_reciter_5",
+      "id": "mp3quran_6_6",
+      "reciterId": "mp3quran_reciter_6",
       "sourceId": "mp3quran",
-      "reciterName": "أحمد بن علي العجمي",
+      "reciterName": "أحمد الحواشي",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/ahmad-ajmi/r1/",
+      "server": "https://cdn.mp3quran.net/audio/ahmad-hawashi/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/ahmad-ajmi/r1/{surah3}.mp3",
+      "urlTemplate": "https://cdn.mp3quran.net/audio/ahmad-hawashi/r1/{surah3}.mp3",
       "surahCount": 114,
       "enabled": true
     },
@@ -5962,16 +6005,16 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_6_6",
-      "reciterId": "mp3quran_reciter_6",
+      "id": "mp3quran_7_7",
+      "reciterId": "mp3quran_reciter_7",
       "sourceId": "mp3quran",
-      "reciterName": "أحمد الحواشي",
+      "reciterName": "أحمد سعود",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/ahmad-hawashi/r1/",
+      "server": "https://cdn.mp3quran.net/audio/ahmad-saud/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/ahmad-hawashi/r1/{surah3}.mp3",
-      "surahCount": 114,
+      "urlTemplate": "https://cdn.mp3quran.net/audio/ahmad-saud/r1/{surah3}.mp3",
+      "surahCount": 30,
       "enabled": true
     },
     {
@@ -6118,16 +6161,16 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_7_7",
-      "reciterId": "mp3quran_reciter_7",
+      "id": "mp3quran_8_8",
+      "reciterId": "mp3quran_reciter_8",
       "sourceId": "mp3quran",
-      "reciterName": "أحمد سعود",
+      "reciterName": "أحمد صابر",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/ahmad-saud/r1/",
+      "server": "https://cdn.mp3quran.net/audio/ahmad-saber/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/ahmad-saud/r1/{surah3}.mp3",
-      "surahCount": 30,
+      "urlTemplate": "https://cdn.mp3quran.net/audio/ahmad-saber/r1/{surah3}.mp3",
+      "surahCount": 114,
       "enabled": true
     },
     {
@@ -6261,15 +6304,15 @@
       "enabled": true
     },
     {
-      "id": "mp3quran_8_8",
-      "reciterId": "mp3quran_reciter_8",
+      "id": "mp3quran_9_9",
+      "reciterId": "mp3quran_reciter_9",
       "sourceId": "mp3quran",
-      "reciterName": "أحمد صابر",
+      "reciterName": "أحمد نعينع",
       "moshafName": "حفص عن عاصم - مرتل",
       "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/ahmad-saber/r1/",
+      "server": "https://cdn.mp3quran.net/audio/ahmad-naina/r1/",
       "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/ahmad-saber/r1/{surah3}.mp3",
+      "urlTemplate": "https://cdn.mp3quran.net/audio/ahmad-naina/r1/{surah3}.mp3",
       "surahCount": 114,
       "enabled": true
     },
@@ -6387,19 +6430,6 @@
       "server": "https://cdn.mp3quran.net/audio/abdullah-abdal/r1/",
       "filePattern": "{surah3}.mp3",
       "urlTemplate": "https://cdn.mp3quran.net/audio/abdullah-abdal/r1/{surah3}.mp3",
-      "surahCount": 114,
-      "enabled": true
-    },
-    {
-      "id": "mp3quran_9_9",
-      "reciterId": "mp3quran_reciter_9",
-      "sourceId": "mp3quran",
-      "reciterName": "أحمد نعينع",
-      "moshafName": "حفص عن عاصم - مرتل",
-      "riwaya": "حفص عن عاصم",
-      "server": "https://cdn.mp3quran.net/audio/ahmad-naina/r1/",
-      "filePattern": "{surah3}.mp3",
-      "urlTemplate": "https://cdn.mp3quran.net/audio/ahmad-naina/r1/{surah3}.mp3",
       "surahCount": 114,
       "enabled": true
     },
@@ -7679,12 +7709,13 @@
     }
   ],
   "generation": {
-    "reciterCount": 279,
-    "recitationCount": 399,
+    "reciterCount": 280,
+    "recitationCount": 400,
     "sourcesSummary": {
       "mp3quran": 289,
       "quranicaudio": 98,
-      "everyayah": 12
+      "everyayah": 12,
+      "midad": 1
     },
     "deduplication": "Unified reciters and skipped identical moshafs already provided by MP3Quran.",
     "cleanup": "Removed availableSurahs array and unused/all-null fields across all recitations."
