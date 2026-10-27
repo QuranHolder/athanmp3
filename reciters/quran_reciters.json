@@ -6,6 +6,13 @@
   "primarySource": "mp3quran",
   "sources": [
     {
+      "id": "wathkro",
+      "name": "واذكروا (أرشيف)",
+      "website": "https://archive.org/details/wathkro-quran-minshawy-murattal-new-opus",
+      "enabled": true,
+      "notes": "تسجيلات ومصاحف عالية النقاء معالجة ومرفوعة خصيصاً لتطبيق واذكروا بصيغة Opus عالية الجودة."
+    },
+    {
       "id": "mp3quran",
       "name": "MP3Quran",
       "website": "https://www.mp3quran.net",
@@ -2041,6 +2048,7 @@
       "name": "محمد صديق المنشاوي",
       "letter": "م",
       "recitations": [
+        "wathkro_minshawy_murattal_new_opus",
         "mp3quran_112_10924",
         "mp3quran_112_114",
         "mp3quran_112_113",
@@ -2507,6 +2515,19 @@
     }
   ],
   "recitations": [
+    {
+      "id": "wathkro_minshawy_murattal_new_opus",
+      "reciterId": "mp3quran_reciter_112",
+      "sourceId": "wathkro",
+      "reciterName": "محمد صديق المنشاوي",
+      "moshafName": "المصحف المرتل الجديد (نقي 48kHz)",
+      "riwaya": "حفص عن عاصم",
+      "server": "https://archive.org/download/wathkro-quran-minshawy-murattal-new-opus/",
+      "filePattern": "{surah3}.opus",
+      "urlTemplate": "https://archive.org/download/wathkro-quran-minshawy-murattal-new-opus/{surah3}.opus",
+      "surahCount": 114,
+      "enabled": true
+    },
     {
       "id": "everyayah_ali_jaber",
       "reciterId": "mp3quran_reciter_76",
