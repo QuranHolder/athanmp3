@@ -67,7 +67,7 @@
     "description": "تلاوات قرآنية مباركة وبرامج دينية متواصلة من دولة الكويت",
     "isVerified": true,
     "order": 6,
-    "backupUrl": "http://r1.tarat.com:8200/index.html/stream"
+    "backupUrl": "https://radio.mp3islam.com/listen/quran_radio/radio.mp3"
   },
   {
     "id": "algeria_official",
@@ -90,7 +90,7 @@
     "description": "البث المباشر لإذاعة القرآن الكريم من مسقط (93.2 FM) - تلاوات وبرامج إيمانية",
     "isVerified": true,
     "order": 8,
-    "backupUrl": "http://r1.tarat.com:8206/index.html/stream"
+    "backupUrl": "https://partrdo.mangomolo.com/quranrdo.mp3"
   },
   {
     "id": "bahrain_official",
@@ -99,7 +99,7 @@
     "badge": "البث الرسمي المباشر",
     "country": "البحرين",
     "streamUrl": "https://5c7b683162943.streamlock.net/live/ngrp:radio-106-1_all/playlist.m3u8",
-    "backupUrl": "http://r1.tarat.com:8194/index.html/stream",
+    "backupUrl": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8",
     "description": "البث الحي المباشر لإذاعة القرآن الكريم من مملكة البحرين (106.1 FM) - تلاوات وبرامج دينية على مدار الساعة",
     "isVerified": true,
     "order": 9
@@ -606,25 +606,27 @@
   },
   {
     "id": "almajd_quran_radio",
-    "name": "إذاعة القرآن الكريم - قناة المجد",
+    "name": "إذاعة القرآن الكريم - تلاوات قناة المجد",
     "category": "official",
     "badge": "بث مباشر 24/7",
     "country": "السعودية",
-    "streamUrl": "http://r1.tarat.com:8196/index.html/stream",
-    "description": "البث الإذاعي لقناة المجد الفضائية للقرآن الكريم - تلاوات خاشعة ومصاحف كاملة",
+    "streamUrl": "https://qurango.net/radio/Surah_Al-Mulk",
+    "description": "بث إذاعي متواصل لأعذب التلاوات القرآنية الخاشعة والختمات المتميزة من إنتاج قناة المجد للقرآن الكريم",
     "isVerified": true,
-    "order": 52
+    "order": 52,
+    "backupUrl": "https://qurango.net/radio/albaqarah"
   },
   {
     "id": "almajd_scientific_radio",
-    "name": "إذاعة المجد العلمية",
+    "name": "إذاعة المجد العلمية - المختصر في السيرة النبوية",
     "category": "official",
     "badge": "إذاعة علمية",
     "country": "السعودية",
-    "streamUrl": "http://r7.tarat.com:8008/index.html/stream",
-    "description": "البث الإذاعي لقناة المجد العلمية - دروس ومتون وتأصيل العلوم الشرعية",
+    "streamUrl": "https://qurango.net/radio/almukhtasar_fi_alsiyra",
+    "description": "إذاعة علمية مباركة تذيع المختصر الميسر في السيرة العطرة للنبي صلى الله عليه وسلم وأحكام الشريعة",
     "isVerified": true,
-    "order": 53
+    "order": 53,
+    "backupUrl": "https://backup.qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz"
   },
   {
     "id": "saudi_quran_tv_audio",
@@ -632,10 +634,11 @@
     "category": "official",
     "badge": "البث الرسمي المباشر",
     "country": "السعودية",
-    "streamUrl": "http://r7.tarat.com:8004/index.html/stream",
+    "streamUrl": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
     "description": "البث الصوتي المباشر لقناة القرآن الكريم السعودية من المسجد الحرام بمكة المكرمة",
     "isVerified": true,
-    "order": 54
+    "order": 54,
+    "backupUrl": "https://stream.radiojar.com/4wqre23fytzuv"
   },
   {
     "id": "makkah_tv_audio",
@@ -643,32 +646,35 @@
     "category": "official",
     "badge": "بث مباشر 24/7",
     "country": "السعودية",
-    "streamUrl": "http://r1.tarat.com:8202/index.html/stream",
+    "streamUrl": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8",
     "description": "البث المباشر لقناة مكة المكرمة - تلاوات ونفحات إيمانية من البلد الحرام",
     "isVerified": true,
-    "order": 55
+    "order": 55,
+    "backupUrl": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8"
   },
   {
     "id": "othaimin_radio",
-    "name": "إذاعة الشيخ محمد بن صالح العثيمين",
+    "name": "إذاعة الفتاوى الشرعية والاختيارات الفقهية",
     "category": "official",
     "badge": "إذاعة علمية",
     "country": "السعودية",
-    "streamUrl": "http://r7.tarat.com:8010/index.html/stream",
-    "description": "بث متواصل لدروس وفتاوى وشروحات الشيخ العلامة محمد بن صالح العثيمين رحمه الله",
+    "streamUrl": "https://qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
+    "description": "إذاعة فقهية جامعة تقدم فتاوى كبار العلماء والاختيارات الفقهية والأحكام الشرعية الميسرة",
     "isVerified": true,
-    "order": 56
+    "order": 56,
+    "backupUrl": "https://backup.qurango.net/radio/mukhtasartafsir"
   },
   {
     "id": "zad_scientific_radio",
-    "name": "إذاعة قناة زاد العلمية",
+    "name": "إذاعة قناة زاد العلمية - المختصر في تفسير القرآن",
     "category": "official",
     "badge": "إذاعة علمية",
     "country": "السعودية",
-    "streamUrl": "http://r6.tarat.com:8154/index.html/stream",
-    "description": "البث الإذاعي لقناة زاد العلمية - برامج تأصيلية ومحاضرات نافعة لأسرة المسلم",
+    "streamUrl": "https://qurango.net/radio/mukhtasartafsir",
+    "description": "إذاعة علمية متخصصة في نشر العلم الشرعي الموثوق وتفسير معاني القرآن الكريم بصوت عذب",
     "isVerified": true,
-    "order": 57
+    "order": 57,
+    "backupUrl": "https://qurango.net/radio/almukhtasar_fi_alsiyra"
   },
   {
     "id": "quran_syria_official",
@@ -687,10 +693,11 @@
     "category": "official",
     "badge": "البث الرسمي المباشر",
     "country": "قطر",
-    "streamUrl": "http://r1.tarat.com:8198/index.html/stream",
+    "streamUrl": "https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8",
     "description": "البث المباشر لإذاعة القرآن الكريم من الدوحة - تلاوات وقراءات متميزة",
     "isVerified": true,
-    "order": 59
+    "order": 59,
+    "backupUrl": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8"
   },
   {
     "id": "misr_quran_kareem",
@@ -705,25 +712,27 @@
   },
   {
     "id": "bayyinat_radio",
-    "name": "إذاعة بينات القرآنية",
+    "name": "إذاعة بينات - تفسير القرآن الكريم (طريق النور)",
     "category": "official",
     "badge": "تفسير وتدبر",
     "country": "السعودية",
-    "streamUrl": "http://r3.tarat.com:8028/index.html/stream",
-    "description": "إذاعة متخصصة في علوم القرآن وتدبر آياته برعاية جمعية بينات",
+    "streamUrl": "https://qurango.net/radio/tabri",
+    "description": "إذاعة تفسيرية تعنى ببيان معاني الآيات ودلائل القرآن الكريم المستفادة من تفاسير أئمة السلف",
     "isVerified": true,
-    "order": 61
+    "order": 61,
+    "backupUrl": "https://backup.qurango.net/radio/mukhtasartafsir"
   },
   {
     "id": "al_dhikr_alhakeem_radio",
-    "name": "إذاعة الذكر الحكيم",
+    "name": "إذاعة الذكر الحكيم - آيات السكينة والطمأنينة",
     "category": "official",
     "badge": "تلاوات مختارة 24/7",
     "country": "إذاعة عامة",
-    "streamUrl": "http://r1.tarat.com:8112/index.html/stream",
-    "description": "بث متواصل لأعذب تلاوات الذكر الحكيم بأصوات كبار القراء في العالم الإسلامي",
+    "streamUrl": "https://qurango.net/radio/sakeenah",
+    "description": "بث مبارك لآيات السكينة والخشوع والطمأنينة لتهدئة النفوس وتثبيت القلوب بذكر الله",
     "isVerified": true,
-    "order": 62
+    "order": 62,
+    "backupUrl": "https://qurango.net/radio/roqiah"
   },
   {
     "id": "alukah_quran_radio",
@@ -771,14 +780,15 @@
   },
   {
     "id": "ayat_quran_radio",
-    "name": "إذاعة آيات للقرآن الكريم",
+    "name": "إذاعة آيات القرآنية - غريب القرآن وفضائله",
     "category": "official",
     "badge": "تلاوات خاشعة",
     "country": "الكويت",
-    "streamUrl": "http://r14.tarat.com:8100/index.html/stream",
-    "description": "تلاوات قرآنية ندية ومصاحف مرتلة على مدار الساعة من إذاعة آيات",
+    "streamUrl": "https://qurango.net/radio/gareeb-quran",
+    "description": "إذاعة متخصصة في بيان غريب ألفاظ القرآن الكريم وفضائل السور وتلاوات مباركة عذبة",
     "isVerified": true,
-    "order": 67
+    "order": 67,
+    "backupUrl": "https://backup.qurango.net/radio/alanbiya"
   },
   {
     "id": "mohammed_refaat",
@@ -1086,7 +1096,7 @@
     "badge": "إمام الحرم المكي",
     "country": "السعودية",
     "streamUrl": "https://qurango.net/radio/abdulrahman_alsudaes",
-    "backupUrl": "http://r5.tarat.com:8146/index.html/stream",
+    "backupUrl": "https://backup.qurango.net/radio/abdulrahman_alsudaes",
     "description": "تلاوات الحرم المكي الشريف بصوت الشيخ عبد الرحمن السديس",
     "isVerified": true,
     "order": 93
@@ -1098,7 +1108,7 @@
     "badge": "إمام الحرم المكي",
     "country": "السعودية",
     "streamUrl": "https://qurango.net/radio/saud_alshuraim",
-    "backupUrl": "http://r6.tarat.com:8036/index.html/stream",
+    "backupUrl": "https://backup.qurango.net/radio/saud_alshuraim",
     "description": "تلاوات خاشعة من المسجد الحرام بصوت الشيخ سعود الشريم",
     "isVerified": true,
     "order": 94
@@ -1122,7 +1132,7 @@
     "badge": "إمام الحرم المكي",
     "country": "السعودية",
     "streamUrl": "https://qurango.net/radio/yasser_aldosari",
-    "backupUrl": "http://r6.tarat.com:8048/index.html/stream",
+    "backupUrl": "https://backup.qurango.net/radio/yasser_aldosari",
     "description": "تلاوات مرتلة وخاشعة بصوت الشيخ ياسر بن راشد الدوسري",
     "isVerified": true,
     "order": 96
@@ -1170,7 +1180,7 @@
     "badge": "إمام الحرم المكي",
     "country": "السعودية",
     "streamUrl": "https://qurango.net/radio/ali_jaber",
-    "backupUrl": "http://r5.tarat.com:8184/index.html/stream",
+    "backupUrl": "https://backup.qurango.net/radio/ali_jaber",
     "description": "تلاوات المسجد الحرام الخالدة بصوت الشيخ علي عبد الله جابر رحمه الله",
     "isVerified": true,
     "order": 100
@@ -1194,7 +1204,7 @@
     "badge": "إمام المسجد النبوي",
     "country": "السعودية",
     "streamUrl": "https://qurango.net/radio/mohammed_ayyub",
-    "backupUrl": "http://r6.tarat.com:8012/index.html/stream",
+    "backupUrl": "https://backup.qurango.net/radio/mohammed_ayyub",
     "description": "التلاوات الحجازية الندية لإمام المسجد النبوي الشيخ محمد أيوب رحمه الله",
     "isVerified": true,
     "order": 102
@@ -1230,7 +1240,7 @@
     "badge": "إمام المسجد النبوي",
     "country": "السعودية",
     "streamUrl": "https://qurango.net/radio/salah_albudair",
-    "backupUrl": "http://r9.tarat.com:8208/index.html/stream",
+    "backupUrl": "https://backup.qurango.net/radio/salah_albudair",
     "description": "تلاوات الحرم المدني والمصحف المرتل بصوت الشيخ الدكتور صلاح بن محمد البدير",
     "isVerified": true,
     "order": 105
@@ -1326,7 +1336,7 @@
     "badge": "حفص عن عاصم",
     "country": "الكويت",
     "streamUrl": "https://qurango.net/radio/mishary_alafasi",
-    "backupUrl": "http://r9.tarat.com:8174/index.html/strem",
+    "backupUrl": "https://backup.qurango.net/radio/mishary_alafasi",
     "description": "بث مباشر على مدار الساعة لتلاوات الشيخ مشاري راشد العفاسي",
     "isVerified": true,
     "order": 113
@@ -1337,11 +1347,12 @@
     "category": "reciters",
     "badge": "حفص عن عاصم",
     "country": "السعودية",
-    "streamUrl": "https://qurango.net/radio/saad_alghamdi",
-    "backupUrl": "http://r6.tarat.com:8026/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/saad-ghamdi/r1/{surah3}.mp3",
+    "backupUrl": "https://backup.qurango.net/radio/saad_alghamdi",
     "description": "المصحف المرتل بصوت القارئ الشيخ سعد بن سعيد الغامدي",
     "isVerified": true,
-    "order": 114
+    "order": 114,
+    "surahCount": 114
   },
   {
     "id": "abu_bakr_shatri",
@@ -1374,7 +1385,7 @@
     "badge": "حفص عن عاصم",
     "country": "السعودية",
     "streamUrl": "https://qurango.net/radio/nasser_alqatami",
-    "backupUrl": "http://r6.tarat.com:8022/index.html/stream",
+    "backupUrl": "https://backup.qurango.net/radio/nasser_alqatami",
     "description": "تلاوات خاشعة ومرتلة بصوت الشيخ ناصر بن علي القطامي",
     "isVerified": true,
     "order": 117
@@ -1386,7 +1397,7 @@
     "badge": "حفص عن عاصم",
     "country": "اليمن",
     "streamUrl": "https://qurango.net/radio/fares_abbad",
-    "backupUrl": "http://r5.tarat.com:8196/index.html/stream",
+    "backupUrl": "https://backup.qurango.net/radio/fares_abbad",
     "description": "المصحف المرتل الكامل بصوت القارئ الشيخ فارس عباد",
     "isVerified": true,
     "order": 118
@@ -1470,7 +1481,7 @@
     "badge": "حفص عن عاصم",
     "country": "إريتريا / السعودية",
     "streamUrl": "https://qurango.net/radio/tawfeeq_assayegh",
-    "backupUrl": "http://r5.tarat.com:8120/index.html/stream",
+    "backupUrl": "https://backup.qurango.net/radio/tawfeeq_assayegh",
     "description": "المصحف المرتل بصوت القارئ الشيخ توفيق بن سعيد الصايغ",
     "isVerified": true,
     "order": 125
@@ -1614,7 +1625,7 @@
     "badge": "حفص عن عاصم",
     "country": "الإمارات",
     "streamUrl": "https://qurango.net/radio/khalifa_altunaiji",
-    "backupUrl": "http://r11.tarat.com:8056/index.html/stream",
+    "backupUrl": "https://backup.qurango.net/radio/khalifa_altunaiji",
     "description": "المصحف المرتل المتقن بصوت القارئ الشيخ خليفة بن مصبح الطنيجي",
     "isVerified": true,
     "order": 137
@@ -1770,7 +1781,7 @@
     "badge": "حفص عن عاصم",
     "country": "السودان",
     "streamUrl": "https://qurango.net/radio/alzain_mohammad_ahmad",
-    "backupUrl": "http://r5.tarat.com:8188/index.html/stream",
+    "backupUrl": "https://backup.qurango.net/radio/alzain_mohammad_ahmad",
     "description": "المصحف المرتل الكامل بصوت القارئ السوداني الشيخ الزين محمد أحمد",
     "isVerified": true,
     "order": 150
@@ -2069,10 +2080,12 @@
     "category": "reciters",
     "badge": "تلاوات خاشعة",
     "country": "السعودية",
-    "streamUrl": "http://r8.tarat.com:8076/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/abdulrahman-oosi/r1/{surah3}.mp3",
     "description": "تلاوات خاشعة وندية تأسر القلوب بصوت القارئ عبد الرحمن العوسي",
     "isVerified": true,
-    "order": 175
+    "order": 175,
+    "backupUrl": "https://archive.org/metadata/lifeways11_gmail_001_20180215_2148",
+    "surahCount": 114
   },
   {
     "id": "raad_alkurdi",
@@ -2080,10 +2093,12 @@
     "category": "reciters",
     "badge": "تلاوات خاشعة",
     "country": "العراق",
-    "streamUrl": "http://r11.tarat.com:8096/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/raad-kurdi/r1/{surah3}.mp3",
     "description": "تلاوات خاشعة ومؤثرة بصوت القارئ رعد الكردي",
     "isVerified": true,
-    "order": 176
+    "order": 176,
+    "backupUrl": "https://archive.org/metadata/raad-mohammad-al-kurdi_202607",
+    "surahCount": 98
   },
   {
     "id": "wadih_alyamani",
@@ -2091,10 +2106,11 @@
     "category": "reciters",
     "badge": "حفص عن عاصم",
     "country": "اليمن",
-    "streamUrl": "http://r6.tarat.com:8044/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/wadee-yamani/r1/{surah3}.mp3",
     "description": "المصحف المرتل برواية حفص عن عاصم بصوت القارئ وديع اليمني",
     "isVerified": true,
-    "order": 177
+    "order": 177,
+    "surahCount": 114
   },
   {
     "id": "abdullah_kamel",
@@ -2102,10 +2118,11 @@
     "category": "reciters",
     "badge": "تلاوات خاشعة",
     "country": "مصر",
-    "streamUrl": "http://r5.tarat.com:8142/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/abdullah-kamel/r1/{surah3}.mp3",
     "description": "تلاوات خاشعة ومبكية بصوت القارئ الشيخ عبد الله كامل رحمه الله",
     "isVerified": true,
-    "order": 178
+    "order": 178,
+    "surahCount": 114
   },
   {
     "id": "mohammed_almohisni",
@@ -2113,10 +2130,11 @@
     "category": "reciters",
     "badge": "تلاوات خاشعة",
     "country": "السعودية",
-    "streamUrl": "http://r6.tarat.com:8008/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/muhammad-muhaisni/r1/{surah3}.mp3",
     "description": "تلاوات خاشعة وصلوات التراويح والقيام بصوت الشيخ محمد المحيسني",
     "isVerified": true,
-    "order": 179
+    "order": 179,
+    "surahCount": 114
   },
   {
     "id": "saleh_altaleb",
@@ -2124,10 +2142,11 @@
     "category": "reciters",
     "badge": "إمام الحرم المكي",
     "country": "السعودية",
-    "streamUrl": "http://r6.tarat.com:8032/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/saleh-talib/r1/{surah3}.mp3",
     "description": "تلاوات صلوات الحرم المكي الشريف بصوت الشيخ صالح آل طالب",
     "isVerified": true,
-    "order": 180
+    "order": 180,
+    "surahCount": 32
   },
   {
     "id": "salman_alotaibi",
@@ -2135,10 +2154,12 @@
     "category": "reciters",
     "badge": "تلاوات خاشعة",
     "country": "السعودية",
-    "streamUrl": "http://r6.tarat.com:8034/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/salman-otaibi/r1/{surah3}.mp3",
     "description": "تلاوات خاشعة ومميزة بصوت القارئ سلمان العتيبي",
     "isVerified": true,
-    "order": 181
+    "order": 181,
+    "backupUrl": "https://archive.org/metadata/salmanalotaibiQuran",
+    "surahCount": 75
   },
   {
     "id": "abdulaziz_alzahrani",
@@ -2146,10 +2167,11 @@
     "category": "reciters",
     "badge": "تلاوات خاشعة",
     "country": "السعودية",
-    "streamUrl": "http://r8.tarat.com:8066/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/abdulaziz-zahrani/r1/{surah3}.mp3",
     "description": "تلاوات ندية ومصاحف مرتلة بصوت القارئ عبد العزيز الزهراني",
     "isVerified": true,
-    "order": 182
+    "order": 182,
+    "surahCount": 114
   },
   {
     "id": "abdulwali_alarkani",
@@ -2157,10 +2179,12 @@
     "category": "reciters",
     "badge": "حفص عن عاصم",
     "country": "السعودية",
-    "streamUrl": "http://r8.tarat.com:8092/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/abdulwali-arkani/r1/{surah3}.mp3",
     "description": "المصحف المرتل برواية حفص عن عاصم بصوت القارئ عبد الولي الأركاني",
     "isVerified": true,
-    "order": 183
+    "order": 183,
+    "backupUrl": "https://archive.org/metadata/Abdulwali-Al-Arkani",
+    "surahCount": 114
   },
   {
     "id": "zaki_daghistani",
@@ -2168,10 +2192,11 @@
     "category": "reciters",
     "badge": "تلاوات تاريخية نادرة",
     "country": "السعودية",
-    "streamUrl": "http://r5.tarat.com:8126/index.html/stream",
+    "streamUrl": "https://qurango.net/radio/zaki_daghistani",
     "description": "تلاوات حجازية مميزة ونادرة بصوت شيخ قراء مكة زكي داغستاني رحمه الله",
     "isVerified": true,
-    "order": 184
+    "order": 184,
+    "backupUrl": "https://qurango.net/radio/zaki_daghistani"
   },
   {
     "id": "khalid_abdulkafi",
@@ -2179,10 +2204,11 @@
     "category": "reciters",
     "badge": "حفص عن عاصم",
     "country": "السعودية",
-    "streamUrl": "http://r11.tarat.com:8054/index.html/stream",
+    "streamUrl": "https://qurango.net/radio/khalid_abdulkafi",
     "description": "المصحف المرتل برواية حفص عن عاصم بصوت القارئ خالد عبد الكافي",
     "isVerified": true,
-    "order": 185
+    "order": 185,
+    "backupUrl": "https://qurango.net/radio/khalid_abdulkafi"
   },
   {
     "id": "sahl_yassin",
@@ -2190,10 +2216,11 @@
     "category": "reciters",
     "badge": "حفص عن عاصم",
     "country": "السعودية",
-    "streamUrl": "http://r11.tarat.com:8102/index.html/stream",
+    "streamUrl": "https://qurango.net/radio/sahl_yassin",
     "description": "المصحف المرتل برواية حفص عن عاصم بصوت القارئ سهل ياسين",
     "isVerified": true,
-    "order": 186
+    "order": 186,
+    "backupUrl": "https://qurango.net/radio/sahl_yassin"
   },
   {
     "id": "jamal_shaker",
@@ -2201,10 +2228,11 @@
     "category": "reciters",
     "badge": "حفص عن عاصم",
     "country": "فلسطين",
-    "streamUrl": "http://r11.tarat.com:8044/index.html/stream",
+    "streamUrl": "https://qurango.net/radio/jamal_shaker_abdullah",
     "description": "تلاوات مرتلة برواية حفص عن عاصم بصوت الشيخ جمال شاكر عبد الله",
     "isVerified": true,
-    "order": 187
+    "order": 187,
+    "backupUrl": "https://qurango.net/radio/jamal_shaker_abdullah"
   },
   {
     "id": "ahmad_alhawashi",
@@ -2212,10 +2240,11 @@
     "category": "reciters",
     "badge": "تلاوات خاشعة",
     "country": "السعودية",
-    "streamUrl": "http://r5.tarat.com:8158/index.html/stream",
+    "streamUrl": "https://qurango.net/radio/ahmad_alhawashi",
     "description": "صلوات القيام والتراويح وتلاوات خاشعة بصوت الشيخ أحمد الحواشي رحمه الله",
     "isVerified": true,
-    "order": 188
+    "order": 188,
+    "backupUrl": "https://qurango.net/radio/ahmad_alhawashi"
   },
   {
     "id": "ahmad_alhuthaifi",
@@ -2223,10 +2252,11 @@
     "category": "reciters",
     "badge": "إمام المسجد النبوي",
     "country": "السعودية",
-    "streamUrl": "http://r5.tarat.com:8164/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/ahmad-hudhaifi/r1/{surah3}.mp3",
     "description": "تلاوات صلوات المسجد النبوي الشريف بصوت الشيخ د. أحمد الحذيفي",
     "isVerified": true,
-    "order": 189
+    "order": 189,
+    "surahCount": 114
   },
   {
     "id": "mohammed_khalil_qari",
@@ -2234,10 +2264,11 @@
     "category": "reciters",
     "badge": "إمام مسجد قباء",
     "country": "السعودية",
-    "streamUrl": "http://r6.tarat.com:8018/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/muhammad-khalil/r1/{surah3}.mp3",
     "description": "تلاوات صلوات المسجد النبوي ومسجد قباء بصوت الشيخ محمد خليل القارئ رحمه الله",
     "isVerified": true,
-    "order": 190
+    "order": 190,
+    "surahCount": 114
   },
   {
     "id": "yasser_salamah",
@@ -2245,21 +2276,23 @@
     "category": "reciters",
     "badge": "حفص عن عاصم",
     "country": "مصر",
-    "streamUrl": "http://r6.tarat.com:8046/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/yasser-salama/r1/{surah3}.mp3",
     "description": "تلاوات حدر وتلاوات مرتلة سريعة للمراجعة والتدبر بصوت الشيخ ياسر سلامة",
     "isVerified": true,
-    "order": 191
+    "order": 191,
+    "surahCount": 114
   },
   {
-    "id": "mohammed_kabbarah",
-    "name": "الشيخ محمد صلاح الدين كبارة",
+    "id": "yasser_alqurashi",
+    "name": "الشيخ ياسر القرشي",
     "category": "reciters",
     "badge": "تلاوات تاريخية نادرة",
     "country": "لبنان",
-    "streamUrl": "http://r6.tarat.com:8014/index.html/stream",
-    "description": "تلاوات مجودة ومقامات قرآنية رفيعة بصوت شيخ قراء طرابلس محمد كبارة رحمه الله",
+    "streamUrl": "https://qurango.net/radio/yasser_alqurashi",
+    "description": "تلاوات عطرة خاشعة بصوت القارئ الشيخ ياسر القرشي برواية حفص عن عاصم",
     "isVerified": true,
-    "order": 192
+    "order": 192,
+    "backupUrl": "https://qurango.net/radio/yasser_alqurashi"
   },
   {
     "id": "peshawa_qadir",
@@ -2267,10 +2300,11 @@
     "category": "reciters",
     "badge": "تلاوات خاشعة",
     "country": "العراق",
-    "streamUrl": "http://r15.tarat.com:8006/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/peshawa-kurdi/r1/{surah3}.mp3",
     "description": "تلاوات ندية خاشعة تأسر القلوب بصوت القارئ بيشةوا قادر الكردي",
     "isVerified": true,
-    "order": 193
+    "order": 193,
+    "surahCount": 114
   },
   {
     "id": "mousa_bilal",
@@ -2278,10 +2312,11 @@
     "category": "reciters",
     "badge": "حفص عن عاصم",
     "country": "السعودية",
-    "streamUrl": "https://backup.qurango.net/radio/mousa_bilal",
+    "streamUrl": "https://qurango.net/radio/mousa_bilal",
     "description": "تلاوات متقنة ومجودة بصوت المقرئ الشيخ موسى بلال",
     "isVerified": true,
-    "order": 194
+    "order": 194,
+    "backupUrl": "https://backup.qurango.net/radio/mousa_bilal"
   },
   {
     "id": "younis_aswailas",
@@ -2289,21 +2324,23 @@
     "category": "reciters",
     "badge": "رواية ورش عن نافع",
     "country": "المغرب",
-    "streamUrl": "http://r15.tarat.com:8076/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/younes-souilass/r1/{surah3}.mp3",
     "description": "المصحف المرتل برواية ورش عن نافع بصوت القارئ المغربي يونس اسويلص",
     "isVerified": true,
-    "order": 195
+    "order": 195,
+    "surahCount": 65
   },
   {
     "id": "bader_alnafis",
-    "name": "الشيخ بدر النفيس",
+    "name": "الشيخ أحمد النفيس",
     "category": "reciters",
     "badge": "تلاوات خاشعة",
     "country": "الكويت",
-    "streamUrl": "http://r16.tarat.com:8004/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/ahmad-nufais/r1/{surah3}.mp3",
     "description": "تلاوات صلوات القيام والتراويح بصوت القارئ الكويتي بدر النفيس",
     "isVerified": true,
-    "order": 196
+    "order": 196,
+    "surahCount": 114
   },
   {
     "id": "faisal_alhajri",
@@ -2311,10 +2348,11 @@
     "category": "reciters",
     "badge": "حفص عن عاصم",
     "country": "الكويت",
-    "streamUrl": "http://r16.tarat.com:8000/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/faisal-hajri/r1/{surah3}.mp3",
     "description": "المصحف المرتل بصوت القارئ الكويتي فيصل الهاجري",
     "isVerified": true,
-    "order": 197
+    "order": 197,
+    "surahCount": 114
   },
   {
     "id": "bilal_derbali",
@@ -2322,32 +2360,34 @@
     "category": "reciters",
     "badge": "تلاوات خاشعة",
     "country": "تونس",
-    "streamUrl": "http://r16.tarat.com:8022/index.html/stream",
+    "streamUrl": "https://archive.org/metadata/001-2_20230306",
     "description": "تلاوات خاشعة على الطريقة التونسية والمغاربية بصوت القارئ بلال دربالي",
     "isVerified": true,
     "order": 198
   },
   {
     "id": "asim_alluhaidan",
-    "name": "الشيخ عاصم اللحيدان",
+    "name": "الشيخ محمد اللحيدان",
     "category": "reciters",
     "badge": "تلاوات خاشعة",
     "country": "السعودية",
-    "streamUrl": "http://r15.tarat.com:8104/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/{surah3}.mp3",
     "description": "تلاوات خاشعة ومميزة بصوت القارئ عاصم اللحيدان",
     "isVerified": true,
-    "order": 199
+    "order": 199,
+    "surahCount": 114
   },
   {
-    "id": "hazem_saif",
-    "name": "الشيخ حازم سيف",
+    "id": "hitham_aljadani",
+    "name": "الشيخ هيثم الجدعاني",
     "category": "reciters",
     "badge": "تلاوات خاشعة",
     "country": "مصر",
-    "streamUrl": "http://r10.tarat.com:8108/index.html/stream",
-    "description": "تلاوات ندية خاشعة ومبكية بصوت القارئ حازم سيف",
+    "streamUrl": "https://qurango.net/radio/hitham_aljadani",
+    "description": "تلاوات ندية خاشعة ومؤثرة بصوت القارئ الشيخ هيثم الجدعاني",
     "isVerified": true,
-    "order": 200
+    "order": 200,
+    "backupUrl": "https://backup.qurango.net/radio/hitham_aljadani"
   },
   {
     "id": "okasha_kameny",
@@ -2355,32 +2395,36 @@
     "category": "reciters",
     "badge": "رواية الدوري عن الكسائي",
     "country": "إذاعة متخصصة",
-    "streamUrl": "http://r10.tarat.com:8100/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/okasha-kameny/r2/{surah3}.mp3",
     "description": "تلاوات بالقراءات والروايات القرآنية المتواترة بصوت الشيخ عكاشة كميني",
     "isVerified": true,
-    "order": 201
+    "order": 201,
+    "backupUrl": "https://archive.org/metadata/Okasha-Kameny",
+    "surahCount": 114
   },
   {
-    "id": "mohammed_alsubayil",
-    "name": "الشيخ محمد السبيل",
+    "id": "yousef_alshoaey",
+    "name": "الشيخ يوسف الشويعي",
     "category": "reciters",
     "badge": "إمام الحرم المكي",
     "country": "السعودية",
-    "streamUrl": "https://r16.tarat.com:8128/stream",
-    "description": "تلاوات الحرم المكي الخالدة بصوت إمام وخطيب الحرم الشيخ محمد السبيل رحمه الله",
+    "streamUrl": "https://qurango.net/radio/yousef_alshoaey",
+    "description": "تلاوات مباركة ومتقنة بصوت القارئ الشيخ يوسف الشويعي",
     "isVerified": true,
-    "order": 202
+    "order": 202,
+    "backupUrl": "https://qurango.net/radio/yasser_alqurashi"
   },
   {
-    "id": "abahassan_alkurdi",
-    "name": "الشيخ أبا الحسن محي الدين الكردي",
+    "id": "yousef_bin_noah_ahmad",
+    "name": "الشيخ يوسف بن نوح أحمد",
     "category": "reciters",
     "badge": "تلاوات بالقراءات",
     "country": "سوريا",
-    "streamUrl": "https://r16.tarat.com:8108/stream",
-    "description": "تلاوات وقراءات متقنة لشيخ قراء دمشق العلامة أبا الحسن الكردي رحمه الله",
+    "streamUrl": "https://qurango.net/radio/yousef_bin_noah_ahmad",
+    "description": "تلاوات هادئة وخاشعة بصوت القارئ الشيخ يوسف بن نوح أحمد",
     "isVerified": true,
-    "order": 203
+    "order": 203,
+    "backupUrl": "https://qurango.net/radio/yousef_bin_noah_ahmad"
   },
   {
     "id": "jamaan_alosaimi",
@@ -2388,21 +2432,23 @@
     "category": "reciters",
     "badge": "حفص عن عاصم",
     "country": "السعودية",
-    "streamUrl": "http://r11.tarat.com:8046/index.html/stream",
+    "streamUrl": "https://qurango.net/radio/jamaan_alosaimi",
     "description": "تلاوات عطرة برواية حفص عن عاصم بصوت القارئ جمعان العصيمي",
     "isVerified": true,
-    "order": 204
+    "order": 204,
+    "backupUrl": "https://qurango.net/radio/jamaan_alosaimi"
   },
   {
-    "id": "alaa_almazjaji",
-    "name": "الشيخ علاء المزجاجي",
+    "id": "abdulmohsin_alharthy",
+    "name": "الشيخ عبد المحسن الحارثي",
     "category": "reciters",
     "badge": "حفص عن عاصم",
     "country": "السعودية",
-    "streamUrl": "http://r5.tarat.com:8176/index.html/stream",
-    "description": "تلاوات خاشعة ومرتلة برواية حفص عن عاصم بصوت القارئ علاء المزجاجي",
+    "streamUrl": "https://qurango.net/radio/abdulmohsin_alharthy",
+    "description": "تلاوات ندية مباركة بصوت القارئ الشيخ عبد المحسن الحارثي",
     "isVerified": true,
-    "order": 205
+    "order": 205,
+    "backupUrl": "https://qurango.net/radio/abdulmohsin_alharthy"
   },
   {
     "id": "abdullah_ghailan",
@@ -2410,10 +2456,11 @@
     "category": "reciters",
     "badge": "حفص عن عاصم",
     "country": "اليمن",
-    "streamUrl": "http://r5.tarat.com:8140/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/abdullah-ghailan/r1/{surah3}.mp3",
     "description": "المصحف المرتل بصوت القارئ الشيخ عبد الله غيلان",
     "isVerified": true,
-    "order": 206
+    "order": 206,
+    "surahCount": 114
   },
   {
     "id": "abdulmohsen_alobaikan",
@@ -2421,21 +2468,24 @@
     "category": "reciters",
     "badge": "حفص عن عاصم",
     "country": "السعودية",
-    "streamUrl": "http://live.mp3quran.net:9854/",
+    "streamUrl": "https://qurango.net/radio/abdulmohsin_alobaikan",
     "description": "تلاوات متقنة ومصحف مرتل بصوت الشيخ عبد المحسن العبيكان",
     "isVerified": true,
-    "order": 207
+    "order": 207,
+    "backupUrl": "https://backup.qurango.net/radio/abdulmohsin_alobaikan"
   },
   {
-    "id": "mohammed_alamshah",
-    "name": "الشيخ محمد صالح عالم شاه",
+    "id": "nourin_siddig",
+    "name": "الشيخ نورين محمد صديق",
     "category": "reciters",
-    "badge": "حفص عن عاصم",
-    "country": "السعودية",
-    "streamUrl": "http://live.mp3quran.net:9828/",
-    "description": "المصحف المرتل برواية حفص عن عاصم بصوت القارئ محمد صالح عالم شاه",
+    "badge": "رواية الدوري عن أبي عمرو",
+    "country": "السودان",
+    "streamUrl": "https://cdn.mp3quran.net/audio/noreen-siddiq/r1/{surah3}.mp3",
+    "description": "تلاوات خاشعة فريدة ومؤثرة برواية الدوري عن أبي عمرو بصوت الشيخ نورين محمد صديق رحمه الله",
     "isVerified": true,
-    "order": 208
+    "order": 208,
+    "backupUrl": "https://backup.qurango.net/radio/mohammad_alabdullah",
+    "surahCount": 114
   },
   {
     "id": "mohammed_alabdulkareem",
@@ -2443,10 +2493,11 @@
     "category": "reciters",
     "badge": "حفص عن عاصم",
     "country": "السعودية",
-    "streamUrl": "http://live.mp3quran.net:9824/",
+    "streamUrl": "https://qurango.net/radio/mohammad_abdullkarem",
     "description": "المصحف المرتل برواية حفص عن عاصم بصوت القارئ محمد العبد الكريم",
     "isVerified": true,
-    "order": 209
+    "order": 209,
+    "backupUrl": "https://qurango.net/radio/mohammad_abdullkarem"
   },
   {
     "id": "anas_alemadi",
@@ -2454,32 +2505,35 @@
     "category": "reciters",
     "badge": "حفص عن عاصم",
     "country": "البحرين",
-    "streamUrl": "http://r5.tarat.com:8190/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/anas-emadi/r1/{surah3}.mp3",
     "description": "تلاوات ندية ومصاحف مرتلة بصوت القارئ البحريني أنس العمادي",
     "isVerified": true,
-    "order": 210
+    "order": 210,
+    "surahCount": 114
   },
   {
-    "id": "faisal_alrasheed",
-    "name": "الشيخ فيصل بن محمد الرشيد",
+    "id": "abdullah_almousa",
+    "name": "الشيخ عبد الله الموسى",
     "category": "reciters",
     "badge": "حفص عن عاصم",
     "country": "السعودية",
-    "streamUrl": "http://r5.tarat.com:8200/index.html/stream",
-    "description": "تلاوات ندية وخاشعة بصوت القارئ فيصل الرشيد",
+    "streamUrl": "https://qurango.net/radio/abdullah_almousa",
+    "description": "تلاوات عذبة ومؤثرة تأسر القلوب بصوت القارئ الشيخ عبد الله الموسى",
     "isVerified": true,
-    "order": 211
+    "order": 211,
+    "backupUrl": "https://backup.qurango.net/radio/abdullah_almousa"
   },
   {
-    "id": "mohammed_hussain_amer",
-    "name": "الشيخ محمد حسين عامر",
+    "id": "mohammad_saleh_alim_shah",
+    "name": "الشيخ محمد صالح عالم شاه",
     "category": "reciters",
     "badge": "تلاوات تاريخية نادرة",
     "country": "اليمن",
-    "streamUrl": "http://r11.tarat.com:8068/index.html/stream",
-    "description": "تلاوات خالدة بالطريقة الصنعانية لشيخ القراء محمد حسين عامر رحمه الله",
+    "streamUrl": "https://qurango.net/radio/mohammad_saleh_alim_shah",
+    "description": "تلاوات متقنة بصوت ندي عذب بصوت القارئ الشيخ محمد صالح عالم شاه",
     "isVerified": true,
-    "order": 212
+    "order": 212,
+    "backupUrl": "https://qurango.net/radio/mohammad_saleh_alim_shah"
   },
   {
     "id": "hussain_alshaikh",
@@ -2487,32 +2541,35 @@
     "category": "reciters",
     "badge": "إمام المسجد النبوي",
     "country": "السعودية",
-    "streamUrl": "http://r5.tarat.com:8204/index.html/stream",
+    "streamUrl": "https://cdn.mp3quran.net/audio/hussain-sheikh/r1/{surah3}.mp3",
     "description": "تلاوات صلوات المسجد النبوي الشريف بصوت إمام المسجد النبوي حسين آل الشيخ",
     "isVerified": true,
-    "order": 213
+    "order": 213,
+    "surahCount": 59
   },
   {
     "id": "tarawih_makkah_radio",
-    "name": "إذاعة تراويح الحرم المكي الشريف",
+    "name": "إذاعة تراويح الحرمين وفضائل شهر رمضان",
     "category": "reciters",
     "badge": "تلاوات خاشعة",
     "country": "السعودية",
-    "streamUrl": "http://r11.tarat.com:8066/index.html/stream",
-    "description": "بث متواصل لتلاوات صلاة التراويح والتهجد من رحاب المسجد الحرام بمكة المكرمة",
+    "streamUrl": "https://qurango.net/radio/ramadan",
+    "description": "تسجيلات خاشعة لتراويح وصلوات الحرمين الشريفين وفضائل وأحكام شهر القرآن والصيام",
     "isVerified": true,
-    "order": 214
+    "order": 214,
+    "backupUrl": "https://qurango.net/radio/ramadan"
   },
   {
     "id": "tarawih_madinah_radio",
-    "name": "إذاعة تراويح المسجد النبوي الشريف",
+    "name": "إذاعة الشمائل المحمدية النبوية",
     "category": "reciters",
     "badge": "تلاوات خاشعة",
     "country": "السعودية",
-    "streamUrl": "http://r11.tarat.com:8062/index.html/stream",
-    "description": "بث متواصل لتلاوات صلاة التراويح والقيام من رحاب المسجد النبوي الشريف بالمدينة المنورة",
+    "streamUrl": "https://qurango.net/radio/shmaeel",
+    "description": "إذاعة نبوية عطرة تبث شمائل الحبيب المصطفى صلى الله عليه وسلم وأخلاقه وسيرته الزكية",
     "isVerified": true,
-    "order": 215
+    "order": 215,
+    "backupUrl": "https://backup.qurango.net/radio/riyad"
   },
   {
     "id": "baqarah_repeater_radio",
@@ -2520,10 +2577,11 @@
     "category": "reciters",
     "badge": "سورة البقرة 24/7",
     "country": "إذاعة عامة",
-    "streamUrl": "http://r6.tarat.com:8038/index.html/stream",
+    "streamUrl": "https://qurango.net/radio/albaqarah",
     "description": "بث متواصل لسورة البقرة على مدار 24 ساعة بأصوات نخبة من كبار القراء",
     "isVerified": true,
-    "order": 216
+    "order": 216,
+    "backupUrl": "https://qurango.net/radio/albaqarah"
   },
   {
     "id": "ruqyah_shariyyah_radio",
@@ -2531,10 +2589,11 @@
     "category": "reciters",
     "badge": "أذكار وتحصين",
     "country": "إذاعة عامة",
-    "streamUrl": "http://r11.tarat.com:8100/index.html/stream",
+    "streamUrl": "https://qurango.net/radio/roqiah",
     "description": "بث متواصل للرقية الشرعية من الكتاب والسنة النبوية لتحصين النفس والبيت",
     "isVerified": true,
-    "order": 217
+    "order": 217,
+    "backupUrl": "https://qurango.net/radio/albaqarah"
   },
   {
     "id": "moallam_murattal_radio",
@@ -2542,9 +2601,10 @@
     "category": "reciters",
     "badge": "إذاعة متخصصة",
     "country": "إذاعة عامة",
-    "streamUrl": "http://r11.tarat.com:8012/index.html/stream",
-    "description": "إذاعة تعليمية لترديد آيات القرآن الكريم للأطفال والناشئة لضبط الحفظ والتجويد",
+    "streamUrl": "https://qurango.net/radio/mohammed_siddiq_alminshawi_moallam",
+    "description": "إذاعة تعليمية لترديد آيات القرآن الكريم للأطفال والناشئة لضبط الحفظ والتجويد (الشيخ محمد صديق المنشاوي مع الأطفال)",
     "isVerified": true,
-    "order": 218
+    "order": 218,
+    "backupUrl": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_moallam"
   }
 ]
