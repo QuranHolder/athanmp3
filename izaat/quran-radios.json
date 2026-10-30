@@ -66,7 +66,8 @@
     "streamUrl": "https://radio.mp3islam.com/listen/quran_radio/radio.mp3",
     "description": "تلاوات قرآنية مباركة وبرامج دينية متواصلة من دولة الكويت",
     "isVerified": true,
-    "order": 6
+    "order": 6,
+    "backupUrl": "http://r1.tarat.com:8200/index.html/stream"
   },
   {
     "id": "algeria_official",
@@ -88,7 +89,8 @@
     "streamUrl": "https://partrdo.mangomolo.com/quranrdo.mp3",
     "description": "البث المباشر لإذاعة القرآن الكريم من مسقط (93.2 FM) - تلاوات وبرامج إيمانية",
     "isVerified": true,
-    "order": 8
+    "order": 8,
+    "backupUrl": "http://r1.tarat.com:8206/index.html/stream"
   },
   {
     "id": "bahrain_official",
@@ -97,7 +99,7 @@
     "badge": "البث الرسمي المباشر",
     "country": "البحرين",
     "streamUrl": "https://5c7b683162943.streamlock.net/live/ngrp:radio-106-1_all/playlist.m3u8",
-    "backupUrl": "https://5c7b683162943.streamlock.net/live/radio-106-1/playlist.m3u8",
+    "backupUrl": "http://r1.tarat.com:8194/index.html/stream",
     "description": "البث الحي المباشر لإذاعة القرآن الكريم من مملكة البحرين (106.1 FM) - تلاوات وبرامج دينية على مدار الساعة",
     "isVerified": true,
     "order": 9
@@ -580,6 +582,205 @@
     "order": 49
   },
   {
+    "id": "nedaa_islam_makkah",
+    "name": "إذاعة نداء الإسلام من مكة المكرمة",
+    "category": "official",
+    "badge": "البث الرسمي المباشر",
+    "country": "السعودية",
+    "streamUrl": "https://stream.radiojar.com/wm4cp9mxdd3vv",
+    "backupUrl": "https://stream.radiojar.com/q6xxwmd53d0uv",
+    "description": "البث المباشر لإذاعة نداء الإسلام من رحاب مكة المكرمة - برامج وتلاوات إيمانية",
+    "isVerified": true,
+    "order": 50
+  },
+  {
+    "id": "sunnah_prophet_madinah",
+    "name": "إذاعة السنة النبوية من المدينة المنورة",
+    "category": "official",
+    "badge": "البث الرسمي المباشر",
+    "country": "السعودية",
+    "streamUrl": "https://stream.radiojar.com/dktga74wdd3vv",
+    "description": "البث المباشر لإذاعة وقناة السنة النبوية من رحاب المسجد النبوي الشريف",
+    "isVerified": true,
+    "order": 51
+  },
+  {
+    "id": "almajd_quran_radio",
+    "name": "إذاعة القرآن الكريم - قناة المجد",
+    "category": "official",
+    "badge": "بث مباشر 24/7",
+    "country": "السعودية",
+    "streamUrl": "http://r1.tarat.com:8196/index.html/stream",
+    "description": "البث الإذاعي لقناة المجد الفضائية للقرآن الكريم - تلاوات خاشعة ومصاحف كاملة",
+    "isVerified": true,
+    "order": 52
+  },
+  {
+    "id": "almajd_scientific_radio",
+    "name": "إذاعة المجد العلمية",
+    "category": "official",
+    "badge": "إذاعة علمية",
+    "country": "السعودية",
+    "streamUrl": "http://r7.tarat.com:8008/index.html/stream",
+    "description": "البث الإذاعي لقناة المجد العلمية - دروس ومتون وتأصيل العلوم الشرعية",
+    "isVerified": true,
+    "order": 53
+  },
+  {
+    "id": "saudi_quran_tv_audio",
+    "name": "قناة القرآن الكريم السعودية (بث مباشر)",
+    "category": "official",
+    "badge": "البث الرسمي المباشر",
+    "country": "السعودية",
+    "streamUrl": "http://r7.tarat.com:8004/index.html/stream",
+    "description": "البث الصوتي المباشر لقناة القرآن الكريم السعودية من المسجد الحرام بمكة المكرمة",
+    "isVerified": true,
+    "order": 54
+  },
+  {
+    "id": "makkah_tv_audio",
+    "name": "قناة مكة المكرمة الفضائية (صوتياً)",
+    "category": "official",
+    "badge": "بث مباشر 24/7",
+    "country": "السعودية",
+    "streamUrl": "http://r1.tarat.com:8202/index.html/stream",
+    "description": "البث المباشر لقناة مكة المكرمة - تلاوات ونفحات إيمانية من البلد الحرام",
+    "isVerified": true,
+    "order": 55
+  },
+  {
+    "id": "othaimin_radio",
+    "name": "إذاعة الشيخ محمد بن صالح العثيمين",
+    "category": "official",
+    "badge": "إذاعة علمية",
+    "country": "السعودية",
+    "streamUrl": "http://r7.tarat.com:8010/index.html/stream",
+    "description": "بث متواصل لدروس وفتاوى وشروحات الشيخ العلامة محمد بن صالح العثيمين رحمه الله",
+    "isVerified": true,
+    "order": 56
+  },
+  {
+    "id": "zad_scientific_radio",
+    "name": "إذاعة قناة زاد العلمية",
+    "category": "official",
+    "badge": "إذاعة علمية",
+    "country": "السعودية",
+    "streamUrl": "http://r6.tarat.com:8154/index.html/stream",
+    "description": "البث الإذاعي لقناة زاد العلمية - برامج تأصيلية ومحاضرات نافعة لأسرة المسلم",
+    "isVerified": true,
+    "order": 57
+  },
+  {
+    "id": "quran_syria_official",
+    "name": "إذاعة القرآن الكريم من سوريا",
+    "category": "official",
+    "badge": "البث الرسمي المباشر",
+    "country": "سوريا",
+    "streamUrl": "https://stream.radiojar.com/9bgw4yxzceuvv",
+    "description": "البث الرسمي لإذاعة القرآن الكريم من دمشق - تلاوات وبرامج إيمانية",
+    "isVerified": true,
+    "order": 58
+  },
+  {
+    "id": "quran_qatar_official",
+    "name": "إذاعة القرآن الكريم من قطر",
+    "category": "official",
+    "badge": "البث الرسمي المباشر",
+    "country": "قطر",
+    "streamUrl": "http://r1.tarat.com:8198/index.html/stream",
+    "description": "البث المباشر لإذاعة القرآن الكريم من الدوحة - تلاوات وقراءات متميزة",
+    "isVerified": true,
+    "order": 59
+  },
+  {
+    "id": "misr_quran_kareem",
+    "name": "إذاعة مصر قرآن كريم",
+    "category": "official",
+    "badge": "تلاوات تاريخية نادرة",
+    "country": "مصر",
+    "streamUrl": "https://stream.radiojar.com/htnudfgugm8uv",
+    "description": "تلاوات نادرة ومجودة لقراء عصر التلاوة الذهبي في جمهورية مصر العربية",
+    "isVerified": true,
+    "order": 60
+  },
+  {
+    "id": "bayyinat_radio",
+    "name": "إذاعة بينات القرآنية",
+    "category": "official",
+    "badge": "تفسير وتدبر",
+    "country": "السعودية",
+    "streamUrl": "http://r3.tarat.com:8028/index.html/stream",
+    "description": "إذاعة متخصصة في علوم القرآن وتدبر آياته برعاية جمعية بينات",
+    "isVerified": true,
+    "order": 61
+  },
+  {
+    "id": "al_dhikr_alhakeem_radio",
+    "name": "إذاعة الذكر الحكيم",
+    "category": "official",
+    "badge": "تلاوات مختارة 24/7",
+    "country": "إذاعة عامة",
+    "streamUrl": "http://r1.tarat.com:8112/index.html/stream",
+    "description": "بث متواصل لأعذب تلاوات الذكر الحكيم بأصوات كبار القراء في العالم الإسلامي",
+    "isVerified": true,
+    "order": 62
+  },
+  {
+    "id": "alukah_quran_radio",
+    "name": "قناة القرآن الكريم - شبكة الألوكة",
+    "category": "official",
+    "badge": "بث مباشر 24/7",
+    "country": "السعودية",
+    "streamUrl": "https://radio.alukah.net/quran",
+    "description": "بث متواصل لتلاوات عطرة ومصاحف كاملة عبر شبكة الألوكة المباركة",
+    "isVerified": true,
+    "order": 63
+  },
+  {
+    "id": "alukah_hadith_radio",
+    "name": "قناة الحديث وعلومه - شبكة الألوكة",
+    "category": "official",
+    "badge": "الحديث النبوي",
+    "country": "السعودية",
+    "streamUrl": "https://radio.alukah.net/hadith",
+    "description": "إذاعة متخصصة في قراءة الأحاديث النبوية الصحيحة وشروحها من شبكة الألوكة",
+    "isVerified": true,
+    "order": 64
+  },
+  {
+    "id": "alukah_aqidah_radio",
+    "name": "قناة العقيدة والتوحيد - شبكة الألوكة",
+    "category": "official",
+    "badge": "إذاعة علمية",
+    "country": "السعودية",
+    "streamUrl": "https://radio.alukah.net/aqidah",
+    "description": "بث إذاعي لشرح متون العقيدة الإسلامية الصحيحة السلفية النقية",
+    "isVerified": true,
+    "order": 65
+  },
+  {
+    "id": "alukah_hajj_radio",
+    "name": "قناة الحج والعمرة - شبكة الألوكة",
+    "category": "official",
+    "badge": "إذاعة متخصصة",
+    "country": "السعودية",
+    "streamUrl": "https://radio.alukah.net/hajj",
+    "description": "إذاعة متخصصة في أحكام الحج والعمرة وفضائل عشر ذي الحجة والتكبيرات",
+    "isVerified": true,
+    "order": 66
+  },
+  {
+    "id": "ayat_quran_radio",
+    "name": "إذاعة آيات للقرآن الكريم",
+    "category": "official",
+    "badge": "تلاوات خاشعة",
+    "country": "الكويت",
+    "streamUrl": "http://r14.tarat.com:8100/index.html/stream",
+    "description": "تلاوات قرآنية ندية ومصاحف مرتلة على مدار الساعة من إذاعة آيات",
+    "isVerified": true,
+    "order": 67
+  },
+  {
     "id": "mohammed_refaat",
     "name": "الشيخ محمد رفعت (تلاوات نادرة وخالدة)",
     "category": "reciters",
@@ -588,7 +789,7 @@
     "streamUrl": "https://radio.mp3islam.com/listen/refaat/radio.mp3",
     "description": "التلاوات الإذاعية التاريخية الخالدة لقيثارة السماء فضيلة الشيخ محمد رفعت رحمه الله",
     "isVerified": true,
-    "order": 50
+    "order": 68
   },
   {
     "id": "hussary_murattal",
@@ -600,7 +801,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary",
     "description": "المصحف المرتل الكامل برواية حفص عن عاصم لشيخ عموم المقارئ المصرية",
     "isVerified": true,
-    "order": 51
+    "order": 69
   },
   {
     "id": "hussary_mojawwad",
@@ -612,7 +813,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_mojawwad",
     "description": "تلاوات المصحف المجود الخالدة للشيخ محمود خليل الحصري",
     "isVerified": true,
-    "order": 52
+    "order": 70
   },
   {
     "id": "minshawi_murattal",
@@ -624,7 +825,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi",
     "description": "المصحف المرتل بصوت القارئ الخاشع الشيخ محمد صديق المنشاوي",
     "isVerified": true,
-    "order": 53
+    "order": 71
   },
   {
     "id": "minshawi_mojawwad",
@@ -636,7 +837,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad",
     "description": "روائع التلاوات المجودة والنوادر الإذاعية للشيخ محمد صديق المنشاوي",
     "isVerified": true,
-    "order": 54
+    "order": 72
   },
   {
     "id": "abdulbasit_murattal",
@@ -648,7 +849,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdulbasit_abdulsamad",
     "description": "المصحف المرتل بصوت صاحب الحنجرة الذهبية الشيخ عبد الباسط عبد الصمد",
     "isVerified": true,
-    "order": 55
+    "order": 73
   },
   {
     "id": "abdulbasit_mojawwad",
@@ -660,7 +861,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
     "description": "المصحف المجود وروائع المحافل القرآنية للشيخ عبد الباسط عبد الصمد",
     "isVerified": true,
-    "order": 56
+    "order": 74
   },
   {
     "id": "mustafa_ismail",
@@ -672,7 +873,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mustafa_ismail",
     "description": "تلاوات قارئ مصر الأول فضيلة الشيخ مصطفى إسماعيل",
     "isVerified": true,
-    "order": 57
+    "order": 75
   },
   {
     "id": "albanna_murattal",
@@ -684,7 +885,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mahmoud_ali__albanna",
     "description": "المصحف المرتل بصوت الشيخ محمود علي البنا",
     "isVerified": true,
-    "order": 58
+    "order": 76
   },
   {
     "id": "albanna_mojawwad",
@@ -696,7 +897,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mahmoud_ali__albanna_mojawwad",
     "description": "التلاوات المجودة الإذاعية للشيخ محمود علي البنا",
     "isVerified": true,
-    "order": 59
+    "order": 77
   },
   {
     "id": "tablawi",
@@ -708,7 +909,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mohammad_altablaway",
     "description": "تلاوات متواصلة لفضيلة الشيخ محمد محمود الطبلاوي",
     "isVerified": true,
-    "order": 60
+    "order": 78
   },
   {
     "id": "ahmad_nauina",
@@ -720,7 +921,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ahmad_nauina",
     "description": "المصحف المرتل والتلاوات الخالدة للقارئ الدكتور أحمد نعينع",
     "isVerified": true,
-    "order": 61
+    "order": 79
   },
   {
     "id": "mohammed_jibreel",
@@ -732,7 +933,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mohammed_jibreel",
     "description": "المصحف المرتل بصوت القارئ الشيخ محمد محمد السيد حسنين جبريل",
     "isVerified": true,
-    "order": 62
+    "order": 80
   },
   {
     "id": "sayeed_ramadan",
@@ -744,7 +945,7 @@
     "backupUrl": "https://backup.qurango.net/radio/sayeed_ramadan",
     "description": "تلاوات إذاعية أصيلة بصوت القارئ الشيخ سيد رمضان رحمه الله",
     "isVerified": true,
-    "order": 63
+    "order": 81
   },
   {
     "id": "mohammad_rashad_alshareef",
@@ -756,7 +957,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mohammad_rashad_alshareef",
     "description": "المصحف المرتل لقارئ المسجد الأقصى المبارك والحرم الإبراهيمي الشيخ محمد رشاد الشريف",
     "isVerified": true,
-    "order": 64
+    "order": 82
   },
   {
     "id": "ali_hajjaj_alsouasi",
@@ -768,7 +969,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ali_hajjaj_alsouasi",
     "description": "تلاوات متقنة للمصحف المرتل بصوت الشيخ علي حجاج السويسي",
     "isVerified": true,
-    "order": 65
+    "order": 83
   },
   {
     "id": "abdulbari_mohammad",
@@ -780,7 +981,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdulbari_mohammad",
     "description": "المصحف المرتل بصوت القارئ المتقن الشيخ عبد الباري محمد",
     "isVerified": true,
-    "order": 66
+    "order": 84
   },
   {
     "id": "mustafa_allahoni",
@@ -792,7 +993,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mustafa_allahoni",
     "description": "تلاوات مرتلة خاشعة بصوت القارئ الشيخ مصطفى اللاهوني",
     "isVerified": true,
-    "order": 67
+    "order": 85
   },
   {
     "id": "hatem_fareed_alwaer",
@@ -804,7 +1005,7 @@
     "backupUrl": "https://backup.qurango.net/radio/hatem_fareed_alwaer",
     "description": "تلاوات القيام والمصحف المرتل بصوت الشيخ حاتم فريد الواعر",
     "isVerified": true,
-    "order": 68
+    "order": 86
   },
   {
     "id": "abdulrahman_alshahhat",
@@ -816,7 +1017,7 @@
     "backupUrl": "https://backup.qurango.net/radio/a_alshahhat",
     "description": "تلاوات ندية ومؤثرة بصوت القارئ الشيخ عبد الرحمن الشحات",
     "isVerified": true,
-    "order": 69
+    "order": 87
   },
   {
     "id": "akram_alalaqmi",
@@ -828,7 +1029,7 @@
     "backupUrl": "https://backup.qurango.net/radio/akram_alalaqmi",
     "description": "المصحف المرتل بصوت القارئ الشيخ أكرم العلاقمي",
     "isVerified": true,
-    "order": 70
+    "order": 88
   },
   {
     "id": "ahmad_saber",
@@ -840,7 +1041,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ahmad_saber",
     "description": "تلاوات مرتلة بصوت القارئ الشيخ أحمد صابر",
     "isVerified": true,
-    "order": 71
+    "order": 89
   },
   {
     "id": "saber_abdulhakm",
@@ -852,7 +1053,7 @@
     "backupUrl": "https://backup.qurango.net/radio/saber_abdulhakm",
     "description": "المصحف المرتل الكامل بصوت الشيخ صابر عبد الحكم",
     "isVerified": true,
-    "order": 72
+    "order": 90
   },
   {
     "id": "ahmad_shaheen",
@@ -864,7 +1065,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ahmad_shaheen",
     "description": "المصحف المرتل بصوت القارئ الشيخ أحمد خليل شاهين",
     "isVerified": true,
-    "order": 73
+    "order": 91
   },
   {
     "id": "ahmed_amer",
@@ -876,7 +1077,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ahmed_amer",
     "description": "تلاوات قرآنية مرتلة بصوت الشيخ أحمد عامر",
     "isVerified": true,
-    "order": 74
+    "order": 92
   },
   {
     "id": "sudais",
@@ -885,10 +1086,10 @@
     "badge": "إمام الحرم المكي",
     "country": "السعودية",
     "streamUrl": "https://qurango.net/radio/abdulrahman_alsudaes",
-    "backupUrl": "https://radio.mp3islam.com/listen/sudais/radio.mp3",
+    "backupUrl": "http://r5.tarat.com:8146/index.html/stream",
     "description": "تلاوات الحرم المكي الشريف بصوت الشيخ عبد الرحمن السديس",
     "isVerified": true,
-    "order": 75
+    "order": 93
   },
   {
     "id": "shuraim",
@@ -897,10 +1098,10 @@
     "badge": "إمام الحرم المكي",
     "country": "السعودية",
     "streamUrl": "https://qurango.net/radio/saud_alshuraim",
-    "backupUrl": "https://radio.mp3islam.com/listen/alshuraim/radio.mp3",
+    "backupUrl": "http://r6.tarat.com:8036/index.html/stream",
     "description": "تلاوات خاشعة من المسجد الحرام بصوت الشيخ سعود الشريم",
     "isVerified": true,
-    "order": 76
+    "order": 94
   },
   {
     "id": "maher_muaiqly",
@@ -912,7 +1113,7 @@
     "backupUrl": "https://radio.mp3islam.com/listen/maher/radio.mp3",
     "description": "المصحف المرتل الكامل بصوت الشيخ ماهر بن حمد المعيقلي",
     "isVerified": true,
-    "order": 77
+    "order": 95
   },
   {
     "id": "yasser_aldosari",
@@ -921,10 +1122,10 @@
     "badge": "إمام الحرم المكي",
     "country": "السعودية",
     "streamUrl": "https://qurango.net/radio/yasser_aldosari",
-    "backupUrl": "https://radio.mp3islam.com/listen/yaser/radio.mp3",
+    "backupUrl": "http://r6.tarat.com:8048/index.html/stream",
     "description": "تلاوات مرتلة وخاشعة بصوت الشيخ ياسر بن راشد الدوسري",
     "isVerified": true,
-    "order": 78
+    "order": 96
   },
   {
     "id": "bandar_balilah",
@@ -936,7 +1137,7 @@
     "backupUrl": "https://radio.xecod.com/station/bandar-balila",
     "description": "تلاوات المسجد الحرام والمصحف المرتل بصوت الشيخ الدكتور بندر بن عبد العزيز بليلة",
     "isVerified": true,
-    "order": 79
+    "order": 97
   },
   {
     "id": "abdullah_aljohany",
@@ -948,7 +1149,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdullah_aljohany",
     "description": "تلاوات الحرم المكي الشريف والمصحف المرتل بصوت الشيخ عبد الله عواد الجهني",
     "isVerified": true,
-    "order": 80
+    "order": 98
   },
   {
     "id": "bader_alturki",
@@ -960,7 +1161,7 @@
     "backupUrl": "https://backup.qurango.net/radio/bader",
     "description": "تلاوات خاشعة ومرتلة لإمام المسجد الحرام الشيخ بدر بن محمد التركي",
     "isVerified": true,
-    "order": 81
+    "order": 99
   },
   {
     "id": "ali_jaber",
@@ -969,10 +1170,10 @@
     "badge": "إمام الحرم المكي",
     "country": "السعودية",
     "streamUrl": "https://qurango.net/radio/ali_jaber",
-    "backupUrl": "https://backup.qurango.net/radio/ali_jaber",
+    "backupUrl": "http://r5.tarat.com:8184/index.html/stream",
     "description": "تلاوات المسجد الحرام الخالدة بصوت الشيخ علي عبد الله جابر رحمه الله",
     "isVerified": true,
-    "order": 82
+    "order": 100
   },
   {
     "id": "abdullah_khayyat",
@@ -984,7 +1185,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdullah_khayyat",
     "description": "المصحف المرتل بتلاوة حجازية خاشعة لإمام المسجد الحرام الشيخ عبد الله خياط رحمه الله",
     "isVerified": true,
-    "order": 83
+    "order": 101
   },
   {
     "id": "mohammed_ayyub",
@@ -993,10 +1194,10 @@
     "badge": "إمام المسجد النبوي",
     "country": "السعودية",
     "streamUrl": "https://qurango.net/radio/mohammed_ayyub",
-    "backupUrl": "https://qurango.net/radio/ayyoub2",
+    "backupUrl": "http://r6.tarat.com:8012/index.html/stream",
     "description": "التلاوات الحجازية الندية لإمام المسجد النبوي الشيخ محمد أيوب رحمه الله",
     "isVerified": true,
-    "order": 84
+    "order": 102
   },
   {
     "id": "mohammed_ayyub_special",
@@ -1008,7 +1209,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ayyoub2",
     "description": "مختارات من التلاوات النادرة والمميزة من المسجد النبوي للشيخ محمد أيوب رحمه الله",
     "isVerified": true,
-    "order": 85
+    "order": 103
   },
   {
     "id": "ali_alhuthaifi",
@@ -1020,7 +1221,7 @@
     "backupUrl": "https://radio.mp3islam.com/listen/alhuthaifi/radio.mp3",
     "description": "المصحف المرتل المتقن لإمام المسجد النبوي الشيخ علي الحذيفي",
     "isVerified": true,
-    "order": 86
+    "order": 104
   },
   {
     "id": "salah_albudair",
@@ -1029,10 +1230,10 @@
     "badge": "إمام المسجد النبوي",
     "country": "السعودية",
     "streamUrl": "https://qurango.net/radio/salah_albudair",
-    "backupUrl": "https://backup.qurango.net/radio/salah_albudair",
+    "backupUrl": "http://r9.tarat.com:8208/index.html/stream",
     "description": "تلاوات الحرم المدني والمصحف المرتل بصوت الشيخ الدكتور صلاح بن محمد البدير",
     "isVerified": true,
-    "order": 87
+    "order": 105
   },
   {
     "id": "abdulmohsen_alqasim",
@@ -1044,7 +1245,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdulmohsen_alqasim",
     "description": "المصحف المرتل وتلاوات المسجد النبوي الشريف بصوت الشيخ عبد المحسن القاسم",
     "isVerified": true,
-    "order": 88
+    "order": 106
   },
   {
     "id": "abdelbari_altoubayti",
@@ -1056,7 +1257,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdelbari_altoubayti",
     "description": "تلاوات خاشعة ومرتلة لإمام المسجد النبوي الشيخ عبد الباري بن عوض الثبيتي",
     "isVerified": true,
-    "order": 89
+    "order": 107
   },
   {
     "id": "khalid_almohana",
@@ -1068,7 +1269,7 @@
     "backupUrl": "https://backup.qurango.net/radio/khalid_almohana",
     "description": "المصحف المرتل بصوت إمام المسجد النبوي الشريف الشيخ الدكتور خالد بن سليمان المهنا",
     "isVerified": true,
-    "order": 90
+    "order": 108
   },
   {
     "id": "ahmad_binhameed",
@@ -1080,7 +1281,7 @@
     "backupUrl": "https://backup.qurango.net/radio/a_binhameed",
     "description": "تلاوات المسجد النبوي الشريف بصوت الشيخ أحمد بن طالب بن حميد",
     "isVerified": true,
-    "order": 91
+    "order": 109
   },
   {
     "id": "abdullah_buajan",
@@ -1092,7 +1293,7 @@
     "backupUrl": "https://backup.qurango.net/radio/buajan",
     "description": "تلاوات خاشعة من رحاب المسجد النبوي بصوت الشيخ عبد الله بن عبد الرحمن البعيجان",
     "isVerified": true,
-    "order": 92
+    "order": 110
   },
   {
     "id": "ibrahim_alakdar",
@@ -1104,7 +1305,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ibrahim_alakdar",
     "description": "المصحف المرتل بصوت شيخ القراء بالمسجد النبوي الشريف فضيلة الشيخ إبراهيم الأخضر",
     "isVerified": true,
-    "order": 93
+    "order": 111
   },
   {
     "id": "emad_hafez",
@@ -1116,7 +1317,7 @@
     "backupUrl": "https://backup.qurango.net/radio/emad_hafez",
     "description": "المصحف المرتل بصوت إمام مسجد قباء بالمدينة المنورة الشيخ الدكتور عماد زهير حافظ",
     "isVerified": true,
-    "order": 94
+    "order": 112
   },
   {
     "id": "afasi",
@@ -1125,10 +1326,10 @@
     "badge": "حفص عن عاصم",
     "country": "الكويت",
     "streamUrl": "https://qurango.net/radio/mishary_alafasi",
-    "backupUrl": "https://radio.mp3islam.com/listen/mishary/radio.mp3",
+    "backupUrl": "http://r9.tarat.com:8174/index.html/strem",
     "description": "بث مباشر على مدار الساعة لتلاوات الشيخ مشاري راشد العفاسي",
     "isVerified": true,
-    "order": 95
+    "order": 113
   },
   {
     "id": "saad_alghamdi",
@@ -1137,10 +1338,10 @@
     "badge": "حفص عن عاصم",
     "country": "السعودية",
     "streamUrl": "https://qurango.net/radio/saad_alghamdi",
-    "backupUrl": "https://backup.qurango.net/radio/saad_alghamdi",
+    "backupUrl": "http://r6.tarat.com:8026/index.html/stream",
     "description": "المصحف المرتل بصوت القارئ الشيخ سعد بن سعيد الغامدي",
     "isVerified": true,
-    "order": 96
+    "order": 114
   },
   {
     "id": "abu_bakr_shatri",
@@ -1152,7 +1353,7 @@
     "backupUrl": "https://radio.xecod.com/station/abubakr-shatri",
     "description": "تلاوات مرتلة ندية بصوت الشيخ شيخ أبو بكر الشاطري",
     "isVerified": true,
-    "order": 97
+    "order": 115
   },
   {
     "id": "ahmad_alajmy",
@@ -1164,7 +1365,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ahmad_alajmy",
     "description": "المصحف المرتل بصوت القارئ الشيخ أحمد بن علي العجمي",
     "isVerified": true,
-    "order": 98
+    "order": 116
   },
   {
     "id": "nasser_alqatami",
@@ -1173,10 +1374,10 @@
     "badge": "حفص عن عاصم",
     "country": "السعودية",
     "streamUrl": "https://qurango.net/radio/nasser_alqatami",
-    "backupUrl": "https://backup.qurango.net/radio/nasser_alqatami",
+    "backupUrl": "http://r6.tarat.com:8022/index.html/stream",
     "description": "تلاوات خاشعة ومرتلة بصوت الشيخ ناصر بن علي القطامي",
     "isVerified": true,
-    "order": 99
+    "order": 117
   },
   {
     "id": "fares_abbad",
@@ -1185,10 +1386,10 @@
     "badge": "حفص عن عاصم",
     "country": "اليمن",
     "streamUrl": "https://qurango.net/radio/fares_abbad",
-    "backupUrl": "https://backup.qurango.net/radio/fares_abbad",
+    "backupUrl": "http://r5.tarat.com:8196/index.html/stream",
     "description": "المصحف المرتل الكامل بصوت القارئ الشيخ فارس عباد",
     "isVerified": true,
-    "order": 100
+    "order": 118
   },
   {
     "id": "abdullah_basfer",
@@ -1200,7 +1401,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdullah_basfer",
     "description": "المصحف المرتل بصوت الشيخ الدكتور عبد الله بن علي بصفر",
     "isVerified": true,
-    "order": 101
+    "order": 119
   },
   {
     "id": "mohammed_allohaidan",
@@ -1212,7 +1413,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mohammed_allohaidan",
     "description": "تلاوات خاشعة ومؤثرة للمصحف المرتل بصوت الشيخ محمد بن إبراهيم اللحيدان",
     "isVerified": true,
-    "order": 102
+    "order": 120
   },
   {
     "id": "khalid_aljileel",
@@ -1224,7 +1425,7 @@
     "backupUrl": "https://backup.qurango.net/radio/khalid_aljileel",
     "description": "التلاوات الخاشعة والمصحف المرتل بصوت القارئ الشيخ خالد بن فهد الجليل",
     "isVerified": true,
-    "order": 103
+    "order": 121
   },
   {
     "id": "idrees_abkr",
@@ -1236,7 +1437,7 @@
     "backupUrl": "https://backup.qurango.net/radio/idrees_abkr",
     "description": "المصحف المرتل وتلاوات التراويح الخاشعة بصوت القارئ الشيخ إدريس أبكر",
     "isVerified": true,
-    "order": 104
+    "order": 122
   },
   {
     "id": "hani_arrifai",
@@ -1248,7 +1449,7 @@
     "backupUrl": "https://backup.qurango.net/radio/hani_arrifai",
     "description": "تلاوات خاشعة ومبكية بصوت القارئ الشيخ هاني بن عبد الرحيم الرفاعي",
     "isVerified": true,
-    "order": 105
+    "order": 123
   },
   {
     "id": "nabil_alrifay",
@@ -1260,7 +1461,7 @@
     "backupUrl": "https://backup.qurango.net/radio/nabil_al_rifay",
     "description": "المصحف المرتل بصوت القارئ الشيخ نبيل بن عبد الرحيم الرفاعي",
     "isVerified": true,
-    "order": 106
+    "order": 124
   },
   {
     "id": "tawfeeq_assayegh",
@@ -1269,10 +1470,10 @@
     "badge": "حفص عن عاصم",
     "country": "إريتريا / السعودية",
     "streamUrl": "https://qurango.net/radio/tawfeeq_assayegh",
-    "backupUrl": "https://backup.qurango.net/radio/tawfeeq_assayegh",
+    "backupUrl": "http://r5.tarat.com:8120/index.html/stream",
     "description": "المصحف المرتل بصوت القارئ الشيخ توفيق بن سعيد الصايغ",
     "isVerified": true,
-    "order": 107
+    "order": 125
   },
   {
     "id": "adel_alkhalbany",
@@ -1284,7 +1485,7 @@
     "backupUrl": "https://backup.qurango.net/radio/adel_alkhalbany",
     "description": "المصحف المرتل بصوت القارئ الشيخ عادل بن سالم الكلباني",
     "isVerified": true,
-    "order": 108
+    "order": 126
   },
   {
     "id": "adel_ryyan",
@@ -1296,7 +1497,7 @@
     "backupUrl": "https://radio.xecod.com/station/AdelRayan",
     "description": "تلاوات مرتلة ندية بصوت القارئ الشيخ عادل بن عبد الله ريان",
     "isVerified": true,
-    "order": 109
+    "order": 127
   },
   {
     "id": "abdul_aziz_alahmad",
@@ -1308,7 +1509,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdul_aziz_alahmad",
     "description": "المصحف المرتل والتلاوات الخاشعة بصوت الشيخ الدكتور عبد العزيز الأحمد",
     "isVerified": true,
-    "order": 110
+    "order": 128
   },
   {
     "id": "abdullah_almattrod",
@@ -1320,7 +1521,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdullah_almattrod",
     "description": "المصحف المرتل بصوت القارئ الشيخ عبد الله بن محمد المطرود",
     "isVerified": true,
-    "order": 111
+    "order": 129
   },
   {
     "id": "abdulwadood_haneef",
@@ -1332,7 +1533,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdulwadood_haneef",
     "description": "المصحف المرتل بصوت القارئ الشيخ عبد الودود مقبول حنيف",
     "isVerified": true,
-    "order": 112
+    "order": 130
   },
   {
     "id": "khaled_alqahtani",
@@ -1344,7 +1545,7 @@
     "backupUrl": "https://backup.qurango.net/radio/khaled_alqahtani",
     "description": "تلاوات خاشعة ومرتلة بصوت القارئ الشيخ خالد بن محمد القحطاني",
     "isVerified": true,
-    "order": 113
+    "order": 131
   },
   {
     "id": "majed_alzamel",
@@ -1356,7 +1557,7 @@
     "backupUrl": "https://backup.qurango.net/radio/majed_alzamel",
     "description": "تلاوات مرتلة ندية بصوت القارئ الشيخ ماجد بن عبد الله الزامل",
     "isVerified": true,
-    "order": 114
+    "order": 132
   },
   {
     "id": "abdullah_alkhalaf",
@@ -1368,7 +1569,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdullah_alkhalaf",
     "description": "تلاوات خاشعة ومرتلة بصوت القارئ الشيخ عبد الله بن عبد الرحمن الخلف",
     "isVerified": true,
-    "order": 115
+    "order": 133
   },
   {
     "id": "nasser_almajed",
@@ -1380,7 +1581,7 @@
     "backupUrl": "https://backup.qurango.net/radio/nasser_almajed",
     "description": "المصحف المرتل بصوت القارئ الشيخ ناصر الماجد",
     "isVerified": true,
-    "order": 116
+    "order": 134
   },
   {
     "id": "nasser_alosfor",
@@ -1392,7 +1593,7 @@
     "backupUrl": "https://backup.qurango.net/radio/nasser_alosfor",
     "description": "تلاوات مرتلة هادئة بصوت القارئ الشيخ ناصر العصفور",
     "isVerified": true,
-    "order": 117
+    "order": 135
   },
   {
     "id": "ahmad_deban",
@@ -1404,7 +1605,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ahmad_deban",
     "description": "تلاوات متقنة وعذبة بصوت القارئ المتقن الشيخ الدكتور أحمد ديبان",
     "isVerified": true,
-    "order": 118
+    "order": 136
   },
   {
     "id": "khalifa_altunaiji",
@@ -1413,10 +1614,10 @@
     "badge": "حفص عن عاصم",
     "country": "الإمارات",
     "streamUrl": "https://qurango.net/radio/khalifa_altunaiji",
-    "backupUrl": "https://backup.qurango.net/radio/khalifa_altunaiji",
+    "backupUrl": "http://r11.tarat.com:8056/index.html/stream",
     "description": "المصحف المرتل المتقن بصوت القارئ الشيخ خليفة بن مصبح الطنيجي",
     "isVerified": true,
-    "order": 119
+    "order": 137
   },
   {
     "id": "slaah_bukhatir",
@@ -1428,7 +1629,7 @@
     "backupUrl": "https://radio.xecod.com/station/salah-bukhatir",
     "description": "تلاوات مرتلة خاشعة بصوت القارئ الشيخ صلاح بو خاطر",
     "isVerified": true,
-    "order": 120
+    "order": 138
   },
   {
     "id": "hazza_albalushi",
@@ -1440,7 +1641,7 @@
     "backupUrl": "https://backup.qurango.net/radio/hazza",
     "description": "تلاوات مرتلة وخاشعة بصوت القارئ العماني الشيخ هزاع البلوشي",
     "isVerified": true,
-    "order": 121
+    "order": 139
   },
   {
     "id": "abdullah_alkandari",
@@ -1452,7 +1653,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdullah_alkandari",
     "description": "المصحف المرتل بصوت القارئ الشيخ عبد الله الكندري",
     "isVerified": true,
-    "order": 122
+    "order": 140
   },
   {
     "id": "salah_alhashim",
@@ -1464,7 +1665,7 @@
     "backupUrl": "https://backup.qurango.net/radio/salah_alhashim",
     "description": "المصحف المرتل بصوت القارئ الكويتي الشيخ صلاح الهاشم",
     "isVerified": true,
-    "order": 123
+    "order": 141
   },
   {
     "id": "ahmad_khader_altarabulsi",
@@ -1476,7 +1677,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
     "description": "المصحف المرتل بصوت القارئ الكبير الشيخ أحمد خضر الطرابلسي رحمه الله",
     "isVerified": true,
-    "order": 124
+    "order": 142
   },
   {
     "id": "abdulhadi_kanakeri",
@@ -1488,7 +1689,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdulhadi_kanakeri",
     "description": "المصحف المرتل بصوت المقرئ الشيخ الدكتور عبد الهادي أحمد كناكري",
     "isVerified": true,
-    "order": 125
+    "order": 143
   },
   {
     "id": "yahya_hawwa",
@@ -1500,7 +1701,7 @@
     "backupUrl": "https://backup.qurango.net/radio/yahya_hawwa",
     "description": "المصحف المرتل بصوت القارئ الشيخ يحيى حوا",
     "isVerified": true,
-    "order": 126
+    "order": 144
   },
   {
     "id": "maher_shakhashero",
@@ -1512,7 +1713,7 @@
     "backupUrl": "https://backup.qurango.net/radio/maher_shakhashero",
     "description": "المصحف المرتل بصوت القارئ الدمشقي الشيخ ماهر شخاشيرو",
     "isVerified": true,
-    "order": 127
+    "order": 145
   },
   {
     "id": "mustafa_raad_alazawy",
@@ -1524,7 +1725,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mustafa_raad_alazawy",
     "description": "تلاوات مرتلة بالمقامات العراقية الأصيلة بصوت القارئ مصطفى رعد العزاوي",
     "isVerified": true,
-    "order": 128
+    "order": 146
   },
   {
     "id": "neamah_alhassan",
@@ -1536,7 +1737,7 @@
     "backupUrl": "https://backup.qurango.net/radio/neamah_alhassan",
     "description": "المصحف المرتل وتلاوات خاشعة بصوت القارئ الشيخ نعمة الحسان",
     "isVerified": true,
-    "order": 129
+    "order": 147
   },
   {
     "id": "shirazad_taher",
@@ -1548,7 +1749,7 @@
     "backupUrl": "https://backup.qurango.net/radio/shirazad_taher",
     "description": "المصحف المرتل المتقن بصوت القارئ الشيخ شيرزاد عبد الرحمن طاهر",
     "isVerified": true,
-    "order": 130
+    "order": 148
   },
   {
     "id": "abdulaziz_suhaim",
@@ -1560,7 +1761,7 @@
     "backupUrl": "https://backup.qurango.net/radio/a_sheim",
     "description": "تلاوات ندية وخاشعة بصوت القارئ الجزائري الشيخ عبد العزيز سحيم",
     "isVerified": true,
-    "order": 131
+    "order": 149
   },
   {
     "id": "alzain_mohammad_ahmad",
@@ -1569,10 +1770,10 @@
     "badge": "حفص عن عاصم",
     "country": "السودان",
     "streamUrl": "https://qurango.net/radio/alzain_mohammad_ahmad",
-    "backupUrl": "https://backup.qurango.net/radio/alzain_mohammad_ahmad",
+    "backupUrl": "http://r5.tarat.com:8188/index.html/stream",
     "description": "المصحف المرتل الكامل بصوت القارئ السوداني الشيخ الزين محمد أحمد",
     "isVerified": true,
-    "order": 132
+    "order": 150
   },
   {
     "id": "hussary_warsh",
@@ -1584,7 +1785,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh",
     "description": "المصحف المرتل برواية ورش عن نافع من طريق الأزرق للشيخ الحصري",
     "isVerified": true,
-    "order": 133
+    "order": 151
   },
   {
     "id": "abdulbasit_warsh",
@@ -1596,7 +1797,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_warsh",
     "description": "المصحف المرتل برواية ورش عن نافع للشيخ عبد الباسط عبد الصمد",
     "isVerified": true,
-    "order": 134
+    "order": 152
   },
   {
     "id": "omar_alqazabri_warsh",
@@ -1608,7 +1809,7 @@
     "backupUrl": "https://backup.qurango.net/radio/omar_alqazabri",
     "description": "المصحف المرتل برواية ورش عن نافع بصوت إمام مسجد الحسن الثاني الشيخ عمر القزابري",
     "isVerified": true,
-    "order": 135
+    "order": 153
   },
   {
     "id": "aloyoon_alkoshi_warsh",
@@ -1620,7 +1821,7 @@
     "backupUrl": "https://backup.qurango.net/radio/aloyoon_alkoshi",
     "description": "المصحف المرتل الكامل برواية ورش عن نافع بصوت القارئ المغربي الشيخ العيون الكوشي",
     "isVerified": true,
-    "order": 136
+    "order": 154
   },
   {
     "id": "alqaria_yassen_warsh",
@@ -1632,7 +1833,7 @@
     "backupUrl": "https://backup.qurango.net/radio/alqaria_yassen",
     "description": "المصحف المرتل برواية ورش عن نافع من طريق الأزرق بصوت القارئ الجزائري ياسين",
     "isVerified": true,
-    "order": 137
+    "order": 155
   },
   {
     "id": "ibrahim_aldosari_warsh",
@@ -1644,7 +1845,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ibrahim_aldosari",
     "description": "المصحف المرتل برواية ورش عن نافع بصوت المقرئ الشيخ إبراهيم بن سعيد الدوسري",
     "isVerified": true,
-    "order": 138
+    "order": 156
   },
   {
     "id": "mohammad_abdullkarem_alasbahani",
@@ -1656,7 +1857,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mohammad_abdullkarem_alasbahani",
     "description": "المصحف المرتل برواية ورش عن نافع من طريق الأصبهاني بصوت الشيخ الدكتور محمد عبد الكريم",
     "isVerified": true,
-    "order": 139
+    "order": 157
   },
   {
     "id": "huthaifi_qalon",
@@ -1668,7 +1869,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ali_alhuthaifi_qalon",
     "description": "المصحف المرتل برواية قالون عن نافع المدني للشيخ علي الحذيفي",
     "isVerified": true,
-    "order": 140
+    "order": 158
   },
   {
     "id": "addokali_qalon",
@@ -1680,7 +1881,7 @@
     "backupUrl": "https://backup.qurango.net/radio/addokali_mohammad_alalim",
     "description": "المصحف المرتل برواية قالون عن نافع بصوت القارئ الكبير الشيخ الدوكالي محمد العالم",
     "isVerified": true,
-    "order": 141
+    "order": 159
   },
   {
     "id": "tareq_daawob_qalon",
@@ -1692,7 +1893,7 @@
     "backupUrl": "https://backup.qurango.net/radio/tareq_abdulgani_daawob",
     "description": "المصحف المرتل المتقن برواية قالون عن نافع بصوت الشيخ طارق عبد الغني دعوب",
     "isVerified": true,
-    "order": 142
+    "order": 160
   },
   {
     "id": "waleed_alnaehi_qalon",
@@ -1704,7 +1905,7 @@
     "backupUrl": "https://backup.qurango.net/radio/waleed_alnaehi",
     "description": "المصحف المرتل برواية قالون عن نافع من طريق أبي نشيط بصوت الشيخ وليد النائحي",
     "isVerified": true,
-    "order": 143
+    "order": 161
   },
   {
     "id": "sneineh_qalon",
@@ -1716,7 +1917,7 @@
     "backupUrl": "https://backup.qurango.net/radio/sneineh",
     "description": "المصحف المرتل برواية قالون عن نافع بصوت القارئ الليبي الشيخ محمد أبو سنينة",
     "isVerified": true,
-    "order": 144
+    "order": 162
   },
   {
     "id": "qeniwa_qalon",
@@ -1728,7 +1929,7 @@
     "backupUrl": "https://backup.qurango.net/radio/qeniwa",
     "description": "المصحف المرتل برواية قالون عن نافع بصوت القارئ الشيخ محمد الأمين قنيوة",
     "isVerified": true,
-    "order": 145
+    "order": 163
   },
   {
     "id": "ahmed_altrabulsi_qalon",
@@ -1740,7 +1941,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ahmed_altrabulsi",
     "description": "المصحف المرتل برواية قالون عن نافع بصوت الشيخ أحمد خضر الطرابلسي",
     "isVerified": true,
-    "order": 146
+    "order": 164
   },
   {
     "id": "alabdullah_albizi",
@@ -1752,7 +1953,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mohammad_alabdullah_albizi",
     "description": "المصحف المرتل بقراءة ابن كثير المكي بروايتي البزي وقنبل",
     "isVerified": true,
-    "order": 147
+    "order": 165
   },
   {
     "id": "alfateh_alzubair_dori",
@@ -1764,7 +1965,7 @@
     "backupUrl": "https://backup.qurango.net/radio/alfateh_alzubair",
     "description": "المصحف المرتل برواية الدوري عن أبي عمرو البصري بصوت الشيخ الفاتح محمد الزبير",
     "isVerified": true,
-    "order": 148
+    "order": 166
   },
   {
     "id": "muftah_alsaltany_dori_abiamr",
@@ -1776,7 +1977,7 @@
     "backupUrl": "https://backup.qurango.net/radio/muftah_alsaltany_aldori_an_abi_amr",
     "description": "المصحف المرتل برواية الدوري عن أبي عمرو البصري بصوت المقرئ الدكتور مفتاح السلطني",
     "isVerified": true,
-    "order": 149
+    "order": 167
   },
   {
     "id": "soufi_assosi",
@@ -1788,7 +1989,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdulrasheed_soufi_assosi",
     "description": "المصحف المرتل برواية السوسي عن أبي عمرو البصري بصوت المقرئ الشيخ عبد الرشيد صوفي",
     "isVerified": true,
-    "order": 150
+    "order": 168
   },
   {
     "id": "muftah_alsaltany_ibn_thakwan",
@@ -1800,7 +2001,7 @@
     "backupUrl": "https://backup.qurango.net/radio/muftah_alsaltany_ibn_thakwan_an_ibn_amr",
     "description": "المصحف المرتل برواية ابن ذكوان عن ابن عامر الشامي بصوت المقرئ مفتاح السلطني",
     "isVerified": true,
-    "order": 151
+    "order": 169
   },
   {
     "id": "soufi_khalaf",
@@ -1812,7 +2013,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdulrasheed_soufi_khalaf",
     "description": "المصحف المرتل برواية خلف عن حمزة الكوفي بصوت المقرئ الشيخ عبد الرشيد صوفي",
     "isVerified": true,
-    "order": 152
+    "order": 170
   },
   {
     "id": "mahmood_alsheimy_kisai",
@@ -1824,7 +2025,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mahmood_alsheimy",
     "description": "المصحف المرتل برواية الدوري عن الإمام الكسائي بصوت الشيخ الدكتور محمود الشيمي",
     "isVerified": true,
-    "order": 153
+    "order": 171
   },
   {
     "id": "muftah_alsaltany_kisai",
@@ -1836,7 +2037,7 @@
     "backupUrl": "https://backup.qurango.net/radio/muftah_alsaltany_aldorai",
     "description": "المصحف المرتل برواية أبي عمر الدوري عن الكسائي بصوت المقرئ مفتاح السلطني",
     "isVerified": true,
-    "order": 154
+    "order": 172
   },
   {
     "id": "alabdullah_kisai",
@@ -1848,7 +2049,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mohammad_alabdullah_aldorai",
     "description": "المصحف المرتل برواية الدوري عن الإمام الكسائي الكوفي",
     "isVerified": true,
-    "order": 155
+    "order": 173
   },
   {
     "id": "yasser_almazroyee_yaqoub",
@@ -1860,6 +2061,490 @@
     "backupUrl": "https://backup.qurango.net/radio/yasser_almazroyee",
     "description": "المصحف المرتل بقراءة الإمام يعقوب الحضرمي بروايتي رويس وروح بصوت الشيخ ياسر المزروعي",
     "isVerified": true,
-    "order": 156
+    "order": 174
+  },
+  {
+    "id": "al_oosi",
+    "name": "الشيخ عبد الرحمن العوسي",
+    "category": "reciters",
+    "badge": "تلاوات خاشعة",
+    "country": "السعودية",
+    "streamUrl": "http://r8.tarat.com:8076/index.html/stream",
+    "description": "تلاوات خاشعة وندية تأسر القلوب بصوت القارئ عبد الرحمن العوسي",
+    "isVerified": true,
+    "order": 175
+  },
+  {
+    "id": "raad_alkurdi",
+    "name": "الشيخ رعد محمد الكردي",
+    "category": "reciters",
+    "badge": "تلاوات خاشعة",
+    "country": "العراق",
+    "streamUrl": "http://r11.tarat.com:8096/index.html/stream",
+    "description": "تلاوات خاشعة ومؤثرة بصوت القارئ رعد الكردي",
+    "isVerified": true,
+    "order": 176
+  },
+  {
+    "id": "wadih_alyamani",
+    "name": "الشيخ وديع اليمني",
+    "category": "reciters",
+    "badge": "حفص عن عاصم",
+    "country": "اليمن",
+    "streamUrl": "http://r6.tarat.com:8044/index.html/stream",
+    "description": "المصحف المرتل برواية حفص عن عاصم بصوت القارئ وديع اليمني",
+    "isVerified": true,
+    "order": 177
+  },
+  {
+    "id": "abdullah_kamel",
+    "name": "الشيخ عبد الله كامل",
+    "category": "reciters",
+    "badge": "تلاوات خاشعة",
+    "country": "مصر",
+    "streamUrl": "http://r5.tarat.com:8142/index.html/stream",
+    "description": "تلاوات خاشعة ومبكية بصوت القارئ الشيخ عبد الله كامل رحمه الله",
+    "isVerified": true,
+    "order": 178
+  },
+  {
+    "id": "mohammed_almohisni",
+    "name": "الشيخ محمد المحيسني",
+    "category": "reciters",
+    "badge": "تلاوات خاشعة",
+    "country": "السعودية",
+    "streamUrl": "http://r6.tarat.com:8008/index.html/stream",
+    "description": "تلاوات خاشعة وصلوات التراويح والقيام بصوت الشيخ محمد المحيسني",
+    "isVerified": true,
+    "order": 179
+  },
+  {
+    "id": "saleh_altaleb",
+    "name": "الشيخ صالح آل طالب",
+    "category": "reciters",
+    "badge": "إمام الحرم المكي",
+    "country": "السعودية",
+    "streamUrl": "http://r6.tarat.com:8032/index.html/stream",
+    "description": "تلاوات صلوات الحرم المكي الشريف بصوت الشيخ صالح آل طالب",
+    "isVerified": true,
+    "order": 180
+  },
+  {
+    "id": "salman_alotaibi",
+    "name": "الشيخ سلمان العتيبي",
+    "category": "reciters",
+    "badge": "تلاوات خاشعة",
+    "country": "السعودية",
+    "streamUrl": "http://r6.tarat.com:8034/index.html/stream",
+    "description": "تلاوات خاشعة ومميزة بصوت القارئ سلمان العتيبي",
+    "isVerified": true,
+    "order": 181
+  },
+  {
+    "id": "abdulaziz_alzahrani",
+    "name": "الشيخ عبد العزيز الزهراني",
+    "category": "reciters",
+    "badge": "تلاوات خاشعة",
+    "country": "السعودية",
+    "streamUrl": "http://r8.tarat.com:8066/index.html/stream",
+    "description": "تلاوات ندية ومصاحف مرتلة بصوت القارئ عبد العزيز الزهراني",
+    "isVerified": true,
+    "order": 182
+  },
+  {
+    "id": "abdulwali_alarkani",
+    "name": "الشيخ عبد الولي الأركاني",
+    "category": "reciters",
+    "badge": "حفص عن عاصم",
+    "country": "السعودية",
+    "streamUrl": "http://r8.tarat.com:8092/index.html/stream",
+    "description": "المصحف المرتل برواية حفص عن عاصم بصوت القارئ عبد الولي الأركاني",
+    "isVerified": true,
+    "order": 183
+  },
+  {
+    "id": "zaki_daghistani",
+    "name": "الشيخ زكي داغستاني",
+    "category": "reciters",
+    "badge": "تلاوات تاريخية نادرة",
+    "country": "السعودية",
+    "streamUrl": "http://r5.tarat.com:8126/index.html/stream",
+    "description": "تلاوات حجازية مميزة ونادرة بصوت شيخ قراء مكة زكي داغستاني رحمه الله",
+    "isVerified": true,
+    "order": 184
+  },
+  {
+    "id": "khalid_abdulkafi",
+    "name": "الشيخ خالد عبد الكافي",
+    "category": "reciters",
+    "badge": "حفص عن عاصم",
+    "country": "السعودية",
+    "streamUrl": "http://r11.tarat.com:8054/index.html/stream",
+    "description": "المصحف المرتل برواية حفص عن عاصم بصوت القارئ خالد عبد الكافي",
+    "isVerified": true,
+    "order": 185
+  },
+  {
+    "id": "sahl_yassin",
+    "name": "الشيخ سهل ياسين",
+    "category": "reciters",
+    "badge": "حفص عن عاصم",
+    "country": "السعودية",
+    "streamUrl": "http://r11.tarat.com:8102/index.html/stream",
+    "description": "المصحف المرتل برواية حفص عن عاصم بصوت القارئ سهل ياسين",
+    "isVerified": true,
+    "order": 186
+  },
+  {
+    "id": "jamal_shaker",
+    "name": "الشيخ جمال شاكر عبد الله",
+    "category": "reciters",
+    "badge": "حفص عن عاصم",
+    "country": "فلسطين",
+    "streamUrl": "http://r11.tarat.com:8044/index.html/stream",
+    "description": "تلاوات مرتلة برواية حفص عن عاصم بصوت الشيخ جمال شاكر عبد الله",
+    "isVerified": true,
+    "order": 187
+  },
+  {
+    "id": "ahmad_alhawashi",
+    "name": "الشيخ أحمد الحواشي",
+    "category": "reciters",
+    "badge": "تلاوات خاشعة",
+    "country": "السعودية",
+    "streamUrl": "http://r5.tarat.com:8158/index.html/stream",
+    "description": "صلوات القيام والتراويح وتلاوات خاشعة بصوت الشيخ أحمد الحواشي رحمه الله",
+    "isVerified": true,
+    "order": 188
+  },
+  {
+    "id": "ahmad_alhuthaifi",
+    "name": "الشيخ أحمد بن علي الحذيفي",
+    "category": "reciters",
+    "badge": "إمام المسجد النبوي",
+    "country": "السعودية",
+    "streamUrl": "http://r5.tarat.com:8164/index.html/stream",
+    "description": "تلاوات صلوات المسجد النبوي الشريف بصوت الشيخ د. أحمد الحذيفي",
+    "isVerified": true,
+    "order": 189
+  },
+  {
+    "id": "mohammed_khalil_qari",
+    "name": "الشيخ محمد خليل القارئ",
+    "category": "reciters",
+    "badge": "إمام مسجد قباء",
+    "country": "السعودية",
+    "streamUrl": "http://r6.tarat.com:8018/index.html/stream",
+    "description": "تلاوات صلوات المسجد النبوي ومسجد قباء بصوت الشيخ محمد خليل القارئ رحمه الله",
+    "isVerified": true,
+    "order": 190
+  },
+  {
+    "id": "yasser_salamah",
+    "name": "الشيخ ياسر سلامة",
+    "category": "reciters",
+    "badge": "حفص عن عاصم",
+    "country": "مصر",
+    "streamUrl": "http://r6.tarat.com:8046/index.html/stream",
+    "description": "تلاوات حدر وتلاوات مرتلة سريعة للمراجعة والتدبر بصوت الشيخ ياسر سلامة",
+    "isVerified": true,
+    "order": 191
+  },
+  {
+    "id": "mohammed_kabbarah",
+    "name": "الشيخ محمد صلاح الدين كبارة",
+    "category": "reciters",
+    "badge": "تلاوات تاريخية نادرة",
+    "country": "لبنان",
+    "streamUrl": "http://r6.tarat.com:8014/index.html/stream",
+    "description": "تلاوات مجودة ومقامات قرآنية رفيعة بصوت شيخ قراء طرابلس محمد كبارة رحمه الله",
+    "isVerified": true,
+    "order": 192
+  },
+  {
+    "id": "peshawa_qadir",
+    "name": "الشيخ بيشةوا قادر الكردي",
+    "category": "reciters",
+    "badge": "تلاوات خاشعة",
+    "country": "العراق",
+    "streamUrl": "http://r15.tarat.com:8006/index.html/stream",
+    "description": "تلاوات ندية خاشعة تأسر القلوب بصوت القارئ بيشةوا قادر الكردي",
+    "isVerified": true,
+    "order": 193
+  },
+  {
+    "id": "mousa_bilal",
+    "name": "الشيخ موسى بلال",
+    "category": "reciters",
+    "badge": "حفص عن عاصم",
+    "country": "السعودية",
+    "streamUrl": "https://backup.qurango.net/radio/mousa_bilal",
+    "description": "تلاوات متقنة ومجودة بصوت المقرئ الشيخ موسى بلال",
+    "isVerified": true,
+    "order": 194
+  },
+  {
+    "id": "younis_aswailas",
+    "name": "الشيخ يونس اسويلص",
+    "category": "reciters",
+    "badge": "رواية ورش عن نافع",
+    "country": "المغرب",
+    "streamUrl": "http://r15.tarat.com:8076/index.html/stream",
+    "description": "المصحف المرتل برواية ورش عن نافع بصوت القارئ المغربي يونس اسويلص",
+    "isVerified": true,
+    "order": 195
+  },
+  {
+    "id": "bader_alnafis",
+    "name": "الشيخ بدر النفيس",
+    "category": "reciters",
+    "badge": "تلاوات خاشعة",
+    "country": "الكويت",
+    "streamUrl": "http://r16.tarat.com:8004/index.html/stream",
+    "description": "تلاوات صلوات القيام والتراويح بصوت القارئ الكويتي بدر النفيس",
+    "isVerified": true,
+    "order": 196
+  },
+  {
+    "id": "faisal_alhajri",
+    "name": "الشيخ فيصل الهاجري",
+    "category": "reciters",
+    "badge": "حفص عن عاصم",
+    "country": "الكويت",
+    "streamUrl": "http://r16.tarat.com:8000/index.html/stream",
+    "description": "المصحف المرتل بصوت القارئ الكويتي فيصل الهاجري",
+    "isVerified": true,
+    "order": 197
+  },
+  {
+    "id": "bilal_derbali",
+    "name": "الشيخ بلال دربالي",
+    "category": "reciters",
+    "badge": "تلاوات خاشعة",
+    "country": "تونس",
+    "streamUrl": "http://r16.tarat.com:8022/index.html/stream",
+    "description": "تلاوات خاشعة على الطريقة التونسية والمغاربية بصوت القارئ بلال دربالي",
+    "isVerified": true,
+    "order": 198
+  },
+  {
+    "id": "asim_alluhaidan",
+    "name": "الشيخ عاصم اللحيدان",
+    "category": "reciters",
+    "badge": "تلاوات خاشعة",
+    "country": "السعودية",
+    "streamUrl": "http://r15.tarat.com:8104/index.html/stream",
+    "description": "تلاوات خاشعة ومميزة بصوت القارئ عاصم اللحيدان",
+    "isVerified": true,
+    "order": 199
+  },
+  {
+    "id": "hazem_saif",
+    "name": "الشيخ حازم سيف",
+    "category": "reciters",
+    "badge": "تلاوات خاشعة",
+    "country": "مصر",
+    "streamUrl": "http://r10.tarat.com:8108/index.html/stream",
+    "description": "تلاوات ندية خاشعة ومبكية بصوت القارئ حازم سيف",
+    "isVerified": true,
+    "order": 200
+  },
+  {
+    "id": "okasha_kameny",
+    "name": "الشيخ عكاشة كميني",
+    "category": "reciters",
+    "badge": "رواية الدوري عن الكسائي",
+    "country": "إذاعة متخصصة",
+    "streamUrl": "http://r10.tarat.com:8100/index.html/stream",
+    "description": "تلاوات بالقراءات والروايات القرآنية المتواترة بصوت الشيخ عكاشة كميني",
+    "isVerified": true,
+    "order": 201
+  },
+  {
+    "id": "mohammed_alsubayil",
+    "name": "الشيخ محمد السبيل",
+    "category": "reciters",
+    "badge": "إمام الحرم المكي",
+    "country": "السعودية",
+    "streamUrl": "https://r16.tarat.com:8128/stream",
+    "description": "تلاوات الحرم المكي الخالدة بصوت إمام وخطيب الحرم الشيخ محمد السبيل رحمه الله",
+    "isVerified": true,
+    "order": 202
+  },
+  {
+    "id": "abahassan_alkurdi",
+    "name": "الشيخ أبا الحسن محي الدين الكردي",
+    "category": "reciters",
+    "badge": "تلاوات بالقراءات",
+    "country": "سوريا",
+    "streamUrl": "https://r16.tarat.com:8108/stream",
+    "description": "تلاوات وقراءات متقنة لشيخ قراء دمشق العلامة أبا الحسن الكردي رحمه الله",
+    "isVerified": true,
+    "order": 203
+  },
+  {
+    "id": "jamaan_alosaimi",
+    "name": "الشيخ جمعان العصيمي",
+    "category": "reciters",
+    "badge": "حفص عن عاصم",
+    "country": "السعودية",
+    "streamUrl": "http://r11.tarat.com:8046/index.html/stream",
+    "description": "تلاوات عطرة برواية حفص عن عاصم بصوت القارئ جمعان العصيمي",
+    "isVerified": true,
+    "order": 204
+  },
+  {
+    "id": "alaa_almazjaji",
+    "name": "الشيخ علاء المزجاجي",
+    "category": "reciters",
+    "badge": "حفص عن عاصم",
+    "country": "السعودية",
+    "streamUrl": "http://r5.tarat.com:8176/index.html/stream",
+    "description": "تلاوات خاشعة ومرتلة برواية حفص عن عاصم بصوت القارئ علاء المزجاجي",
+    "isVerified": true,
+    "order": 205
+  },
+  {
+    "id": "abdullah_ghailan",
+    "name": "الشيخ عبد الله غيلان",
+    "category": "reciters",
+    "badge": "حفص عن عاصم",
+    "country": "اليمن",
+    "streamUrl": "http://r5.tarat.com:8140/index.html/stream",
+    "description": "المصحف المرتل بصوت القارئ الشيخ عبد الله غيلان",
+    "isVerified": true,
+    "order": 206
+  },
+  {
+    "id": "abdulmohsen_alobaikan",
+    "name": "الشيخ عبد المحسن العبيكان",
+    "category": "reciters",
+    "badge": "حفص عن عاصم",
+    "country": "السعودية",
+    "streamUrl": "http://live.mp3quran.net:9854/",
+    "description": "تلاوات متقنة ومصحف مرتل بصوت الشيخ عبد المحسن العبيكان",
+    "isVerified": true,
+    "order": 207
+  },
+  {
+    "id": "mohammed_alamshah",
+    "name": "الشيخ محمد صالح عالم شاه",
+    "category": "reciters",
+    "badge": "حفص عن عاصم",
+    "country": "السعودية",
+    "streamUrl": "http://live.mp3quran.net:9828/",
+    "description": "المصحف المرتل برواية حفص عن عاصم بصوت القارئ محمد صالح عالم شاه",
+    "isVerified": true,
+    "order": 208
+  },
+  {
+    "id": "mohammed_alabdulkareem",
+    "name": "الشيخ محمد العبد الكريم",
+    "category": "reciters",
+    "badge": "حفص عن عاصم",
+    "country": "السعودية",
+    "streamUrl": "http://live.mp3quran.net:9824/",
+    "description": "المصحف المرتل برواية حفص عن عاصم بصوت القارئ محمد العبد الكريم",
+    "isVerified": true,
+    "order": 209
+  },
+  {
+    "id": "anas_alemadi",
+    "name": "الشيخ أنس العمادي",
+    "category": "reciters",
+    "badge": "حفص عن عاصم",
+    "country": "البحرين",
+    "streamUrl": "http://r5.tarat.com:8190/index.html/stream",
+    "description": "تلاوات ندية ومصاحف مرتلة بصوت القارئ البحريني أنس العمادي",
+    "isVerified": true,
+    "order": 210
+  },
+  {
+    "id": "faisal_alrasheed",
+    "name": "الشيخ فيصل بن محمد الرشيد",
+    "category": "reciters",
+    "badge": "حفص عن عاصم",
+    "country": "السعودية",
+    "streamUrl": "http://r5.tarat.com:8200/index.html/stream",
+    "description": "تلاوات ندية وخاشعة بصوت القارئ فيصل الرشيد",
+    "isVerified": true,
+    "order": 211
+  },
+  {
+    "id": "mohammed_hussain_amer",
+    "name": "الشيخ محمد حسين عامر",
+    "category": "reciters",
+    "badge": "تلاوات تاريخية نادرة",
+    "country": "اليمن",
+    "streamUrl": "http://r11.tarat.com:8068/index.html/stream",
+    "description": "تلاوات خالدة بالطريقة الصنعانية لشيخ القراء محمد حسين عامر رحمه الله",
+    "isVerified": true,
+    "order": 212
+  },
+  {
+    "id": "hussain_alshaikh",
+    "name": "الشيخ حسين بن عبد العزيز آل الشيخ",
+    "category": "reciters",
+    "badge": "إمام المسجد النبوي",
+    "country": "السعودية",
+    "streamUrl": "http://r5.tarat.com:8204/index.html/stream",
+    "description": "تلاوات صلوات المسجد النبوي الشريف بصوت إمام المسجد النبوي حسين آل الشيخ",
+    "isVerified": true,
+    "order": 213
+  },
+  {
+    "id": "tarawih_makkah_radio",
+    "name": "إذاعة تراويح الحرم المكي الشريف",
+    "category": "reciters",
+    "badge": "تلاوات خاشعة",
+    "country": "السعودية",
+    "streamUrl": "http://r11.tarat.com:8066/index.html/stream",
+    "description": "بث متواصل لتلاوات صلاة التراويح والتهجد من رحاب المسجد الحرام بمكة المكرمة",
+    "isVerified": true,
+    "order": 214
+  },
+  {
+    "id": "tarawih_madinah_radio",
+    "name": "إذاعة تراويح المسجد النبوي الشريف",
+    "category": "reciters",
+    "badge": "تلاوات خاشعة",
+    "country": "السعودية",
+    "streamUrl": "http://r11.tarat.com:8062/index.html/stream",
+    "description": "بث متواصل لتلاوات صلاة التراويح والقيام من رحاب المسجد النبوي الشريف بالمدينة المنورة",
+    "isVerified": true,
+    "order": 215
+  },
+  {
+    "id": "baqarah_repeater_radio",
+    "name": "إذاعة سورة البقرة مكررة 24/7",
+    "category": "reciters",
+    "badge": "سورة البقرة 24/7",
+    "country": "إذاعة عامة",
+    "streamUrl": "http://r6.tarat.com:8038/index.html/stream",
+    "description": "بث متواصل لسورة البقرة على مدار 24 ساعة بأصوات نخبة من كبار القراء",
+    "isVerified": true,
+    "order": 216
+  },
+  {
+    "id": "ruqyah_shariyyah_radio",
+    "name": "إذاعة الرقية الشرعية المطولة",
+    "category": "reciters",
+    "badge": "أذكار وتحصين",
+    "country": "إذاعة عامة",
+    "streamUrl": "http://r11.tarat.com:8100/index.html/stream",
+    "description": "بث متواصل للرقية الشرعية من الكتاب والسنة النبوية لتحصين النفس والبيت",
+    "isVerified": true,
+    "order": 217
+  },
+  {
+    "id": "moallam_murattal_radio",
+    "name": "إذاعة المصحف المعلم وترديد الآيات",
+    "category": "reciters",
+    "badge": "إذاعة متخصصة",
+    "country": "إذاعة عامة",
+    "streamUrl": "http://r11.tarat.com:8012/index.html/stream",
+    "description": "إذاعة تعليمية لترديد آيات القرآن الكريم للأطفال والناشئة لضبط الحفظ والتجويد",
+    "isVerified": true,
+    "order": 218
   }
 ]
