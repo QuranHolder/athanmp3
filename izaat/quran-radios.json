@@ -1090,19 +1090,6 @@
     "order": 92
   },
   {
-    "id": "mohammad_hussein_amer",
-    "name": "الشيخ محمد حسين عامر",
-    "category": "reciters",
-    "badge": "حفص عن عاصم",
-    "country": "اليمن",
-    "streamUrl": "https://archive.org/download/mohammad-hosyn-3amer-quran-96kb-114-sorah/{surah3}.mp3",
-    "backupUrl": "https://archive.org/metadata/mohammad-hosyn-3amer-quran-96kb-114-sorah",
-    "description": "المصحف المرتل كاملاً برواية حفص عن عاصم بصوت المقرئ اليمني الشيخ محمد حسين عامر رحمه الله",
-    "isVerified": true,
-    "order": 93,
-    "surahCount": 114
-  },
-  {
     "id": "sudais",
     "name": "الشيخ عبد الرحمن السديس",
     "category": "reciters",
@@ -1112,7 +1099,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdulrahman_alsudaes",
     "description": "تلاوات الحرم المكي الشريف بصوت الشيخ عبد الرحمن السديس",
     "isVerified": true,
-    "order": 94
+    "order": 93
   },
   {
     "id": "shuraim",
@@ -1124,7 +1111,7 @@
     "backupUrl": "https://backup.qurango.net/radio/saud_alshuraim",
     "description": "تلاوات خاشعة من المسجد الحرام بصوت الشيخ سعود الشريم",
     "isVerified": true,
-    "order": 95
+    "order": 94
   },
   {
     "id": "maher_muaiqly",
@@ -1136,7 +1123,7 @@
     "backupUrl": "https://radio.mp3islam.com/listen/maher/radio.mp3",
     "description": "المصحف المرتل الكامل بصوت الشيخ ماهر بن حمد المعيقلي",
     "isVerified": true,
-    "order": 96
+    "order": 95
   },
   {
     "id": "yasser_aldosari",
@@ -1148,7 +1135,7 @@
     "backupUrl": "https://backup.qurango.net/radio/yasser_aldosari",
     "description": "تلاوات مرتلة وخاشعة بصوت الشيخ ياسر بن راشد الدوسري",
     "isVerified": true,
-    "order": 97
+    "order": 96
   },
   {
     "id": "bandar_balilah",
@@ -1160,7 +1147,7 @@
     "backupUrl": "https://radio.xecod.com/station/bandar-balila",
     "description": "تلاوات المسجد الحرام والمصحف المرتل بصوت الشيخ الدكتور بندر بن عبد العزيز بليلة",
     "isVerified": true,
-    "order": 98
+    "order": 97
   },
   {
     "id": "abdullah_aljohany",
@@ -1172,7 +1159,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdullah_aljohany",
     "description": "تلاوات الحرم المكي الشريف والمصحف المرتل بصوت الشيخ عبد الله عواد الجهني",
     "isVerified": true,
-    "order": 99
+    "order": 98
   },
   {
     "id": "bader_alturki",
@@ -1184,7 +1171,7 @@
     "backupUrl": "https://backup.qurango.net/radio/bader",
     "description": "تلاوات خاشعة ومرتلة لإمام المسجد الحرام الشيخ بدر بن محمد التركي",
     "isVerified": true,
-    "order": 100
+    "order": 99
   },
   {
     "id": "ali_jaber",
@@ -1196,7 +1183,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ali_jaber",
     "description": "تلاوات المسجد الحرام الخالدة بصوت الشيخ علي عبد الله جابر رحمه الله",
     "isVerified": true,
-    "order": 101
+    "order": 100
   },
   {
     "id": "abdullah_khayyat",
@@ -1208,7 +1195,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdullah_khayyat",
     "description": "المصحف المرتل بتلاوة حجازية خاشعة لإمام المسجد الحرام الشيخ عبد الله خياط رحمه الله",
     "isVerified": true,
-    "order": 102
+    "order": 101
   },
   {
     "id": "mohammed_ayyub",
@@ -1220,7 +1207,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mohammed_ayyub",
     "description": "التلاوات الحجازية الندية لإمام المسجد النبوي الشيخ محمد أيوب رحمه الله",
     "isVerified": true,
-    "order": 103
+    "order": 102
   },
   {
     "id": "mohammed_ayyub_special",
@@ -1232,7 +1219,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ayyoub2",
     "description": "مختارات من التلاوات النادرة والمميزة من المسجد النبوي للشيخ محمد أيوب رحمه الله",
     "isVerified": true,
-    "order": 104
+    "order": 103
   },
   {
     "id": "ali_alhuthaifi",
@@ -1244,7 +1231,7 @@
     "backupUrl": "https://radio.mp3islam.com/listen/alhuthaifi/radio.mp3",
     "description": "المصحف المرتل المتقن لإمام المسجد النبوي الشيخ علي الحذيفي",
     "isVerified": true,
-    "order": 105
+    "order": 104
   },
   {
     "id": "salah_albudair",
@@ -1256,7 +1243,7 @@
     "backupUrl": "https://backup.qurango.net/radio/salah_albudair",
     "description": "تلاوات الحرم المدني والمصحف المرتل بصوت الشيخ الدكتور صلاح بن محمد البدير",
     "isVerified": true,
-    "order": 106
+    "order": 105
   },
   {
     "id": "abdulmohsen_alqasim",
@@ -1268,7 +1255,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdulmohsen_alqasim",
     "description": "المصحف المرتل وتلاوات المسجد النبوي الشريف بصوت الشيخ عبد المحسن القاسم",
     "isVerified": true,
-    "order": 107
+    "order": 106
   },
   {
     "id": "abdelbari_altoubayti",
@@ -1280,7 +1267,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdelbari_altoubayti",
     "description": "تلاوات خاشعة ومرتلة لإمام المسجد النبوي الشيخ عبد الباري بن عوض الثبيتي",
     "isVerified": true,
-    "order": 108
+    "order": 107
   },
   {
     "id": "khalid_almohana",
@@ -1292,7 +1279,7 @@
     "backupUrl": "https://backup.qurango.net/radio/khalid_almohana",
     "description": "المصحف المرتل بصوت إمام المسجد النبوي الشريف الشيخ الدكتور خالد بن سليمان المهنا",
     "isVerified": true,
-    "order": 109
+    "order": 108
   },
   {
     "id": "ahmad_binhameed",
@@ -1304,7 +1291,7 @@
     "backupUrl": "https://backup.qurango.net/radio/a_binhameed",
     "description": "تلاوات المسجد النبوي الشريف بصوت الشيخ أحمد بن طالب بن حميد",
     "isVerified": true,
-    "order": 110
+    "order": 109
   },
   {
     "id": "abdullah_buajan",
@@ -1316,7 +1303,7 @@
     "backupUrl": "https://backup.qurango.net/radio/buajan",
     "description": "تلاوات خاشعة من رحاب المسجد النبوي بصوت الشيخ عبد الله بن عبد الرحمن البعيجان",
     "isVerified": true,
-    "order": 111
+    "order": 110
   },
   {
     "id": "ibrahim_alakdar",
@@ -1328,7 +1315,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ibrahim_alakdar",
     "description": "المصحف المرتل بصوت شيخ القراء بالمسجد النبوي الشريف فضيلة الشيخ إبراهيم الأخضر",
     "isVerified": true,
-    "order": 112
+    "order": 111
   },
   {
     "id": "emad_hafez",
@@ -1340,7 +1327,7 @@
     "backupUrl": "https://backup.qurango.net/radio/emad_hafez",
     "description": "المصحف المرتل بصوت إمام مسجد قباء بالمدينة المنورة الشيخ الدكتور عماد زهير حافظ",
     "isVerified": true,
-    "order": 113
+    "order": 112
   },
   {
     "id": "afasi",
@@ -1352,7 +1339,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mishary_alafasi",
     "description": "بث مباشر على مدار الساعة لتلاوات الشيخ مشاري راشد العفاسي",
     "isVerified": true,
-    "order": 114
+    "order": 113
   },
   {
     "id": "saad_alghamdi",
@@ -1364,7 +1351,7 @@
     "backupUrl": "https://backup.qurango.net/radio/saad_alghamdi",
     "description": "المصحف المرتل بصوت القارئ الشيخ سعد بن سعيد الغامدي",
     "isVerified": true,
-    "order": 115,
+    "order": 114,
     "surahCount": 114
   },
   {
@@ -1377,7 +1364,7 @@
     "backupUrl": "https://radio.xecod.com/station/abubakr-shatri",
     "description": "تلاوات مرتلة ندية بصوت الشيخ شيخ أبو بكر الشاطري",
     "isVerified": true,
-    "order": 116
+    "order": 115
   },
   {
     "id": "ahmad_alajmy",
@@ -1389,7 +1376,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ahmad_alajmy",
     "description": "المصحف المرتل بصوت القارئ الشيخ أحمد بن علي العجمي",
     "isVerified": true,
-    "order": 117
+    "order": 116
   },
   {
     "id": "nasser_alqatami",
@@ -1401,7 +1388,7 @@
     "backupUrl": "https://backup.qurango.net/radio/nasser_alqatami",
     "description": "تلاوات خاشعة ومرتلة بصوت الشيخ ناصر بن علي القطامي",
     "isVerified": true,
-    "order": 118
+    "order": 117
   },
   {
     "id": "fares_abbad",
@@ -1413,7 +1400,7 @@
     "backupUrl": "https://backup.qurango.net/radio/fares_abbad",
     "description": "المصحف المرتل الكامل بصوت القارئ الشيخ فارس عباد",
     "isVerified": true,
-    "order": 119
+    "order": 118
   },
   {
     "id": "abdullah_basfer",
@@ -1425,7 +1412,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdullah_basfer",
     "description": "المصحف المرتل بصوت الشيخ الدكتور عبد الله بن علي بصفر",
     "isVerified": true,
-    "order": 120
+    "order": 119
   },
   {
     "id": "mohammed_allohaidan",
@@ -1437,7 +1424,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mohammed_allohaidan",
     "description": "تلاوات خاشعة ومؤثرة للمصحف المرتل بصوت الشيخ محمد بن إبراهيم اللحيدان",
     "isVerified": true,
-    "order": 121
+    "order": 120
   },
   {
     "id": "khalid_aljileel",
@@ -1449,7 +1436,7 @@
     "backupUrl": "https://backup.qurango.net/radio/khalid_aljileel",
     "description": "التلاوات الخاشعة والمصحف المرتل بصوت القارئ الشيخ خالد بن فهد الجليل",
     "isVerified": true,
-    "order": 122
+    "order": 121
   },
   {
     "id": "idrees_abkr",
@@ -1461,7 +1448,7 @@
     "backupUrl": "https://backup.qurango.net/radio/idrees_abkr",
     "description": "المصحف المرتل وتلاوات التراويح الخاشعة بصوت القارئ الشيخ إدريس أبكر",
     "isVerified": true,
-    "order": 123
+    "order": 122
   },
   {
     "id": "hani_arrifai",
@@ -1473,7 +1460,7 @@
     "backupUrl": "https://backup.qurango.net/radio/hani_arrifai",
     "description": "تلاوات خاشعة ومبكية بصوت القارئ الشيخ هاني بن عبد الرحيم الرفاعي",
     "isVerified": true,
-    "order": 124
+    "order": 123
   },
   {
     "id": "nabil_alrifay",
@@ -1485,7 +1472,7 @@
     "backupUrl": "https://backup.qurango.net/radio/nabil_al_rifay",
     "description": "المصحف المرتل بصوت القارئ الشيخ نبيل بن عبد الرحيم الرفاعي",
     "isVerified": true,
-    "order": 125
+    "order": 124
   },
   {
     "id": "tawfeeq_assayegh",
@@ -1497,7 +1484,7 @@
     "backupUrl": "https://backup.qurango.net/radio/tawfeeq_assayegh",
     "description": "المصحف المرتل بصوت القارئ الشيخ توفيق بن سعيد الصايغ",
     "isVerified": true,
-    "order": 126
+    "order": 125
   },
   {
     "id": "adel_alkhalbany",
@@ -1509,7 +1496,7 @@
     "backupUrl": "https://backup.qurango.net/radio/adel_alkhalbany",
     "description": "المصحف المرتل بصوت القارئ الشيخ عادل بن سالم الكلباني",
     "isVerified": true,
-    "order": 127
+    "order": 126
   },
   {
     "id": "adel_ryyan",
@@ -1521,7 +1508,7 @@
     "backupUrl": "https://radio.xecod.com/station/AdelRayan",
     "description": "تلاوات مرتلة ندية بصوت القارئ الشيخ عادل بن عبد الله ريان",
     "isVerified": true,
-    "order": 128
+    "order": 127
   },
   {
     "id": "abdul_aziz_alahmad",
@@ -1533,7 +1520,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdul_aziz_alahmad",
     "description": "المصحف المرتل والتلاوات الخاشعة بصوت الشيخ الدكتور عبد العزيز الأحمد",
     "isVerified": true,
-    "order": 129
+    "order": 128
   },
   {
     "id": "abdullah_almattrod",
@@ -1545,7 +1532,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdullah_almattrod",
     "description": "المصحف المرتل بصوت القارئ الشيخ عبد الله بن محمد المطرود",
     "isVerified": true,
-    "order": 130
+    "order": 129
   },
   {
     "id": "abdulwadood_haneef",
@@ -1557,7 +1544,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdulwadood_haneef",
     "description": "المصحف المرتل بصوت القارئ الشيخ عبد الودود مقبول حنيف",
     "isVerified": true,
-    "order": 131
+    "order": 130
   },
   {
     "id": "khaled_alqahtani",
@@ -1569,7 +1556,7 @@
     "backupUrl": "https://backup.qurango.net/radio/khaled_alqahtani",
     "description": "تلاوات خاشعة ومرتلة بصوت القارئ الشيخ خالد بن محمد القحطاني",
     "isVerified": true,
-    "order": 132
+    "order": 131
   },
   {
     "id": "majed_alzamel",
@@ -1581,7 +1568,7 @@
     "backupUrl": "https://backup.qurango.net/radio/majed_alzamel",
     "description": "تلاوات مرتلة ندية بصوت القارئ الشيخ ماجد بن عبد الله الزامل",
     "isVerified": true,
-    "order": 133
+    "order": 132
   },
   {
     "id": "abdullah_alkhalaf",
@@ -1593,7 +1580,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdullah_alkhalaf",
     "description": "تلاوات خاشعة ومرتلة بصوت القارئ الشيخ عبد الله بن عبد الرحمن الخلف",
     "isVerified": true,
-    "order": 134
+    "order": 133
   },
   {
     "id": "nasser_almajed",
@@ -1605,7 +1592,7 @@
     "backupUrl": "https://backup.qurango.net/radio/nasser_almajed",
     "description": "المصحف المرتل بصوت القارئ الشيخ ناصر الماجد",
     "isVerified": true,
-    "order": 135
+    "order": 134
   },
   {
     "id": "nasser_alosfor",
@@ -1617,7 +1604,7 @@
     "backupUrl": "https://backup.qurango.net/radio/nasser_alosfor",
     "description": "تلاوات مرتلة هادئة بصوت القارئ الشيخ ناصر العصفور",
     "isVerified": true,
-    "order": 136
+    "order": 135
   },
   {
     "id": "ahmad_deban",
@@ -1629,7 +1616,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ahmad_deban",
     "description": "تلاوات متقنة وعذبة بصوت القارئ المتقن الشيخ الدكتور أحمد ديبان",
     "isVerified": true,
-    "order": 137
+    "order": 136
   },
   {
     "id": "khalifa_altunaiji",
@@ -1641,7 +1628,7 @@
     "backupUrl": "https://backup.qurango.net/radio/khalifa_altunaiji",
     "description": "المصحف المرتل المتقن بصوت القارئ الشيخ خليفة بن مصبح الطنيجي",
     "isVerified": true,
-    "order": 138
+    "order": 137
   },
   {
     "id": "slaah_bukhatir",
@@ -1653,7 +1640,7 @@
     "backupUrl": "https://radio.xecod.com/station/salah-bukhatir",
     "description": "تلاوات مرتلة خاشعة بصوت القارئ الشيخ صلاح بو خاطر",
     "isVerified": true,
-    "order": 139
+    "order": 138
   },
   {
     "id": "hazza_albalushi",
@@ -1665,7 +1652,7 @@
     "backupUrl": "https://backup.qurango.net/radio/hazza",
     "description": "تلاوات مرتلة وخاشعة بصوت القارئ العماني الشيخ هزاع البلوشي",
     "isVerified": true,
-    "order": 140
+    "order": 139
   },
   {
     "id": "abdullah_alkandari",
@@ -1677,7 +1664,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdullah_alkandari",
     "description": "المصحف المرتل بصوت القارئ الشيخ عبد الله الكندري",
     "isVerified": true,
-    "order": 141
+    "order": 140
   },
   {
     "id": "salah_alhashim",
@@ -1689,7 +1676,7 @@
     "backupUrl": "https://backup.qurango.net/radio/salah_alhashim",
     "description": "المصحف المرتل بصوت القارئ الكويتي الشيخ صلاح الهاشم",
     "isVerified": true,
-    "order": 142
+    "order": 141
   },
   {
     "id": "ahmad_khader_altarabulsi",
@@ -1701,7 +1688,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
     "description": "المصحف المرتل بصوت القارئ الكبير الشيخ أحمد خضر الطرابلسي رحمه الله",
     "isVerified": true,
-    "order": 143
+    "order": 142
   },
   {
     "id": "abdulhadi_kanakeri",
@@ -1713,7 +1700,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdulhadi_kanakeri",
     "description": "المصحف المرتل بصوت المقرئ الشيخ الدكتور عبد الهادي أحمد كناكري",
     "isVerified": true,
-    "order": 144
+    "order": 143
   },
   {
     "id": "yahya_hawwa",
@@ -1725,7 +1712,7 @@
     "backupUrl": "https://backup.qurango.net/radio/yahya_hawwa",
     "description": "المصحف المرتل بصوت القارئ الشيخ يحيى حوا",
     "isVerified": true,
-    "order": 145
+    "order": 144
   },
   {
     "id": "maher_shakhashero",
@@ -1737,7 +1724,7 @@
     "backupUrl": "https://backup.qurango.net/radio/maher_shakhashero",
     "description": "المصحف المرتل بصوت القارئ الدمشقي الشيخ ماهر شخاشيرو",
     "isVerified": true,
-    "order": 146
+    "order": 145
   },
   {
     "id": "mustafa_raad_alazawy",
@@ -1749,7 +1736,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mustafa_raad_alazawy",
     "description": "تلاوات مرتلة بالمقامات العراقية الأصيلة بصوت القارئ مصطفى رعد العزاوي",
     "isVerified": true,
-    "order": 147
+    "order": 146
   },
   {
     "id": "neamah_alhassan",
@@ -1761,7 +1748,7 @@
     "backupUrl": "https://backup.qurango.net/radio/neamah_alhassan",
     "description": "المصحف المرتل وتلاوات خاشعة بصوت القارئ الشيخ نعمة الحسان",
     "isVerified": true,
-    "order": 148
+    "order": 147
   },
   {
     "id": "shirazad_taher",
@@ -1773,7 +1760,7 @@
     "backupUrl": "https://backup.qurango.net/radio/shirazad_taher",
     "description": "المصحف المرتل المتقن بصوت القارئ الشيخ شيرزاد عبد الرحمن طاهر",
     "isVerified": true,
-    "order": 149
+    "order": 148
   },
   {
     "id": "abdulaziz_suhaim",
@@ -1785,7 +1772,7 @@
     "backupUrl": "https://backup.qurango.net/radio/a_sheim",
     "description": "تلاوات ندية وخاشعة بصوت القارئ الجزائري الشيخ عبد العزيز سحيم",
     "isVerified": true,
-    "order": 150
+    "order": 149
   },
   {
     "id": "alzain_mohammad_ahmad",
@@ -1797,7 +1784,7 @@
     "backupUrl": "https://backup.qurango.net/radio/alzain_mohammad_ahmad",
     "description": "المصحف المرتل الكامل بصوت القارئ السوداني الشيخ الزين محمد أحمد",
     "isVerified": true,
-    "order": 151
+    "order": 150
   },
   {
     "id": "hussary_warsh",
@@ -1809,7 +1796,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary_warsh",
     "description": "المصحف المرتل برواية ورش عن نافع من طريق الأزرق للشيخ الحصري",
     "isVerified": true,
-    "order": 152
+    "order": 151
   },
   {
     "id": "abdulbasit_warsh",
@@ -1821,7 +1808,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_warsh",
     "description": "المصحف المرتل برواية ورش عن نافع للشيخ عبد الباسط عبد الصمد",
     "isVerified": true,
-    "order": 153
+    "order": 152
   },
   {
     "id": "omar_alqazabri_warsh",
@@ -1833,7 +1820,7 @@
     "backupUrl": "https://backup.qurango.net/radio/omar_alqazabri",
     "description": "المصحف المرتل برواية ورش عن نافع بصوت إمام مسجد الحسن الثاني الشيخ عمر القزابري",
     "isVerified": true,
-    "order": 154
+    "order": 153
   },
   {
     "id": "aloyoon_alkoshi_warsh",
@@ -1845,7 +1832,7 @@
     "backupUrl": "https://backup.qurango.net/radio/aloyoon_alkoshi",
     "description": "المصحف المرتل الكامل برواية ورش عن نافع بصوت القارئ المغربي الشيخ العيون الكوشي",
     "isVerified": true,
-    "order": 155
+    "order": 154
   },
   {
     "id": "alqaria_yassen_warsh",
@@ -1857,7 +1844,7 @@
     "backupUrl": "https://backup.qurango.net/radio/alqaria_yassen",
     "description": "المصحف المرتل برواية ورش عن نافع من طريق الأزرق بصوت القارئ الجزائري ياسين",
     "isVerified": true,
-    "order": 156
+    "order": 155
   },
   {
     "id": "ibrahim_aldosari_warsh",
@@ -1869,7 +1856,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ibrahim_aldosari",
     "description": "المصحف المرتل برواية ورش عن نافع بصوت المقرئ الشيخ إبراهيم بن سعيد الدوسري",
     "isVerified": true,
-    "order": 157
+    "order": 156
   },
   {
     "id": "mohammad_abdullkarem_alasbahani",
@@ -1881,7 +1868,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mohammad_abdullkarem_alasbahani",
     "description": "المصحف المرتل برواية ورش عن نافع من طريق الأصبهاني بصوت الشيخ الدكتور محمد عبد الكريم",
     "isVerified": true,
-    "order": 158
+    "order": 157
   },
   {
     "id": "huthaifi_qalon",
@@ -1893,7 +1880,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ali_alhuthaifi_qalon",
     "description": "المصحف المرتل برواية قالون عن نافع المدني للشيخ علي الحذيفي",
     "isVerified": true,
-    "order": 159
+    "order": 158
   },
   {
     "id": "addokali_qalon",
@@ -1905,7 +1892,7 @@
     "backupUrl": "https://backup.qurango.net/radio/addokali_mohammad_alalim",
     "description": "المصحف المرتل برواية قالون عن نافع بصوت القارئ الكبير الشيخ الدوكالي محمد العالم",
     "isVerified": true,
-    "order": 160
+    "order": 159
   },
   {
     "id": "tareq_daawob_qalon",
@@ -1917,7 +1904,7 @@
     "backupUrl": "https://backup.qurango.net/radio/tareq_abdulgani_daawob",
     "description": "المصحف المرتل المتقن برواية قالون عن نافع بصوت الشيخ طارق عبد الغني دعوب",
     "isVerified": true,
-    "order": 161
+    "order": 160
   },
   {
     "id": "waleed_alnaehi_qalon",
@@ -1929,7 +1916,7 @@
     "backupUrl": "https://backup.qurango.net/radio/waleed_alnaehi",
     "description": "المصحف المرتل برواية قالون عن نافع من طريق أبي نشيط بصوت الشيخ وليد النائحي",
     "isVerified": true,
-    "order": 162
+    "order": 161
   },
   {
     "id": "sneineh_qalon",
@@ -1941,7 +1928,7 @@
     "backupUrl": "https://backup.qurango.net/radio/sneineh",
     "description": "المصحف المرتل برواية قالون عن نافع بصوت القارئ الليبي الشيخ محمد أبو سنينة",
     "isVerified": true,
-    "order": 163
+    "order": 162
   },
   {
     "id": "qeniwa_qalon",
@@ -1953,7 +1940,7 @@
     "backupUrl": "https://backup.qurango.net/radio/qeniwa",
     "description": "المصحف المرتل برواية قالون عن نافع بصوت القارئ الشيخ محمد الأمين قنيوة",
     "isVerified": true,
-    "order": 164
+    "order": 163
   },
   {
     "id": "ahmed_altrabulsi_qalon",
@@ -1965,7 +1952,7 @@
     "backupUrl": "https://backup.qurango.net/radio/ahmed_altrabulsi",
     "description": "المصحف المرتل برواية قالون عن نافع بصوت الشيخ أحمد خضر الطرابلسي",
     "isVerified": true,
-    "order": 165
+    "order": 164
   },
   {
     "id": "alabdullah_albizi",
@@ -1977,7 +1964,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mohammad_alabdullah_albizi",
     "description": "المصحف المرتل بقراءة ابن كثير المكي بروايتي البزي وقنبل",
     "isVerified": true,
-    "order": 166
+    "order": 165
   },
   {
     "id": "alfateh_alzubair_dori",
@@ -1989,7 +1976,7 @@
     "backupUrl": "https://backup.qurango.net/radio/alfateh_alzubair",
     "description": "المصحف المرتل برواية الدوري عن أبي عمرو البصري بصوت الشيخ الفاتح محمد الزبير",
     "isVerified": true,
-    "order": 167
+    "order": 166
   },
   {
     "id": "muftah_alsaltany_dori_abiamr",
@@ -2001,7 +1988,7 @@
     "backupUrl": "https://backup.qurango.net/radio/muftah_alsaltany_aldori_an_abi_amr",
     "description": "المصحف المرتل برواية الدوري عن أبي عمرو البصري بصوت المقرئ الدكتور مفتاح السلطني",
     "isVerified": true,
-    "order": 168
+    "order": 167
   },
   {
     "id": "soufi_assosi",
@@ -2013,7 +2000,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdulrasheed_soufi_assosi",
     "description": "المصحف المرتل برواية السوسي عن أبي عمرو البصري بصوت المقرئ الشيخ عبد الرشيد صوفي",
     "isVerified": true,
-    "order": 169
+    "order": 168
   },
   {
     "id": "muftah_alsaltany_ibn_thakwan",
@@ -2025,7 +2012,7 @@
     "backupUrl": "https://backup.qurango.net/radio/muftah_alsaltany_ibn_thakwan_an_ibn_amr",
     "description": "المصحف المرتل برواية ابن ذكوان عن ابن عامر الشامي بصوت المقرئ مفتاح السلطني",
     "isVerified": true,
-    "order": 170
+    "order": 169
   },
   {
     "id": "soufi_khalaf",
@@ -2037,7 +2024,7 @@
     "backupUrl": "https://backup.qurango.net/radio/abdulrasheed_soufi_khalaf",
     "description": "المصحف المرتل برواية خلف عن حمزة الكوفي بصوت المقرئ الشيخ عبد الرشيد صوفي",
     "isVerified": true,
-    "order": 171
+    "order": 170
   },
   {
     "id": "mahmood_alsheimy_kisai",
@@ -2049,7 +2036,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mahmood_alsheimy",
     "description": "المصحف المرتل برواية الدوري عن الإمام الكسائي بصوت الشيخ الدكتور محمود الشيمي",
     "isVerified": true,
-    "order": 172
+    "order": 171
   },
   {
     "id": "muftah_alsaltany_kisai",
@@ -2061,7 +2048,7 @@
     "backupUrl": "https://backup.qurango.net/radio/muftah_alsaltany_aldorai",
     "description": "المصحف المرتل برواية أبي عمر الدوري عن الكسائي بصوت المقرئ مفتاح السلطني",
     "isVerified": true,
-    "order": 173
+    "order": 172
   },
   {
     "id": "alabdullah_kisai",
@@ -2073,7 +2060,7 @@
     "backupUrl": "https://backup.qurango.net/radio/mohammad_alabdullah_aldorai",
     "description": "المصحف المرتل برواية الدوري عن الإمام الكسائي الكوفي",
     "isVerified": true,
-    "order": 174
+    "order": 173
   },
   {
     "id": "yasser_almazroyee_yaqoub",
@@ -2085,7 +2072,7 @@
     "backupUrl": "https://backup.qurango.net/radio/yasser_almazroyee",
     "description": "المصحف المرتل بقراءة الإمام يعقوب الحضرمي بروايتي رويس وروح بصوت الشيخ ياسر المزروعي",
     "isVerified": true,
-    "order": 175
+    "order": 174
   },
   {
     "id": "al_oosi",
@@ -2096,7 +2083,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/abdulrahman-oosi/r1/{surah3}.mp3",
     "description": "تلاوات خاشعة وندية تأسر القلوب بصوت القارئ عبد الرحمن العوسي",
     "isVerified": true,
-    "order": 176,
+    "order": 175,
     "backupUrl": "https://archive.org/metadata/lifeways11_gmail_001_20180215_2148",
     "surahCount": 114
   },
@@ -2109,7 +2096,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/raad-kurdi/r1/{surah3}.mp3",
     "description": "تلاوات خاشعة ومؤثرة بصوت القارئ رعد الكردي",
     "isVerified": true,
-    "order": 177,
+    "order": 176,
     "backupUrl": "https://archive.org/metadata/raad-mohammad-al-kurdi_202607",
     "surahCount": 98
   },
@@ -2122,7 +2109,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/wadee-yamani/r1/{surah3}.mp3",
     "description": "المصحف المرتل برواية حفص عن عاصم بصوت القارئ وديع اليمني",
     "isVerified": true,
-    "order": 178,
+    "order": 177,
     "surahCount": 114
   },
   {
@@ -2134,7 +2121,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/abdullah-kamel/r1/{surah3}.mp3",
     "description": "تلاوات خاشعة ومبكية بصوت القارئ الشيخ عبد الله كامل رحمه الله",
     "isVerified": true,
-    "order": 179,
+    "order": 178,
     "surahCount": 114
   },
   {
@@ -2146,54 +2133,8 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/muhammad-muhaisni/r1/{surah3}.mp3",
     "description": "تلاوات خاشعة وصلوات التراويح والقيام بصوت الشيخ محمد المحيسني",
     "isVerified": true,
-    "order": 180,
+    "order": 179,
     "surahCount": 114
-  },
-  {
-    "id": "saleh_altaleb",
-    "name": "الشيخ صالح آل طالب",
-    "category": "reciters",
-    "badge": "إمام الحرم المكي",
-    "country": "السعودية",
-    "streamUrl": "https://cdn.mp3quran.net/audio/saleh-talib/r1/{surah3}.mp3",
-    "description": "تلاوات صلوات الحرم المكي الشريف بصوت الشيخ صالح آل طالب",
-    "isVerified": true,
-    "order": 181,
-    "surahCount": 32,
-    "surahList": [
-      1,
-      25,
-      34,
-      38,
-      39,
-      44,
-      45,
-      46,
-      47,
-      55,
-      56,
-      57,
-      58,
-      59,
-      60,
-      61,
-      70,
-      72,
-      73,
-      74,
-      75,
-      76,
-      77,
-      78,
-      79,
-      80,
-      81,
-      82,
-      83,
-      84,
-      85,
-      86
-    ]
   },
   {
     "id": "salman_alotaibi",
@@ -2204,7 +2145,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/salman-otaibi/r1/{surah3}.mp3",
     "description": "تلاوات خاشعة ومميزة بصوت القارئ سلمان العتيبي",
     "isVerified": true,
-    "order": 182,
+    "order": 180,
     "backupUrl": "https://archive.org/metadata/salmanalotaibiQuran",
     "surahCount": 75,
     "surahList": [
@@ -2294,7 +2235,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/abdulaziz-zahrani/r1/{surah3}.mp3",
     "description": "تلاوات ندية ومصاحف مرتلة بصوت القارئ عبد العزيز الزهراني",
     "isVerified": true,
-    "order": 183,
+    "order": 181,
     "surahCount": 114
   },
   {
@@ -2306,7 +2247,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/abdulwali-arkani/r1/{surah3}.mp3",
     "description": "المصحف المرتل برواية حفص عن عاصم بصوت القارئ عبد الولي الأركاني",
     "isVerified": true,
-    "order": 184,
+    "order": 182,
     "backupUrl": "https://archive.org/metadata/Abdulwali-Al-Arkani",
     "surahCount": 114
   },
@@ -2319,7 +2260,7 @@
     "streamUrl": "https://qurango.net/radio/zaki_daghistani",
     "description": "تلاوات حجازية مميزة ونادرة بصوت شيخ قراء مكة زكي داغستاني رحمه الله",
     "isVerified": true,
-    "order": 185,
+    "order": 183,
     "backupUrl": "https://qurango.net/radio/zaki_daghistani"
   },
   {
@@ -2331,7 +2272,7 @@
     "streamUrl": "https://qurango.net/radio/khalid_abdulkafi",
     "description": "المصحف المرتل برواية حفص عن عاصم بصوت القارئ خالد عبد الكافي",
     "isVerified": true,
-    "order": 186,
+    "order": 184,
     "backupUrl": "https://qurango.net/radio/khalid_abdulkafi"
   },
   {
@@ -2343,7 +2284,7 @@
     "streamUrl": "https://qurango.net/radio/sahl_yassin",
     "description": "المصحف المرتل برواية حفص عن عاصم بصوت القارئ سهل ياسين",
     "isVerified": true,
-    "order": 187,
+    "order": 185,
     "backupUrl": "https://qurango.net/radio/sahl_yassin"
   },
   {
@@ -2355,7 +2296,7 @@
     "streamUrl": "https://qurango.net/radio/jamal_shaker_abdullah",
     "description": "تلاوات مرتلة برواية حفص عن عاصم بصوت الشيخ جمال شاكر عبد الله",
     "isVerified": true,
-    "order": 188,
+    "order": 186,
     "backupUrl": "https://qurango.net/radio/jamal_shaker_abdullah"
   },
   {
@@ -2367,7 +2308,7 @@
     "streamUrl": "https://qurango.net/radio/ahmad_alhawashi",
     "description": "صلوات القيام والتراويح وتلاوات خاشعة بصوت الشيخ أحمد الحواشي رحمه الله",
     "isVerified": true,
-    "order": 189,
+    "order": 187,
     "backupUrl": "https://qurango.net/radio/ahmad_alhawashi"
   },
   {
@@ -2379,7 +2320,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/ahmad-hudhaifi/r1/{surah3}.mp3",
     "description": "تلاوات صلوات المسجد النبوي الشريف بصوت الشيخ د. أحمد الحذيفي",
     "isVerified": true,
-    "order": 190,
+    "order": 188,
     "surahCount": 110,
     "surahList": [
       1,
@@ -2503,7 +2444,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/muhammad-khalil/r1/{surah3}.mp3",
     "description": "تلاوات صلوات المسجد النبوي ومسجد قباء بصوت الشيخ محمد خليل القارئ رحمه الله",
     "isVerified": true,
-    "order": 191,
+    "order": 189,
     "surahCount": 114
   },
   {
@@ -2515,7 +2456,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/yasser-salama/r1/{surah3}.mp3",
     "description": "تلاوات حدر وتلاوات مرتلة سريعة للمراجعة والتدبر بصوت الشيخ ياسر سلامة",
     "isVerified": true,
-    "order": 192,
+    "order": 190,
     "surahCount": 114
   },
   {
@@ -2527,7 +2468,7 @@
     "streamUrl": "https://qurango.net/radio/yasser_alqurashi",
     "description": "تلاوات عطرة خاشعة بصوت القارئ الشيخ ياسر القرشي برواية حفص عن عاصم",
     "isVerified": true,
-    "order": 193,
+    "order": 191,
     "backupUrl": "https://qurango.net/radio/yasser_alqurashi"
   },
   {
@@ -2539,7 +2480,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/peshawa-kurdi/r1/{surah3}.mp3",
     "description": "تلاوات ندية خاشعة تأسر القلوب بصوت القارئ بيشةوا قادر الكردي",
     "isVerified": true,
-    "order": 194,
+    "order": 192,
     "surahCount": 114
   },
   {
@@ -2551,7 +2492,7 @@
     "streamUrl": "https://qurango.net/radio/mousa_bilal",
     "description": "تلاوات متقنة ومجودة بصوت المقرئ الشيخ موسى بلال",
     "isVerified": true,
-    "order": 195,
+    "order": 193,
     "backupUrl": "https://backup.qurango.net/radio/mousa_bilal"
   },
   {
@@ -2563,7 +2504,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/younes-souilass/r1/{surah3}.mp3",
     "description": "المصحف المرتل برواية ورش عن نافع بصوت القارئ المغربي يونس اسويلص",
     "isVerified": true,
-    "order": 196,
+    "order": 194,
     "surahCount": 65,
     "surahList": [
       1,
@@ -2642,7 +2583,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/ahmad-nufais/r1/{surah3}.mp3",
     "description": "تلاوات صلوات القيام والتراويح بصوت القارئ الكويتي بدر النفيس",
     "isVerified": true,
-    "order": 197,
+    "order": 195,
     "surahCount": 114
   },
   {
@@ -2654,20 +2595,8 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/faisal-hajri/r1/{surah3}.mp3",
     "description": "المصحف المرتل بصوت القارئ الكويتي فيصل الهاجري",
     "isVerified": true,
-    "order": 198,
+    "order": 196,
     "surahCount": 114
-  },
-  {
-    "id": "bilal_derbali",
-    "name": "الشيخ بلال دربالي",
-    "category": "reciters",
-    "badge": "تلاوات خاشعة",
-    "country": "تونس",
-    "streamUrl": "https://archive.org/metadata/20230825_20230825_0142",
-    "description": "تلاوات خاشعة على الطريقة التونسية والمغاربية بصوت القارئ بلال دربالي",
-    "isVerified": true,
-    "order": 199,
-    "backupUrl": "https://archive.org/metadata/20240301_308"
   },
   {
     "id": "asim_alluhaidan",
@@ -2678,7 +2607,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/muhammad-luhaidan/r1/{surah3}.mp3",
     "description": "تلاوات خاشعة ومميزة بصوت القارئ عاصم اللحيدان",
     "isVerified": true,
-    "order": 200,
+    "order": 197,
     "surahCount": 114
   },
   {
@@ -2690,7 +2619,7 @@
     "streamUrl": "https://qurango.net/radio/hitham_aljadani",
     "description": "تلاوات ندية خاشعة ومؤثرة بصوت القارئ الشيخ هيثم الجدعاني",
     "isVerified": true,
-    "order": 201,
+    "order": 198,
     "backupUrl": "https://backup.qurango.net/radio/hitham_aljadani"
   },
   {
@@ -2702,7 +2631,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/okasha-kameny/r2/{surah3}.mp3",
     "description": "تلاوات بالقراءات والروايات القرآنية المتواترة بصوت الشيخ عكاشة كميني",
     "isVerified": true,
-    "order": 202,
+    "order": 199,
     "backupUrl": "https://archive.org/metadata/Okasha-Kameny",
     "surahCount": 114
   },
@@ -2715,7 +2644,7 @@
     "streamUrl": "https://qurango.net/radio/yousef_alshoaey",
     "description": "تلاوات مباركة ومتقنة بصوت القارئ الشيخ يوسف الشويعي",
     "isVerified": true,
-    "order": 203,
+    "order": 200,
     "backupUrl": "https://qurango.net/radio/yasser_alqurashi"
   },
   {
@@ -2727,7 +2656,7 @@
     "streamUrl": "https://qurango.net/radio/yousef_bin_noah_ahmad",
     "description": "تلاوات هادئة وخاشعة بصوت القارئ الشيخ يوسف بن نوح أحمد",
     "isVerified": true,
-    "order": 204,
+    "order": 201,
     "backupUrl": "https://qurango.net/radio/yousef_bin_noah_ahmad"
   },
   {
@@ -2739,7 +2668,7 @@
     "streamUrl": "https://qurango.net/radio/jamaan_alosaimi",
     "description": "تلاوات عطرة برواية حفص عن عاصم بصوت القارئ جمعان العصيمي",
     "isVerified": true,
-    "order": 205,
+    "order": 202,
     "backupUrl": "https://qurango.net/radio/jamaan_alosaimi"
   },
   {
@@ -2751,7 +2680,7 @@
     "streamUrl": "https://qurango.net/radio/abdulmohsin_alharthy",
     "description": "تلاوات ندية مباركة بصوت القارئ الشيخ عبد المحسن الحارثي",
     "isVerified": true,
-    "order": 206,
+    "order": 203,
     "backupUrl": "https://qurango.net/radio/abdulmohsin_alharthy"
   },
   {
@@ -2763,7 +2692,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/abdullah-ghailan/r1/{surah3}.mp3",
     "description": "المصحف المرتل بصوت القارئ الشيخ عبد الله غيلان",
     "isVerified": true,
-    "order": 207,
+    "order": 204,
     "surahCount": 114
   },
   {
@@ -2775,7 +2704,7 @@
     "streamUrl": "https://qurango.net/radio/abdulmohsin_alobaikan",
     "description": "تلاوات متقنة ومصحف مرتل بصوت الشيخ عبد المحسن العبيكان",
     "isVerified": true,
-    "order": 208,
+    "order": 205,
     "backupUrl": "https://backup.qurango.net/radio/abdulmohsin_alobaikan"
   },
   {
@@ -2787,7 +2716,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/noreen-siddiq/r1/{surah3}.mp3",
     "description": "تلاوات خاشعة فريدة ومؤثرة برواية الدوري عن أبي عمرو بصوت الشيخ نورين محمد صديق رحمه الله",
     "isVerified": true,
-    "order": 209,
+    "order": 206,
     "backupUrl": "https://backup.qurango.net/radio/mohammad_alabdullah",
     "surahCount": 114
   },
@@ -2800,7 +2729,7 @@
     "streamUrl": "https://qurango.net/radio/mohammad_abdullkarem",
     "description": "المصحف المرتل برواية حفص عن عاصم بصوت القارئ محمد العبد الكريم",
     "isVerified": true,
-    "order": 210,
+    "order": 207,
     "backupUrl": "https://qurango.net/radio/mohammad_abdullkarem"
   },
   {
@@ -2812,7 +2741,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/anas-emadi/r1/{surah3}.mp3",
     "description": "تلاوات ندية ومصاحف مرتلة بصوت القارئ البحريني أنس العمادي",
     "isVerified": true,
-    "order": 211,
+    "order": 208,
     "surahCount": 114
   },
   {
@@ -2824,21 +2753,8 @@
     "streamUrl": "https://qurango.net/radio/abdullah_almousa",
     "description": "تلاوات عذبة ومؤثرة تأسر القلوب بصوت القارئ الشيخ عبد الله الموسى",
     "isVerified": true,
-    "order": 212,
+    "order": 209,
     "backupUrl": "https://backup.qurango.net/radio/abdullah_almousa"
-  },
-  {
-    "id": "mohammad_saleh_alim_shah",
-    "name": "الشيخ محمد صالح عالم شاه",
-    "category": "reciters",
-    "badge": "تلاوات تاريخية نادرة",
-    "country": "اليمن",
-    "streamUrl": "https://cdn.mp3quran.net/audio/muhammad-shah/r1/{surah3}.mp3",
-    "description": "تلاوات متقنة بصوت ندي عذب بصوت القارئ الشيخ محمد صالح عالم شاه",
-    "isVerified": true,
-    "order": 213,
-    "backupUrl": "https://archive.org/metadata/001_20220818_20220818_0739",
-    "surahCount": 114
   },
   {
     "id": "hussain_alshaikh",
@@ -2849,7 +2765,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/hussain-sheikh/r1/{surah3}.mp3",
     "description": "تلاوات صلوات المسجد النبوي الشريف بصوت إمام المسجد النبوي حسين آل الشيخ",
     "isVerified": true,
-    "order": 214,
+    "order": 210,
     "surahCount": 59,
     "surahList": [
       2,
@@ -2922,7 +2838,7 @@
     "streamUrl": "https://archive.org/metadata/Makkah_Tarawih_1425",
     "description": "تسجيلات صلوات التراويح والتهجد من المسجد الحرام بمكة المكرمة لفضيلة الشيخين عبد الرحمن السديس وسعود الشريم",
     "isVerified": true,
-    "order": 215,
+    "order": 211,
     "backupUrl": "https://archive.org/metadata/zdwsiy2018_z"
   },
   {
@@ -2934,7 +2850,7 @@
     "streamUrl": "https://archive.org/metadata/Madinah_Tarawih_1423",
     "description": "تسجيلات صلوات التراويح والتهجد من المسجد النبوي الشريف بالمدينة المنورة",
     "isVerified": true,
-    "order": 216,
+    "order": 212,
     "backupUrl": "https://archive.org/metadata/all_traweeh_madinah__32k1346134613461346134613461346b"
   },
   {
@@ -2946,7 +2862,7 @@
     "streamUrl": "https://qurango.net/radio/albaqarah",
     "description": "بث متواصل لسورة البقرة على مدار 24 ساعة بأصوات نخبة من كبار القراء",
     "isVerified": true,
-    "order": 217,
+    "order": 213,
     "backupUrl": "https://qurango.net/radio/albaqarah"
   },
   {
@@ -2958,7 +2874,7 @@
     "streamUrl": "https://qurango.net/radio/roqiah",
     "description": "بث متواصل للرقية الشرعية من الكتاب والسنة النبوية لتحصين النفس والبيت",
     "isVerified": true,
-    "order": 218,
+    "order": 214,
     "backupUrl": "https://qurango.net/radio/albaqarah"
   },
   {
@@ -2970,7 +2886,7 @@
     "streamUrl": "https://cdn.mp3quran.net/audio/muhammad-minshawi/r3/{surah3}.mp3",
     "description": "إذاعة تعليمية لترديد آيات القرآن الكريم للأطفال والناشئة لضبط الحفظ والتجويد (الشيخ محمد صديق المنشاوي مع الأطفال)",
     "isVerified": true,
-    "order": 219,
+    "order": 215,
     "backupUrl": "https://server15.mp3quran.net/a-rushdi/Almusshaf-Al-Mo-lim/{surah3}.mp3",
     "surahCount": 114
   }
